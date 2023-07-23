@@ -1,17 +1,16 @@
-# osu! wiki
+# osu! wiki Italian Edition
+Home of the osu!wiki Italian Translators
 
-[![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
+## Useful links
+[General discussion with the rest of the translators](discord.gg/VbkwSZzqSy)
 
-Home of the [osu! wiki](https://osu.ppy.sh/wiki).
+[Original ReadME](https://github.com/ppy/osu-wiki#osu-wiki)
 
-## Contributing
+## How to use this repo
+This repo is used as an issue tracker with [Github Projects](https://github.com/orgs/osu-italy/projects/3).  
+This is repo is **NOT** where the PRs should be made. Please make them to the mainstream repo directly.
 
-Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
-
-## Licence
-
-The majority of content in this repository is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Please see [the licence file](LICENCE.md) for more information. [tl;dr](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0)) you can use it in a non-commercial manner.
-
-As this is a wiki, there may be content with third party licences. These licences will be cited local to the content, and override the global licence file.
-
-Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
+## Glossary
+| Word | Common Translation |
+| :-- | :-- |
+| `Hit objects` | `Note` or `Oggetti da colpire` |
