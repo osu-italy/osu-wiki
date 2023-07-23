@@ -2,7 +2,7 @@
 Home of the osu!wiki Italian Translators
 
 ## Useful links
-[General discussion with the rest of the translators](discord.gg/VbkwSZzqSy)
+[General discussion with the rest of the translators](https://discord.gg/VbkwSZzqSy)
 
 [Original ReadME](https://github.com/ppy/osu-wiki#osu-wiki)
 
