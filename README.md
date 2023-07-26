@@ -7,8 +7,8 @@ Home of the osu! wiki Italian Translators
 [Original README](https://github.com/ppy/osu-wiki#osu-wiki)
 
 ## How to use this repo
-This repo is used as an issue tracker with [Github Projects](https://github.com/orgs/osu-italy/projects/3).  
-This is repo is **NOT** where the PRs should be made. Please make them to the mainstream repo directly.
+This repo is used only as an issue tracker with [Github Projects](https://github.com/orgs/osu-italy/projects/3) and a glossary for common words used in our translations.  
+This repo is **NOT** where the PRs should be made. Please make them to the mainstream repo directly.
 
 ## Glossary
 | Word | Common Translation | Area |
