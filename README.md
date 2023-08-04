@@ -24,6 +24,7 @@ This repo is **NOT** where the PRs should be made. Please make them to the mains
 | `Loved maps` | `Mappe amate` |  Beatmaps |
 | `Ranking criteria` | `Criteri di classificazione` |  Beatmaps |
 | `Guest difficulty` | `Difficoltà ospiti` | Beatmaps |
+| `Nomination` | `Nomina` | Beatmaps |
 | `Beat snap divisor` | `Divisore di battuta` | Beatmap editor |
 | `Stack leniency` | `Tolleranza di sovrapposizione` | Beatmap editor |
 | `Distance snap` | `Distanza fissata` | Beatmap editor |
