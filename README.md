@@ -35,6 +35,7 @@ This repo is **NOT** where the PRs should be made. Please make them to the mains
 | `Drain time` | `Tempo di gioco` |  Difficulty |
 | `Difficulty spread` | `Distribuzione di difficoltà` | Difficulty |
 | `HP/Health bar` | `Barra della vita` | Gameplay |
+| `Epilepsy warning` | `Annuncio sull'epilessia` | Gameplay |
 | `Hit objects` | `Note` or `Oggetti da colpire` | Objects |
 | `Hitcircle` | `Cerchio` | Objects (std) |
 | `Juice stream` | `Fiume di succo` | Objects (ctb) |
