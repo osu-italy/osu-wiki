@@ -1,16 +1,12 @@
 # Upgrading to lazer
 
-*Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
-
 osu!(lazer) is the next major update to the game. It is the culmination of several years of work behind the scenes to painstakingly reimplement the game.
 
-The eventual goal is that this version will be released as an update which will completely supersede the existing stable version of the game, but there's still some work to be done before that is feasible. At the end of the day, **the players** will dictate when this happens and we will continue to support the previous release until users have migrated across.
+While this version brings many new features not found in osu!(stable), there are still some features unique to each client. In the meantime, **the players** can choose what version they'd like to play, and they will dictate for how long we will continue to support the previous release.
 
 "lazer" is a codename and will eventually be dropped as it becomes the primary release of the game. The rest of this document will refer to osu!(lazer) as "lazer" and osu!(stable) as "stable" for simplicity.
 
 ## Feature comparison
-
-*For a list of differences regarding game mechanics, see [Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
 
 The following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target — the end goal is to implement all the features that players care about over time.
 
@@ -35,7 +31,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Song select grouping modes | ![Yes][true] | ![No][false] |
+| Song select grouping modes | ![Yes][true] | ![Yes][true] |
 | In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
 | Dynamic customisable skinning components | ![No][false] | ![Yes][true] |
 
@@ -71,11 +67,11 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Score submission | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Beatmap leaderboards | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Score submission | ![Yes][true] | ![Yes][true] |
+| Beatmap leaderboards | ![Yes][true] | ![Yes][true] |
 | Profile statistics | ![Yes][true] | ![Yes][true] |
-| Medals | ![Yes][true] | ![No][false] |
-| Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Medals | ![Partial][partial][^medals-stable] | ![Partial][partial][^medals-lazer] |
+| Performance points | ![Yes][true] | ![Yes][true] |
 | Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
 | Wiki / news / changelog / rankings | ![No][false] | ![Yes][true][^online-content] |
 | User profiles | ![No][false] | ![Yes][true] |
@@ -84,9 +80,11 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Multiplayer spectating | ![No][false] | ![Yes][true] |
 | Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
 | Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
+| Multiplayer freestyle | ![No][false] | ![Yes][true][^freestyle] |
 | Multiplayer commands | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
+| Ranked play | ![No][false] | ![Yes][true] |
 | Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
@@ -99,19 +97,327 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
 | Open difficulty as reference | ![Yes][true] | ![No][false] |
 | Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Custom hitsound sample sets | ![Yes][true] | ![Yes][true] |
 | Per-segment slider curve types | ![No][false] | ![Yes][true] |
 | Slider splitting and merging | ![No][false] | ![Yes][true] |
-| Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Pattern rotation | ![Yes][true] | ![Yes][true] |
 | Pattern resizing | ![No][false] | ![Yes][true] |
-| Beatmap submission | ![Yes][true] | ![No][false] |
+| Beatmap submission | ![Yes][true] | ![Yes][true] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
-| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Cross-compatibility | ![Yes][true] | ![Yes][true] |
+
+## Gameplay differences
+
+### General
+
+#### The Easy mod no longer pauses gameplay when recovering from failure
+
+Instead of pausing gameplay while filling up the health bar, health is restored immediately.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+#### Differences in grading systems
+
+In stable, the accuracy (and judgement) requirements for each [grade](/wiki/Gameplay/Grade) are as follows:
+
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | 100% |
+| S | >90% GREATs/300s (≤1% MEHs/50s, no misses) | >98% | >95% |
+| A | >80% GREATs/300s (no misses) or >90% GREATs/300s | >94% | >90% |
+| B | >70% GREATs/300s (no misses) or >80% GREATs/300s | >90% | >80% |
+| C | >60% GREATs/300s | >85% | >70% |
+
+Meanwhile, osu!(lazer) has these accuracy cutoffs now:
+
+| Grade | osu! / osu!taiko | osu!catch | osu!mania |
+| :-: | :-- | :-- | :-- |
+| SS | 100% | 100% | all [judgements](/wiki/Gameplay/Judgement/osu!mania) GREAT or PERFECT |
+| S | ≥95% (no misses) | ≥98% | ≥95% |
+| A | ≥90% | ≥94% | ≥90% |
+| B | ≥80% | ≥90% | ≥80% |
+| C | ≥70% | ≥85% | ≥70% |
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Differences in scoring
+
+Scoring in lazer will use a system similar to ScoreV2, with all ScoreV1 scores converted into the new system.
+
+There are two interchangeable display modes for scores: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers (similarly to ScoreV2), while classic scoring is the same as standardised, but scaled quadratically with the amount of hit objects in a beatmap (similar to ScoreV1). These can be selected from the settings, with all places where score is displayed in-game changing accordingly.
+
+There are also some differences in how much score each hit object and each judgement is responsible for relative to each other.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
+
+#### Storyboard triggers are not implemented
+
+Some storyboards feature elements that react to player input or health.
+
+![](img/sb-triggers.gif)
+
+### osu!
+
+#### Notelock has been adjusted to be more lenient
+
+![](img/notelock.gif)
+
+Recovering from a miss in dense patterns has been made easier.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Slider head circles require accuracy when hitting
+
+![](img/slideracc.gif)
+
+Until lazer, sliders have only required the accuracy of a 50/MEH judgement to reward a perfect score. This was done for historic reasons, but feels bad for a rhythm game. Going forward, sliders will require hit accuracy for their initial click.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Slider heads are more lenient
+
+When clicking a slider early, the follow circle will now immediately start in a tracking state even if the cursor leaves the slider ball before the slider starts.
+
+![](img/slider-early-leniency.gif)
+
+Additionally, when clicking a slider late, any ticks or repeats that have already passed will be judged as completed.
+
+![](/wiki/shared/news/2023-12-18-osulazer-updates-preparing-for-ranked-play/slider-late-leniency.jpg)
+
+See [this YouTube video](https://www.youtube.com/watch?v=xTRwM3zhhj0&t=243s) for a detailed explanation.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Slider end leniency is now more lenient
+
+On very fast sliders, you now only need to be tracking somewhere in the last 36 ms, rather than at the point 36 ms before the slider end.
+
+See [this YouTube video](https://www.youtube.com/watch?v=SlWKKA-ltZY) for a detailed explanation.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Missing a slider head causes a miss
+
+Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to get scores with low max combo while technically having no misses.
+
+In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks, repeats, and ends.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Slider ends do not cause hitsounds when not hit
+
+In stable, slider ends would play their hitsounds even if they were missed, as long as any part of the slider was hit. This has been changed such that hitsounds match inputs 1:1.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![No][false] |
+| Revertable using the Classic mod | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### The spinner spin speed cap of 477 RPM has been removed
+
+Instead of a speed cap, spinners now have a score cap determined by the total amount of rotations that can be achieved by spinning the entire spinner at a certain RPM depending on OD.
+
+This means that the maximum score can be obtained early by spinning faster, with no more points awarded afterwards for the rest of the spinner duration.
+
+The RPM required to get the maximum score is as follows:
+
+| OD | RPM |
+| --: | --: |
+| 0 | 250 |
+| 5 | 380 |
+| 10 | 430 |
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
+
+#### Aspire-like glitched sliders are not supported
+
+![](img/aspire-slider.gif)
+
+Some adventurous beatmaps exploit glitches in the stable client that allowed for very weird slider mechanics. These range from zero-length sliders acting as invisible circles, to cross-screen stretched and squished sliders.
+
+More discussion and consideration will be needed for how much of Aspire beatmaps will be compatible going forward. For example, invisible circles might become a properly supported feature in the future.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+### osu!taiko
+
+#### Notes that overlap swells cannot be hit
+
+Some gimmick maps make use of notes that overlap swells.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+#### Drumrolls do not prevent mashing
+
+In stable, drumrolls could not be hit too quickly or too slowly. This restriction has been lifted, just like in ScoreV2.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
+
+#### The Flashlight centre is aligned with the hit receptor
+
+<!-- TODO: comparison image  -->
+
+In stable, the Flashlight centre is offset a bit down and to the right, making more hit objects visible.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+### osu!catch
+
+#### Hyperdash generation can be different in some cases
+
+This may lead to inaccurate judgements in replays and increased difficulty.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+#### Juice stream generation can be different in some cases
+
+This may lead to inaccurate judgements in replays.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
+
+### osu!mania
+
+#### Hold note heads and tails give judgements
+
+This functions similarly to ScoreV2 in stable.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Hold note ticks are removed
+
+In stable, hold notes give combo every 100 ms, while in lazer "hold note ticks" gave combo every tick interval.
+
+None of those exist in lazer, meaning hold notes only give combo for the start and the end. However, just like in stable, combos break immediately when letting go of sliders.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### Extreme scroll speeds are limited
+
+<!-- TODO: how exactly -->
+
+Some beatmaps with SV gimmicks like teleports or stops do not look as intended, but are otherwise playable.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![Yes][true] |
+
+#### The PERFECT judgement hit window scales with OD
+
+This used to be a constant ±16 ms regardless of overall difficulty.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![Yes][true] |
+| Revertable using the Classic mod | ![Yes][true] |
+| Intentionally changed | ![Yes][true] |
+| Needs further consideration | ![No][false] |
+
+#### The Flashlight mod does not have a gradient
+
+![](img/mania-flashlight.gif)
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | ![No][false] |
+| Revertable using the Classic mod | ![No][false] |
+| Intentionally changed | ![No][false] |
+| Needs further consideration | ![Yes][true] |
 
 ## Switching to lazer
 
 So you've decided you want to give lazer a shot? Great!
 
-You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting) and find the download link on the osu! website.
+You can find it for download [here](https://osu.ppy.sh/home/download). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting).
 
 ## FAQ
 
@@ -153,17 +459,17 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 #### If I set a score on lazer, will it show on my profile?
 
-Scores will show under "recently played" but not in "best performance" yet.
+Yes, but it won't show in "best performance" with "lazer mode" turned off on the website.
+
+It additionally doesn't show in "first place ranks" regardless for now.
 
 #### If I set a score on lazer, will it give performance points?
 
-The "recently played" section of profile pages shows scores set in lazer with performance points calculated, and the total amount can be seen when hovering over the regular performance point total.
-
-Additionally, [lazer.ppy.sh](https://lazer.ppy.sh/home), an experimental instance of the osu! website, shows all totals and rankings with lazer scores accounted for.
+Yes.
 
 #### Does lazer use ScoreV2?
 
-Yes, it uses a scoring system based on it with some adjustments. ScoreV1 scores will be converted in the near future.
+It uses a scoring system based on it with some adjustments.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -171,17 +477,64 @@ Yes, it uses a scoring system based on it with some adjustments. ScoreV1 scores 
 
 You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
+Global score leaderboards will also use classic scoring.
+
 #### If I set a score on lazer, will it remain forever?
 
-While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
+While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset of scores in order to preserve game balance, such as when exploits or foul play are discovered.
 
-#### Will scores set on stable eventually show in lazer?
+#### Will scores set on stable show in lazer?
 
-Yes. Once we finish balancing the combination of lazer and stable scores, both will be visible.
+Yes.
+
+#### Will scores set in lazer show in stable?
+
+Not at the moment.
 
 #### Will all mods be ranked?
 
-For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
+Scores of all mod combinations appear on leaderboards.
+
+However, only the following mods will award performance points for now:
+
+*Only the **default configuration** of customisation options is eligible for performance points, unless otherwise noted.*
+
+- Difficulty reduction
+  - Easy
+  - No Fail
+  - Half Time (Configuring `Adjust pitch` is allowed)
+  - Daycore
+- Difficulty Increase
+  - Hard Rock (Not for osu!mania)
+  - Sudden Death (All customisation options are allowed)
+  - Perfect (All customisation options are allowed)
+  - Double Time (Configuring `Adjust pitch` is allowed)
+  - Nightcore
+  - Fade In (osu!mania only)
+  - Hidden
+  - Traceable (osu! only)
+  - Cover (osu!mania only, all customisation options are allowed)
+  - Flashlight
+  - Blinds (osu! only)
+  - Accuracy Challenge (All customisation options are allowed)
+- Automation
+  - Spun Out (osu! only)
+- Conversion
+  - Alternate (osu! only)
+  - Swap (osu!taiko only)
+  - Single Tap (osu! & osu!taiko only)
+  - Mirror (osu!mania only)
+  - Four Keys (osu!mania only)
+  - Five Keys (osu!mania only)
+  - Six Keys (osu!mania only)
+  - Seven Keys (osu!mania only)
+  - Eight Keys (osu!mania only)
+  - Nine Keys (osu!mania only)
+- Fun
+  - Muted (All customisation options are allowed)
+  - No Scope (osu! & osu!catch only, all customisation options are allowed)
+- System
+  - Touch Device
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
@@ -251,7 +604,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+If you need to make changes to a beatmap, please use the in-game beatmap editor. To access the raw files for a beatmap set, you can use the **Edit externally** option under the **File** menu.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 
@@ -276,7 +629,7 @@ The same way you usually would.
 
 You're likely thinking of another game.
 
-### Notes
+## Notes
 
 [^wine]: Using Wine.
 [^compatibility-mode]: DirectX via compatibility mode.
@@ -290,8 +643,6 @@ You're likely thinking of another game.
 [^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
 [^can-disable]: Can be disabled.
 [^note-lock]: Still exists, but should not interfere.
-[^score-reset-balance]: Scores will be reset to ensure balance.
-[^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
 [^online-content]: Native access to most online content.
 [^direct-supporter]: Via osu!direct, osu!supporter-only.
 [^supporter]: osu!supporter-only.
@@ -299,13 +650,14 @@ You're likely thinking of another game.
 [^multi-room-max]: 16 players max.
 [^map-only]: Map only.
 [^all-files]: All files.
-[^editor-precise-rotation]: Missing precise angle rotation.
-[^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Messages can take up to 15 seconds to arrive.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+[^freestyle]: Turn on in song select to allow players to select any difficulty of the current beatmap.
 [^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select via the Difficulty Adjust mod.
+[^medals-lazer]: Some [Hush-Hush medals](/wiki/Medals#hush-hush) are not yet obtainable.
+[^medals-stable]: Certain medals are lazer-exclusive.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png

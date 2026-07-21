@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Morimori Atsushi"
 date: 2020-10-21 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Morimori Atsushi** aboard as our latest Featured Artist!
@@ -60,7 +61,7 @@ Check out [this popular osu! set](https://osu.ppy.sh/beatmapsets/557039) hosted 
 
 All of the above plus so many more are available right now from [**Morimori Atsushi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/108), timed for your convenience and 100% ready for your mapping mettle. Newbies to the craft should definitely check him out!
 
-As an extra note, during the licensing process, we were informed that a few tracks present in user submissions were subject to exclusive usage agreements geared towards other projects, which means that the artist unfortunately did not have the rights to re-license those tracks with us. 
+As an extra note, during the licensing process, we were informed that a few tracks present in user submissions were subject to exclusive usage agreements geared towards other projects, which means that the artist unfortunately did not have the rights to re-license those tracks with us.
 
 At his request, we've removed said tracks as per our [copyright policy](https://osu.ppy.sh/legal/copyright), and would like to remind mappers to ensure that they have all the appropriate usage rights when uploading beatmaps. All tracks on any Featured Artist listing are *always* totally safe to use in osu!, so those who start working with FA tracks have absolutely nothing to worry about in this regard.
 

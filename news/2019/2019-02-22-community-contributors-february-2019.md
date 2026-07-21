@@ -2,6 +2,7 @@
 layout: post
 title: "Community Contributors: February 2019"
 date: 2019-02-22 07:30:00 +0000
+series: miscellaneous
 ---
 
 At its very heart, osu! is almost entirely driven by its community. And at the heart of our community, the efforts of an outstanding few make themselves known. Today, we take a moment to reflect on some of these people, and award them the recognition they deserve.
@@ -202,7 +203,7 @@ Noted specifically as one of the few developers brave enough to delve into the c
 
 ---
 
-As mentioned in previous years, we cannot really stress just how important community contribution is to the future of osu! as a whole. 
+As mentioned in previous years, we cannot really stress just how important community contribution is to the future of osu! as a whole.
 
 Unlike many other game projects on the web, much of what drives osu! originates almost wholly from its community, meaning that individual people can have a **massive** influence in making the game awesome for everybody else.
 

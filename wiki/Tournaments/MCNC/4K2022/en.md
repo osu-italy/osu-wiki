@@ -51,8 +51,8 @@ The osu!mania 4K Chinese National Cup 2022 was run by various community members.
 
 ## Links
 
-- [Discussion thread (English)]( https://osu.ppy.sh/community/forums/topics/1567764)
-- [Discussion thread (Chinese)]( https://osu.ppy.sh/community/forums/topics/1567763)
+- [Discussion thread (English)](https://osu.ppy.sh/community/forums/topics/1567764)
+- [Discussion thread (Chinese)](https://osu.ppy.sh/community/forums/topics/1567763)
 - [Livestream](https://live.bilibili.com/2996250)
 - [Discord server](https://discord.gg/uBHK5vq)
 - [Main page](https://mcnc.crzteam.cn/home)
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 - Rice
   1. [Ariabl'eyes - Namidasou Outomata (Cut Ver.) (\[Crz\]Alleyne) \[Rachel's Lv.30(Marathon) 1.05x (189bpm)\]](https://osu.ppy.sh/beatmapsets/1827294#mania/3750023)
-  2. [Noisestorm - Antihero (Original Mix) (YuEast 2018) \[Ancient\]]( https://osu.ppy.sh/beatmapsets/1813707#mania/3720773)
+  2. [Noisestorm - Antihero (Original Mix) (YuEast 2018) \[Ancient\]](https://osu.ppy.sh/beatmapsets/1813707#mania/3720773)
   3. [Falcom Sound Team jdk - Hard Desperation (lemonguy) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/1613480#mania/3294142)
   4. [SHK- Super Fantasy (\[Crz\]xz1z1z) [Super Jacks 1.2x (174bpm)]](https://osu.ppy.sh/beatmapsets/1823684#mania/3742104)
   5. [lmperial Circus Dead Decadence - BRING+EYES=DEATH+INVITE (MintAril) \[sleet\]](https://osu.ppy.sh/beatmapsets/762130#mania/1602426)
@@ -605,7 +605,7 @@ The final standings for the Qualifiers can be found at the following [spreadshee
 4. Each player must use !roll once in #multiplayer.
    - The winner of the !roll starts picking the first beatmap of the match.
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
-5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than alloted, for the second occurrence: a random map will be chosen from the mappool using !roll X, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
+5. Players will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a player takes more time than allotted, for the second occurrence: a random map will be chosen from the mappool using !roll X, where X is the number of maps that were neither picked nor banned, excluding the Tiebreaker. Repeat offenders may receive further sanctions from the Tournament Management.
 6. Players will be given at most 3-minute pause for solving unexpected situations.
 7. Results of the Qualifiers Stage will be published via a Statistics sheet.
 

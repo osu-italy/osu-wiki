@@ -5,7 +5,7 @@ tags:
   - autopilot
   - AP
   - mod
-  - game modifiers
+  - game modifier
   - Spielmodifikation
 ---
 
@@ -13,6 +13,7 @@ tags:
 
 ![AP Modsymbol](/wiki/shared/mods/AP.png "Auto Pilot (AP) Modsymbol")
 
+*Für die [lazer-Version](/wiki/Client/Release_stream/Lazer) des Artikels, siehe: [Autopilot (lazer-Mod)](/wiki/Gameplay/Game_modifier/Autopilot_(lazer))*\
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Auto (Mod)](/wiki/Gameplay/Game_modifier/Auto).*
 

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: NIWASHI"
 date: 2022-01-05 07:00:00 +0000
+series: featured_artists
 ---
 
 **NIWASHI** swings into the Featured Artist lineup as our first artist of the year!
@@ -58,7 +59,7 @@ Try out one of these super cool maps:
 
 2022 is the year *you* learn how to map, and [**NIWASHI**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/228) is a good place to start. If you need some beginner advice, we suggest actually opening the editor instead of saying "I want to map" while never actually trying.
 
-Want more music in your circle-clicking life? The [@osugame Twitter](https://twitter.com/osugame) can help with that. New artist announcements come every Wednesday and Saturday, and our feed is the first place you'll hear about it! 
+Want more music in your circle-clicking life? The [@osugame Twitter](https://twitter.com/osugame) can help with that. New artist announcements come every Wednesday and Saturday, and our feed is the first place you'll hear about it!
 
 Generic self-promotion spiel aside, we think you'll appreciate our upcoming Featured Artists. Stay tuned for more!
 

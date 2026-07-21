@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 30adfc34244017104c315372f4c66246fde1b92e
+---
+
 # SEV 등급
 
 SEV는 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_Team) (*NAT*)에서 [노미네이션 초기화](/wiki/Beatmap_ranking_procedure#노미네이션-초기화)가 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators)(*BN*)의 평가와 얼마나 관련이 있는지 조사하기 위해 사용하는 측정 시스템으로, 투명성과 일관성을 모두 제공합니다. 이 측정은 두 가지의 값으로 나뉘어지며, *명확성/심각성*로 표시됩니다. 두 값은 0에서 2 사이의 범위로 정해지며, 직관적이고 사용하기 편한 시스템이라고 할 수 있습니다.
@@ -37,7 +42,7 @@ SEV는 [노미네이션 어세스먼트 팀](/wiki/People/Nomination_Assessment_
 
 ## 사용처
 
-SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessment_Team/Evaluations)에 사용되며, 비트맵 노미네이터의 노미네이트 횟수에 따라 가중치를 둡니다. 
+SEV 등급은 [비트맵 노미네이터 평가](/wiki/People/Nomination_Assessment_Team/Evaluations)에 사용되며, 비트맵 노미네이터의 노미네이트 횟수에 따라 가중치를 둡니다.
 
 실수는 누구나 할 수 있고, 어느 정도는 학습에 도움이 되지만, 너무 자주 발생하거나 동일한 실수가 반복되면 문제가 됩니다. 그렇기에 개별 SEV 등급에 초점을 두지 않고 사례별로 전체 상황을 고려합니다.
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Halloween 2021 Fanart Contest"
+title: Halloween 2021 Fanart Contest
 date: 2021-10-04 02:00:00 +0000
+series: fanart_contests
 ---
 
 It's that time of the year again — spooky month is upon us, and it is time to usher it in with a fanart contest of terrifying (normal) proportions!

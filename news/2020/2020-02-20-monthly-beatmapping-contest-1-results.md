@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest #1: Results"
 date: 2020-02-20 09:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 The votes are in! Find out the champions of January's Monthly Beatmapping Contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 In case you're out of the loop, the **Monthly Beatmapping Contest** (***MBC***) has been revived for a new run in 2020. Read the contest schedule and details on the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest). Got everything? Good. Onto the results!
 

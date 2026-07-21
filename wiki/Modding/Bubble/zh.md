@@ -16,7 +16,7 @@ tags:
 - [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)
 - [质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team)
 
-在[旧版审核流程](/wiki/Modding/Forum_modding)中，[原型泡泡](/wiki/Modding/Proto-bubble)系统被取代后，如果摸图团队给予了一个普通泡泡，则表示他们认为谱面已经准备好上架了。最终，另一个 BAT 或者 BN 会检查被泡过的谱面。如果需要的话，他们会稍微修改谱面，即可将谱面推至[上架](/wiki/Beatmap/Category#上架-(ranked))或者[达标](/wiki/Beatmap/Category#达标-(approved))状态。
+在[旧版审核流程](/wiki/Modding/Forum_modding)中，[原型泡泡](/wiki/Modding/Proto-bubble)系统被取代后，如果摸图团队给予了一个普通泡泡，则表示他们认为谱面已经准备好上架了。最终，另一个 BAT 或者 BN 会检查被泡过的谱面。如果需要的话，他们会稍微修改谱面，即可将谱面推至[上架](/wiki/Beatmap/Category#ranked)或者[达标](/wiki/Beatmap/Category#approved)状态。
 
 在当今的[谱面审核流程](/wiki/Beatmap_ranking_procedure)中，泡泡等于[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 给出的第一个[提名](/wiki/Beatmap_ranking_procedure#nominations)。
 
@@ -26,7 +26,7 @@ tags:
 
 泡泡最初由 ::{ flag=AU }:: [peppy](/wiki/People/peppy) 在 2007 年 10 月 29 日提出，用于“正在考虑上架游玩（等待摸图员的进一步反馈）”的谱面。他将讨论串的图标设为一个泡泡，并用于 BAT 成员表示谱面质量良好，符合[谱面上架标准 (RC)](/wiki/Ranking_criteria)。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->
 
-在 2010 年 10 月 3 日，MAT 获得了和 BAT 一样的泡图（给谱面赋予泡泡）权限。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->这基本上宣告了[原型泡泡](/wiki/Modding/Proto-bubble)系统的死亡。从那以后，两个团队都主要使用普通泡泡。
+在 2010 年 10 月 4 日，MAT 获得了和 BAT 一样的泡图（给谱面赋予泡泡）权限。<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->这基本上宣告了[原型泡泡](/wiki/Modding/Proto-bubble)系统的死亡。从那以后，两个团队都主要使用普通泡泡。
 
 在 2017 年 11 月，[谱面讨论系统](/wiki/Beatmap_discussion)全面实装并成为摸图的主要界面后，基于论坛的谱面管理控制被逐步淘汰，泡泡系统也被提名系统所取代。
 
@@ -41,8 +41,8 @@ tags:
 ### 要求
 
 - 如果谱面要收到泡泡，谱面的[优先星](/wiki/Modding/Star_priority)必须至少有 8 颗。后来，这个下限增加到 12 颗<!-- internal source: https://osu.ppy.sh/community/forums/posts/280845 -->。
-- 如果谱面要进入[上架](/wiki/Beatmap/Category#上架-(ranked))状态，则必须有一个泡泡、
-- 如果谱面要进入[达标](/wiki/Beatmap/Category#达标-(approved))状态，则必须收到来自于两个不同的 BAT 成员的泡泡。在 2017 年 6 月 2 日，这个下限减少到只需要一个泡泡<!-- internal source: https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->。
+- 如果谱面要进入[上架](/wiki/Beatmap/Category#ranked)状态，则必须有一个泡泡、
+- 如果谱面要进入[达标](/wiki/Beatmap/Category#approved)状态，则必须收到来自于两个不同的 BAT 成员的泡泡。在 2017 年 6 月 2 日，这个下限减少到只需要一个泡泡<!-- internal source: https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->。
 
 ### 戳泡
 

@@ -14,7 +14,7 @@ tags:
 
 **物件锁** (**note lock**)，是一个日常使用的术语，指的是 [osu!](/wiki/Game_mode/osu!) 为了保证玩家能顺利击打物件的游戏机制。当以下**两**种情况同时出现时，物件锁就会出现：
 
-1. 两个物件的[判定窗口](/wiki/Beatmap/Overall_difficulty#timing)有相互重叠的部分。
+1. 两个物件的[判定窗口](/wiki/Beatmap/Overall_difficulty#计时)有相互重叠的部分。
 2. 这两个物件中的第一个物件还没有判定（击中或失误）。
 
 这种情况下，其后的第二个物件会*上锁*，osu! 会忽略玩家的输入，直到当前时间点完全离开第一个物件的判定窗口。如果玩家无法操控并击打第一个物件来解除第二个物件的锁时，物件锁就会成为一个问题。并且，物件锁可能会出现多米诺骨牌效应，导致玩家在后续的物件上出现更多的失误，直到[血量](/wiki/Gameplay/Health)耗尽并失败。
@@ -33,3 +33,11 @@ tags:
 ## 预防
 
 从谱师的角度来说，他们可以根据物件密度和 BPM，来小心选取[难度](/wiki/Beatmap/Difficulty)的判定严度 (OD)，从而防止出现物件锁。对于 BPM 高于 200 的谱面来说，建议 OD 设为 5 或者更高。请参阅指南：[避免在高 BPM 下出现物件锁 (Avoiding notelock at high BPM)](https://osu.ppy.sh/community/forums/topics/334458)。
+
+## osu!(lazer) 中的物件锁
+
+与 osu!(stable) 相比，osu!(lazer) 中的物件锁变得更加宽松。这是通过显著放宽判定窗口来实现的：一旦第一个物件的偏移达到 0 毫秒，下一个物件的锁便会解除，使其能立即被点击。简而言之，打击上一个物件太晚，将不再导致紧随其后的物件被锁定。
+
+![](/wiki/Help_centre/Upgrading_to_lazer/img/notelock.gif)
+
+由于这一改变，玩家在面对含有物件密集的[串](/wiki/Beatmap/Pattern/osu!/Stream)、[跳](/wiki/Beatmap/Pattern/osu!/Jump)或低 [OD](/wiki/Beatmap/Overall_difficulty) 的谱面时，更容易从 Miss 中恢复过来。

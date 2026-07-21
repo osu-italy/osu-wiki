@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Satyr"
 date: 2022-12-14 11:00:00 +0000
+series: featured_artists
 ---
 
 Our Featured Artist collection has been missing one thing: **Satyr**.
@@ -15,7 +16,7 @@ Progressive rock band **Satyr** brings a new type of complexity, showcasing unor
 **5** uncontrollable tracks have been unleashed on [**Satyr**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/328), each accompanied by a handy set of timing points.
 
 You need to hear **Satyr** to truly understand what the hype is all about. Check out [Topoi](https://osu.ppy.sh/users/6157605) play through this brand-new map of [Picayune](https://osu.ppy.sh/beatmapsets/1902228), then look through the rest of what's available:
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/328/release_showcase.mp4" type="video/mp4" preload="none">

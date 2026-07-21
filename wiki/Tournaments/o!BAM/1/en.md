@@ -5,7 +5,7 @@ tags:
 
 # osu! Battle Archive Malaysia
 
-![o!BAM banner](img/banner.png) 
+![o!BAM banner](img/banner.png)
 
 The **osu! Battle Archive Malaysia** (***o!BAM***) was a Malaysian double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). It was the first instalment of the osu! Battle Archive Malaysia.
 
@@ -235,7 +235,7 @@ This competition has come to an end and resulted in the following podium:
 - Hidden
   1. [EGOIST - Zettai Zetsumei (jonathanlfj) \[Desperation\]](https://osu.ppy.sh/beatmapsets/1497009#osu/3068607)
   2. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#osu/154988)
-  3. [Toyama Nao - Tomoshibi no Manimani (Cubby) \[Hibana Fubuki\]](https://osu.ppy.sh/beatmapsets/1205375#osu/2510085) 
+  3. [Toyama Nao - Tomoshibi no Manimani (Cubby) \[Hibana Fubuki\]](https://osu.ppy.sh/beatmapsets/1205375#osu/2510085)
 - HardRock
   1. [Isekai Joucho - Tomedonaki Hakujou (Rtyzen) \[White\]](https://osu.ppy.sh/beatmapsets/1318186#osu/2730921)
   2. [Rice Shower (CV: Iwami Manaka) - Umapyoi Densetsu (Game Ver.) (Yugu) \[GI\]](https://osu.ppy.sh/beatmapsets/1456530#osu/2993634)
@@ -263,7 +263,7 @@ This competition has come to an end and resulted in the following podium:
   5. [Yu-Peng Chen @HOYO-MiX - Preserver of Fortune (Shurelia) \[77\]](https://osu.ppy.sh/beatmapsets/1370858#osu/2834500)
 - Hidden
   1. [lasah - EXCERPTS FROM THE DIARIES OF _ (Reincarnation) \[None\]](https://osu.ppy.sh/beatmapsets/868684#osu/1815675)
-  2. [Gesu no Kiwami Otome. - Romance ga Ariamaru (emilia) \[new try\]]()
+  2. [Gesu no Kiwami Otome. - Romance ga Ariamaru (emilia) \[new try\]](https://osu.ppy.sh/beatmapsets/623049#osu/1313278)
 - HardRock
   1. [Sagara Kokoro - Hoshizora no Ima (Reillia) \[Kaliren's Extra\]](https://osu.ppy.sh/beatmapsets/880854#osu/1955078)
   2. [SLAM & NATO - PARADOXX (zzx) \[Another\]](https://osu.ppy.sh/beatmapsets/1116086#osu/2331568)

@@ -2,11 +2,12 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: May 2021 (osu!)"
 date: 2021-06-25 18:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Two competitors rise above the rest in last month's Monthly Beatmapping Contest!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Need a refresher on the **Monthly Beatmapping Contest** (***MBC***)? The [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) explains just about everything you'd need to know.
 
@@ -40,7 +41,7 @@ For reference, this contest's [limitation](https://osu.ppy.sh/home/news/2021-05-
 
 ### Winner
 
-One of osu!'s most prominent mappers of the last couple years [DeviousPanda](https://osu.ppy.sh/users/4966334) clearly lives up to his *Elite Mapper* title with his first submission to the MBC and **first place win** through [*Masahiro "Godspeed" Aoki - The Game Changer*](https://osu.ppy.sh/beatmapsets/1501472). 
+One of osu!'s most prominent mappers of the last couple years [DeviousPanda](https://osu.ppy.sh/users/4966334) clearly lives up to his *Elite Mapper* title with his first submission to the MBC and **first place win** through [*Masahiro "Godspeed" Aoki - The Game Changer*](https://osu.ppy.sh/beatmapsets/1501472).
 
 This entry utilizes the contest's limited SV requirement to its maximum potential by implementing a ton of super slow sections, effectively contrasting with the peak intensity in each kiai. Adding the cherry on top, this was one of the few entries to map the **full 4 minute** version of the song! The extra effort definitely paid off for DeviousPanda this time around and we're looking forward to seeing their future submissions!
 

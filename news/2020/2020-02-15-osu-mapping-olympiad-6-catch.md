@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #6: osu!catch"
 date: 2020-02-15 20:30:00 +0000
+series: official_contests
 ---
 
 Fruit artists assemble as the Mapping Olympiad returns to osu!catch! Do you have what it takes to ascend the pantheon of osu! Mapping Olympians? Read inside for all the juicy contest details and how to participate!
@@ -41,7 +42,7 @@ If multiple difficulties from the same category (e.g. Insane and Expert) are sub
 
 ## Judging Criteria
 
-For each eligible submitted difficulty, the judging panel will award points based on the following criteria: 
+For each eligible submitted difficulty, the judging panel will award points based on the following criteria:
 - **Musical Relevance (10 pts)**: How well the entry follows the outline of the song through rhythm choices, emphasis, and patterning.
 - **Creativity (10 pts)**: How unique and interesting the concepts and themes utilised are.
 - **Technique (10 pts)**: How well executed the ideas presented in the entry are.

@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2023: Registrations Now Open!"
 date: 2023-02-16 00:00:00 +0000
+series: world_cups
 ---
 
 Bring along your favourite percussion instrument as we once again drum to the beat, as the osu!taiko World Cup is back for its 13th instalment!
@@ -16,7 +17,7 @@ If you're still not familiar with Open Collective, it is a platform that allows 
 
 You can donate directly to the prize pool of the upcoming World Cup of your choosing in a lump sum with or without an Open Collective account, and you can even leave a little message of support that will be displayed beneath your contribution, if you like.
 
-*Please note that any "tips" made during the payment process go to Open Collective and not to us!* 
+*Please note that any "tips" made during the payment process go to Open Collective and not to us!*
 
 For more details, refer to the [osu!taiko World Cup 2023 wiki article](/wiki/Tournaments/TWC/2023). You can discuss this event in the [official discussion thread](https://osu.ppy.sh/community/forums/topics/1722224) or at the public [osu! community server](https://discord.gg/0Vxo9AsejDkGlk3H).
 

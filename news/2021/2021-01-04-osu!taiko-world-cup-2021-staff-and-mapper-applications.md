@@ -2,6 +2,7 @@
 layout: post
 title: "osu!taiko World Cup 2021: Staff and Mapper Applications"
 date: 2021-01-04 12:00:00 +0000
+series: world_cups
 ---
 
 Happy new year from the osu! World Cup team! Applications for staffing positions in the osu!taiko World Cup 2021 have opened up, along with a few general announcements regarding the other gamemodes - read on to find out more!
@@ -16,9 +17,9 @@ The turn of the new year brings about many positive changes, most pressing of wh
 
 Following the widespread positive reception of custom mapping in OWC 2020, we've decided to take a page out of their playbook and incorporate it into TWC 2021!
 
-Mappers of the osu!taiko gamemode will now have a way to express their interest in mapping exclusively for the TWC! 
+Mappers of the osu!taiko gamemode will now have a way to express their interest in mapping exclusively for the TWC!
 
-Required availability is from now until around the end of March - further details can be found on the application form. 
+Required availability is from now until around the end of March - further details can be found on the application form.
 
 [Apply here](https://forms.gle/6bHCRSR3LDxo7Acf8) if you are interested in helping out!
 
@@ -32,7 +33,7 @@ We are currently looking for experienced commentators for the osu!taiko gamemode
 
 ## Schedule for the World Cups in 2021
 
-Please find below the provisional schedule for the osu! World Cups this year. 
+Please find below the provisional schedule for the osu! World Cups this year.
 
 | Event | Timestamp |
 | --: | :-- |

@@ -31,7 +31,7 @@ In case re-encoding is necessary, it is suggested to use the highest-quality sou
 
 To begin, download and install [Handbrake](https://handbrake.fr/), then follow these steps:
 
-1. Open Handbrake, then import your video file by either: 
+1. Open Handbrake, then import your video file by either:
    - Drag-and-dropping the file into Handbrake, or
    - Clicking the `File` option, then selecting the file to import.
 
@@ -49,7 +49,6 @@ To begin, download and install [Handbrake](https://handbrake.fr/), then follow t
    - `Video Encoder` set to `H.264 (x264)` to encode in the H.264 format using the x264 encoder
    - `Framerate (FPS)` set to `Same as source` with `Constant Framerate` selected
    - `Constant Quality` set to a value between 20 to 25. Smaller value will result in larger, higher quality files
-   
 5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` (`Veryslow` is recommended). Slower presets result in better video quality and may also reduce video file size.
    - Do not use the `Placebo` preset, as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
 
@@ -90,7 +89,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -
 
 Generally, OGG (Vorbis) results in better quality than MP3 for a given bit rate.
 
-**The [ranking criteria](/wiki/Ranking_criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded with a constant bit rate of 192kbps.
+**The [ranking criteria](/wiki/Ranking_criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps for MP3 format, and between 208kbps and 128kbps for OGG (Vorbis) format.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded to MP3 with a constant bit rate of 192kbps.
 
 ### Using Audacity
 
@@ -107,15 +106,15 @@ To begin, download and install [Audacity](https://www.audacityteam.org/), then f
 ![Export as MP3](img/exportmenu-audacity.png "Export as MP3")
 
 3. Change the export options to compress your file, depending on selected format:
-   - For MP3, use `Preset` and select the quality of `Medium, 145-185 kbps`
-   - For OGG (Vorbis), keep the `Quality` slider at `5`, which is the default value
+   - For MP3, change the bit rate mode to `Constant` and select the quality of `192 kbps`
+   - For OGG (Vorbis), adjust the `Quality` slider to `6`, which sets the average bit rate to 192 kbps
 4. Select the output location and click `Save`, and a new dialog will appear for you to enter audio metadata.
 
 ![Export settings](img/exportsettings-audacity.png "Export settings")
 
 5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
 
-**NOTE:** Clicking `Cancel` in the metadata dialog will abort the re-encoding process.
+*Note: Clicking `Cancel` in the metadata dialog will abort the re-encoding process.*
 
 ### Using FFmpeg
 
@@ -126,12 +125,12 @@ After installing FFmpeg, open a terminal, then use one of the below commands.
 To encode in the MP3 format, paste the following command into your terminal and change these values as needed:
 
 ```
-ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
+ffmpeg -i input -c:a libmp3lame -b:a 192k -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
 - `-c:a libmp3lame`: Specify that the audio should be encoded using the LAME MP3 encoder
-- `-q:a 4`: Use the same variable bit rate range as in the Audacity example, **where a lower number means higher bit rate**. If you want constant bit rate, you would instead use for instance `-b:a 128k` for a constant 128kbps bit rate
+- `-b:a 192k`: Set the bit rate to a constant 192kbps. If you want variable bit rate, you would instead use for instance `-q:a 2` for average 192 kbps (the lower number means higher bit rate)
 - `-vn -sn`: Remove video and subtitles if present
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present
 - `output.mp3`: Your output file. If the file name contains spaces, wrap it in double quotes (`"`)
@@ -139,12 +138,12 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 To encode in the OGG (Vorbis) format, paste the following command into your terminal and change these values as needed:
 
 ```
-ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
+ffmpeg -i input -c:a libvorbis -q:a 6 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`)
 - `-c:a libvorbis`: Specify that the audio should be encoded using the libvorbis encoder
-- `-q:a 5`: Use the same variable bit rate range as in the Audacity example, **where a higher number means higher bit rate**. If you want constant bit rate, you would instead use for instance `-b:a 128k` for a constant 128kbps bit rate
+- `-q:a 6`: Use the same variable bit rate range as in the Audacity example (where a higher number means higher bit rate). If you want constant bit rate, you would instead use for instance `-b:a 192k` for a constant 192kbps bit rate
 - `-vn -sn`: Remove video and subtitles if present
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present
 - `output.ogg`: Your output file. If the file name contains spaces, wrap it in double quotes (`"`)
@@ -155,7 +154,7 @@ It is recommended to check the technical information of re-encoded audio and vid
 
 ### Using MediaInfo
 
-MediaInfo is very easy to use. After installing, open the file with MediaInfo and the technical information about that file will appear.
+[MediaInfo](https://mediaarea.net/en/MediaInfo) is very easy to use. After installing, open the file with MediaInfo and the technical information about that file will appear.
 
 1. Right-click any file and select MediaInfo from the context menu, or use `File` -> `Open` -> `Open file(s)...` in MediaInfo.
 2. Change the view from `Basic` to either `Tree`, `Text`, or `HTML`. The default `Basic` view only displays a condensed series of information.

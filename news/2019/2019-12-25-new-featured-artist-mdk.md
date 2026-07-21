@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MDK"
 date: 2019-12-25 05:20:00 +0000
+series: featured_artists
 ---
 
 **MDK** blasts on in as our latest addition to the Featured Artist lineup!
@@ -52,7 +53,7 @@ All of the above and so much more are available now over at [**MDK**'s Featured 
 
 There might not've been a hint for this one due to the crush surrounding the osu! World Cup 2019 Grand Finals and the onset of Christmas being a thing, but we'll absolutely have another scorching new Featured Artist lined up for you before the end of the year, plus an extra spicy hint to boot. No, these aren't hints, you'll need to keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for those.
 
-As a brief aside, from all of us on the osu!team, we wish you all a very merry Christmas, and a happy new year. 
+As a brief aside, from all of us on the osu!team, we wish you all a very merry Christmas, and a happy new year.
 
 Enjoy, and see you next week!
 

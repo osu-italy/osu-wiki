@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: March 2022"
 date: 2022-03-22 16:00:00 +0000
+series: project_loved
 ---
 
 Celebrate spring with us on this new round of Project Loved!
@@ -402,7 +403,7 @@ SK_la was previously featured in Loved with their GD on [INNOCENCE](https://osu.
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. 
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selections and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end.
 
 If you would like to submit maps to be considered for future votes, you may do so by filling out [this form](https://loved.sh/submit) and if you wish to view currently submitted maps, you can check them on [the Project Loved website](https://loved.sh/submissions/).
 

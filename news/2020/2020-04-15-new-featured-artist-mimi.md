@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: MIMI"
 date: 2020-04-15 08:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to pull back the curtain and welcome **MIMI** aboard as our latest Featured Artist!
@@ -10,7 +11,7 @@ We're proud to pull back the curtain and welcome **MIMI** aboard as our latest F
 
 Brought to prominence in osu! by [one intrepid user's efforts](https://osu.ppy.sh/users/4378277) in the past year or two, **MIMI** is a Japanese producer and artist focused on working with the *VOCALOID* lineup.
 
-Gathering nearly 15 million plays in total, **MIMI**'s sound is clearly a hit amongst the community, and we're stoked to bring them aboard officially with a selection of **10 tracks** from their discography. 
+Gathering nearly 15 million plays in total, **MIMI**'s sound is clearly a hit amongst the community, and we're stoked to bring them aboard officially with a selection of **10 tracks** from their discography.
 
 Check out a sample below:
 

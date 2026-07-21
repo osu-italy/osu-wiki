@@ -2,6 +2,7 @@
 layout: post
 title: "osu!catch World Cup 2019: Group Stage Recap"
 date: 2019-07-03 15:00:00 +0000
+series: world_cups
 ---
 
 Summer is upon us and the time is ripe for another fruity fiesta! Featuring the finest catchers and dashers from around the world, the 2019 edition of the osu!catch World Cup is underway! Read on to find out what went down in the Group Stages, and how you can keep up with all of the tournament's delicious developments!
@@ -40,6 +41,6 @@ From casual fans riding the World Cup hype train, to the most avid of fruit fana
 
 If national pride is the order of the day, or if you just wish to show your undying love and support for your favourite players, profile banners for the remaining 16 teams will once again be available to purchase from the [osu!store](https://osu.ppy.sh/store/listing) in the very near future, so keep a close eye out!
 
-The following weeks' matches are sure to be full to the brim with more fantastic fruit action, so hopefully you’re just as excited for the remainder of this year's osu!catch World Cup as I am! I look forward to seeing you all this weekend for the Round of 16 and beyond! 
+The following weeks' matches are sure to be full to the brim with more fantastic fruit action, so hopefully you’re just as excited for the remainder of this year's osu!catch World Cup as I am! I look forward to seeing you all this weekend for the Round of 16 and beyond!
 
 —JBHyperion

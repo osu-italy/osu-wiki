@@ -2,6 +2,7 @@
 layout: post
 title: "Aspire 2017 Stage Two: osu!taiko Results"
 date: 2017-08-24 05:00:00 +0000
+series: official_contests
 ---
 
 The drums of war fade, and in the lingering silence, we find our winner. Triumphant among the twelve, one stands supreme in osu!taiko's first official contest of creative wills. Read on to find out more!
@@ -42,7 +43,7 @@ Here's what the judges thought:
 
 In a similar fashion to Supairo's Intense Muskrat, tasuke912 uses storyboarding extensively in his entry but takes a different approach — focusing primarily on gameplay mods instead of modes. Throughout the map, we could only marvel at the diverse variety of gimmicks that were presented before us.
 
-We were particularly impressed by the "Monochrome" and "Function" mods, as these were unique to the best of our knowledge, and executed well. Overall, many congratulations to tasuke912 for his amazing creativity — a solid entry for 2nd place for sure.    
+We were particularly impressed by the "Monochrome" and "Function" mods, as these were unique to the best of our knowledge, and executed well. Overall, many congratulations to tasuke912 for his amazing creativity — a solid entry for 2nd place for sure.
 
 [Play tasuke912's dual lane multimod madness here!](https://osu.ppy.sh/beatmapsets/653961)
 

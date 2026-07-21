@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: False Noise"
 date: 2019-10-23 07:50:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome underground producer **False Noise** as our latest addition to the Featured Artist roster!
@@ -32,13 +33,11 @@ Take a listen for yourself and see what all the hype's about:
     <source src="https://assets.ppy.sh/artists/52/previews/1529.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Emerald Green
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/52/previews/1522.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Kek
 

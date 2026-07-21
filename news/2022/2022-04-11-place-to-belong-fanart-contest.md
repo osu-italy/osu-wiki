@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "A Place To Belong Fanart Contest"
+title: A Place To Belong Fanart Contest
 date: 2022-04-11 14:00:00 +0000
+series: fanart_contests
 ---
 
 Inspired by recent artistic showings in the world and beyond, the first instalment of 2022's themed fanart contests arrives in style! If you like to draw for fun and prizes, check this out!
 
 ![](https://assets.ppy.sh/contests/142/header.jpg)
 
-Somewhere in the world right now, it is spring. 
+Somewhere in the world right now, it is spring.
 
 In years gone by, this likely would have been our theme for the first fanart contest of the year, but a certain showing from the osu! community in what is probably the most popular shared canvas on the internet has given us *inspiration*. Inspiration to see the fruits of *your* inspiration.
 

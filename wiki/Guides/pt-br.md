@@ -24,7 +24,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Guia de Mapping de osu!mania](osu!mania_Mapping_Guide)
 - [Pondo o Offset na Batida Correta](Setting_the_Offset_on_the_Correct_Beat)
 - [Começando um Projeto de Beatmap](Starting_a_Beatmap_Project)
-- [Vídeos do YouTube](Videos_from_YouTube)
 
 ## Modding
 
@@ -36,7 +35,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 - [Tutorial de Iniciante](Beginner's_Tutorial)
 - [Como utilizar o Offset Wizard](How_to_Use_the_Offset_Wizard)
-- [Compra de Tablet](Tablet_Purchase)
 
 ## Skinning
 

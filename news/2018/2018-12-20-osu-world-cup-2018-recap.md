@@ -2,6 +2,7 @@
 layout: post
 title: "osu! World Cup 2018: Grand Finals Recap"
 date: 2018-12-20 11:00:00 +0000
+series: world_cups
 ---
 
 For over a month and a half, some of osu!'s best players embarked on the journey of the year in search of glory in the osu! World Cup 2018. Thirty-two teams from across the globe competed to showcase their skills for the championship, and over time, only three were left standing in the Grand Finals weekend – Germany, the United Kingdom, and the United States. From there, it was a grand showdown between three of osu!'s most titanic teams for the crown, and boy was it a battle!
@@ -51,7 +52,7 @@ The two teams then continued their grueling head-to-head in a series of back-and
 (A tiny 70 points difference causes Team USA no shortage of grief.)
 
 This singular moment decided the fate of the match - and sent both teams to meet the [The Azure Arbitrator](https://osu.ppy.sh/beatmapsets/427166#osu/922172), a gruesome 8-minute slog of high speed consistency fielded as the Tiebreaker for the Grand Finals. Widely regarded as being a deserving but particularly difficult choice, it was the ever-present threat looming above the heads of all the Grand Finalists, and was now being realized in front of over 10,000 viewers.
- 
+
 Going into the map, it came as no surprise when the American team began to buckle and waver, losing combos left, right and centre. However, Bubbleman from Team UK continued his incredible performance and put out a devastatingly powerful play, maintaining an incredible score lead for his team all the way up to more than 2467 combo before finally breaking! This amazing play alone accounted for more than 1/3 of Team USA's total score at the end of the map, paving the way for Team UK to snatch the much-needed bracket reset, and giving them the room they needed to finally breathe.
 
 Now, the match was *truly* on.

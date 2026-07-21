@@ -2,6 +2,7 @@
 layout: post
 title: "Project Loved: April 2022"
 date: 2022-04-18 19:00:00 +0000
+series: project_loved
 ---
 
 It's that time of the month again! Project Loved returns with a fresh dose of maps to vote on!
@@ -44,7 +45,7 @@ The osu! Loved candidates were chosen by [Bubbleman](https://osu.ppy.sh/users/51
 207.45 BPM, 1:52 | 5.13★, 6.18★, 7.05★\
 *description written by [UberFazz](https://osu.ppy.sh/users/8646059)*
 
-Racking up over a thousand favorites at the time of writing this, Renamon's simple yet engaging map of *Mate Um Bonito Hoje Mesmo!* has won the hearts of many cursor-flinging jump map enthusiasts over its nearly 3 years of life. Coupled with a short, catchy song and a fair few difficulties, it's no wonder this map blew up as much as it did in recent times. 
+Racking up over a thousand favorites at the time of writing this, Renamon's simple yet engaging map of *Mate Um Bonito Hoje Mesmo!* has won the hearts of many cursor-flinging jump map enthusiasts over its nearly 3 years of life. Coupled with a short, catchy song and a fair few difficulties, it's no wonder this map blew up as much as it did in recent times.
 
 Check it out if you've been feeling the intense desire of perfectly smashing those circles all over your screen on the highest difficulty at 7 stars, or would like an easier yet still challenging time on either of the two lower difficulties.
 
@@ -54,9 +55,9 @@ Check it out if you've been feeling the intense desire of perfectly smashing tho
 200 BPM, 3:08 | 7.39★\
 *description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
 
-Within the last year, Seamob maps have garnered massive popularity for their addictive stamina based flow aim and the high spacing within them. Bad for me is another great example of this, and similarly to Lullaby, it leans into this player fantasy heavily. 
+Within the last year, Seamob maps have garnered massive popularity for their addictive stamina based flow aim and the high spacing within them. Bad for me is another great example of this, and similarly to Lullaby, it leans into this player fantasy heavily.
 
-At 200 BPM, and a hefty 7.4 star rating, the three minute runtime is nothing short of brutal. Whether your confidence to perform is high or not, this map will certainty pose a challenge, and maybe leave your arm sore in the meantime. 
+At 200 BPM, and a hefty 7.4 star rating, the three minute runtime is nothing short of brutal. Whether your confidence to perform is high or not, this map will certainty pose a challenge, and maybe leave your arm sore in the meantime.
 
 If all of this piques your interest, I recommend you vote yes and help this map enter the loved category!
 
@@ -66,9 +67,9 @@ If all of this piques your interest, I recommend you vote yes and help this map 
 120 BPM, 1:26 | 4.39★\
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-fanzhen0019 is well-renowned for having some of the most unique and carefree maps in the game, and this map showcases that like no other. Don't be fooled by the low star rating, and the approach rate of 6 is only the first of many reasons why. 
+fanzhen0019 is well-renowned for having some of the most unique and carefree maps in the game, and this map showcases that like no other. Don't be fooled by the low star rating, and the approach rate of 6 is only the first of many reasons why.
 
-The map itself features deceptively spaced patterns that make you question your ability to read osu! maps at all. 
+The map itself features deceptively spaced patterns that make you question your ability to read osu! maps at all.
 
 Whether you're looking for a map to challenge your reading or just feel like twisting your brain for whatever reason, this is the map to go to.
 
@@ -144,7 +145,7 @@ If you thought it couldn't get any better: this map also features an amazing sto
 215 BPM, 2:42 | 6.27★, 6.61★\
 *description written by [Gamelan4](https://osu.ppy.sh/users/9856910)*
 
-*Kotori - Nanamori (youth remix)* is a very popular track among osu! players, and both Felt7z & nyanmi's excellent taiko redemption of it works for an spectacular combo. Sporting two diffs just asenergetic as the track itself, it's no surprise both have been featured in several tournaments throughout their lifetimes, amassing enough popularity to make not nominating this for Loved a crime. 
+*Kotori - Nanamori (youth remix)* is a very popular track among osu! players, and both Felt7z & nyanmi's excellent taiko redemption of it works for an spectacular combo. Sporting two diffs just asenergetic as the track itself, it's no surprise both have been featured in several tournaments throughout their lifetimes, amassing enough popularity to make not nominating this for Loved a crime.
 
 With streams, engaging rhythms, patterning and two different approaches for a hyper track such as this one, we at Loved HQ are glad to bring this mapset, which you should absolutely try if you haven't done so yet!
 
@@ -213,7 +214,7 @@ For those who want to play this very unique song but find the higher-density sna
 
 *Hyper Bass feat. Yunomi (7_7 bootleg)* is a map made by EJ_\_ and remixed by 7_7, who is also a taiko player. This map was used as the NM1 in the Round of 16 of [TWC 2021](/wiki/Tournaments/TWC/2021).
 
-There are a moderate number of shorter streams and 1/6 and 1/8 bursts placed in this map, but they are all easy patterns, and all of them are very good practice for the basics. 
+There are a moderate number of shorter streams and 1/6 and 1/8 bursts placed in this map, but they are all easy patterns, and all of them are very good practice for the basics.
 
 All in all, it's a very good map for those who want to hone their taiko skills and test their abilities. Why not play and see what kind of map it is? We hope you will like it!
 
@@ -241,9 +242,9 @@ Since this map was made back in 2011, it was made with the old hyperdash system 
 
 Dika312 makes his return to the Loved section with quite the unique map that went quite under the radar until today!
 
-With his map of *Unwelcome School*, Dika312 experiments with patterns that don't require you to dash, despite there being dashes, also known as hyperwalks. 
+With his map of *Unwelcome School*, Dika312 experiments with patterns that don't require you to dash, despite there being dashes, also known as hyperwalks.
 
-The take Dika312 has on these patterns makes it a completely different story than what we're used to, though. They're generally known as pretty speed-based patterns, with them generally being made using stacks, but Dika flipped that idea around its head and made the map with sliders... to make for one challenging map which tests your control and accuracy. 
+The take Dika312 has on these patterns makes it a completely different story than what we're used to, though. They're generally known as pretty speed-based patterns, with them generally being made using stacks, but Dika flipped that idea around its head and made the map with sliders... to make for one challenging map which tests your control and accuracy.
 
 And it is absolutely relentless.
 
@@ -299,7 +300,7 @@ This set has continually gained traction over the past two years, and it's final
 
 Evening is here once again, with their ruthless and iconic set of Camellia's *Bring Our Ignition Back*!
 
-Through and through, this set to me represents Evening's unapologetic style of harsh SV mixed with rigid patterning. This mapset contains both 4K and 7K, the latter of which being made by none other than [eyes]( https://osu.ppy.sh/users/7741797). All of the difficulties also contain mirrors without SV for anybody wanting to play the stripped-back versions, but I'll be focusing on the ones that do include it.
+Through and through, this set to me represents Evening's unapologetic style of harsh SV mixed with rigid patterning. This mapset contains both 4K and 7K, the latter of which being made by none other than [eyes](https://osu.ppy.sh/users/7741797). All of the difficulties also contain mirrors without SV for anybody wanting to play the stripped-back versions, but I'll be focusing on the ones that do include it.
 
 The SV stays consistent throughout all of the vip diffs, which means once you've got the SV down on one difficulty, learning how to play the others is just going to come down to remembering the differences in patterning. Pattern-wise, lot of parallels can be drawn between the 4K and 7K diffs, as both *suppressions* are very jack- and burst-oriented. This leads to a strong feeling of cohesion between everything, and it's no surprise why this has been played for many years at this point. Tough patterning in unison with Evening's always-engaging SV structuring makes this a well-deserved and long overdue nomination to Loved.
 
@@ -313,7 +314,7 @@ Show your support to both Evening and eyes by giving your vote!
 
 inteliser makes their return to the Loved polls, with their revered jack map of Hikaru Utada's *traveling*!
 
-Over the past few years since inteliser created this map, it's consistently been cited as one of the more creative chordjack maps the playerbase has seen. With it's unapologetic use of anchors, a plethora of quads, and not a single break in sight during the song's 5-minute runtime. 
+Over the past few years since inteliser created this map, it's consistently been cited as one of the more creative chordjack maps the playerbase has seen. With it's unapologetic use of anchors, a plethora of quads, and not a single break in sight during the song's 5-minute runtime.
 
 It's no wonder how this gained the reputation that it has for being not only unique, but VERY difficult. Chordjack is one of the most difficult skillsets to make stand out, and the fact that this chart years after creation is still known to be incredibly distinct is really just a testament to Intel's creativity as a charter.
 
@@ -345,7 +346,7 @@ We're taking things far back, with akuma123's set of *3rd Eye In Breast*.
 
 Uploaded back in the beginning of 2015, this set is well over 7 years old now. Since then the community has grown exponentially, and really everything about this gamemode as well as the whole game has changed completely. If there's one thing that has stayed consistent however, it's that sets were always favored, and as far as I can remember this particular set took off pretty quickly.
 
-For 4K players at the time, things like the 4K SHD or even the INF would have provided some serious challenge. 208 BPM jumpstreams are still fast even for today's standards, especially if you're a newer player. Not to mention that this set also includes a 7K difficulty from [Skalim]( https://osu.ppy.sh/users/2225008), a long-time veteran of the game. This 7K is really no slouch on the density end either, containing all kinds of uncomfortable jumps and bursts. Lastly, there are also the lower difficulties which should make this more appealing to a wider audience of players. It seems like at one point the set was going for Ranked, but hey, things don't always work out on that end.
+For 4K players at the time, things like the 4K SHD or even the INF would have provided some serious challenge. 208 BPM jumpstreams are still fast even for today's standards, especially if you're a newer player. Not to mention that this set also includes a 7K difficulty from [Skalim](https://osu.ppy.sh/users/2225008), a long-time veteran of the game. This 7K is really no slouch on the density end either, containing all kinds of uncomfortable jumps and bursts. Lastly, there are also the lower difficulties which should make this more appealing to a wider audience of players. It seems like at one point the set was going for Ranked, but hey, things don't always work out on that end.
 
 We're always happy to throw it back with classic sets like these, and give players who weren't around during those times an idea of how things used to be.
 
@@ -357,7 +358,7 @@ We're always happy to throw it back with classic sets like these, and give playe
 
 MyZterioN- makes their return to Loved, with their widely-enjoyed map of *Nacreous Snowmelt*.
 
-Back in August of last year, MyZ had their map of [MEGALOVANIA]( https://osu.ppy.sh/beatmapsets/1038667#mania/2171185) go up, and *Snowmelt* here is going up for very similar reasons. Both charts are executed strongly, with MyZ's sensible patterning. There's plenty of challenge to be found in this chart, but at the same time it all feels very ergonomic and rewarding to play.
+Back in August of last year, MyZ had their map of [MEGALOVANIA](https://osu.ppy.sh/beatmapsets/1038667#mania/2171185) go up, and *Snowmelt* here is going up for very similar reasons. Both charts are executed strongly, with MyZ's sensible patterning. There's plenty of challenge to be found in this chart, but at the same time it all feels very ergonomic and rewarding to play.
 
 At OD 7, *Snowmelt* strikes a balance between leaning towards rice, and putting your long note accuracy to the test in many of its tougher sections. Because of that balance, I think it's fair to label this overall as a hybrid. Lots of LN coordination intermixed with rice, dedicated speed and jack sections, and even some LN density in the second half. This chart really feels like the full experience that you would want out of a song as dynamic as this, and MyZterioN- did a great job of making that happen.
 

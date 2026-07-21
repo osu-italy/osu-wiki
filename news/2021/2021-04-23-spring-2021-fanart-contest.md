@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Spring 2021 Fanart Contest"
+title: Spring 2021 Fanart Contest
 date: 2021-04-23 12:00:00 +0000
+series: fanart_contests
 ---
 
 We might be blooming a little late this year, but the Spring 2021 Fanart Contest is finally here! If you like to draw, check this out for fun and (possibly) prizes!

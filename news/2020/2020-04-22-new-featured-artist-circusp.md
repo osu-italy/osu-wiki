@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: CircusP"
 date: 2020-04-22 08:00:00 +0000
+series: featured_artists
 ---
 
 **CircusP** arrives to thunderous applause as our newest Featured Artist!
@@ -10,7 +11,7 @@ date: 2020-04-22 08:00:00 +0000
 
 Well-known among the *VOCALOID* scene for his many, many critically acclaimed tracks, **CircusP** is an American electronic music producer with a taste for pop excellence mixed liberally with dashes of rock and EDM influence.
 
-An extra-special treat this week is a showcase map from the Mappers' Guild's insanely talented [Noffy](https://osu.ppy.sh/beatmapsets/1143814), who is on record as being just a *little* bit of a **CircusP** fan. Just a tiny bit. 
+An extra-special treat this week is a showcase map from the Mappers' Guild's insanely talented [Noffy](https://osu.ppy.sh/beatmapsets/1143814), who is on record as being just a *little* bit of a **CircusP** fan. Just a tiny bit.
 
 The map is titled *Karma*, and you can check it out below along with a few other classics:
 

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ensou"
 date: 2022-11-16 11:00:00 +0000
+series: featured_artists
 ---
 
 **Ensou** begins a new phase of VOCALOID rock as our latest Featured Artist!
@@ -52,7 +53,7 @@ Play through any (or all) of the maps from this video:
 </audio>
 
 ---
- 
+
 Follow your impulses. Pick up a song from [**Ensou**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/320) and start mapping immediately thanks to our ultra convenient pre-timed beatmap templates. You're welcome.
 
 Another osu! classic is on its way to our Featured Artist collection. Surgically attach yourself to the [@osugame Twitter](https://twitter.com/osugame) if you want to be the first to know about it.

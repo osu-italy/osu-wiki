@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Mappers' Choice Awards / A Year In Mapping 2021"
+title: Mappers' Choice Awards / A Year In Mapping 2021
 date: 2022-11-04 10:00:00 +0000
+series: community_contests
 ---
 
 Celebrate the best Ranked maps of the previous year with the Mappers' Choice Awards, and check out some mapping-related milestones and crazy records from 2021 with A Year In Mapping!
@@ -37,7 +38,7 @@ Check out the [Mappers' Choice Awards 2021 website](https://mca.corsace.io/2021/
 
 ## A Year In Mapping 2021
 
-A ton of data around the mapping trends of 2021 is now available for you to see in A Year In Mapping (*AYIM*) 2021! 
+A ton of data around the mapping trends of 2021 is now available for you to see in A Year In Mapping (*AYIM*) 2021!
 
 As usual, A Year in Mapping 2021 packages all the coolest statistics of the year in [one webpage](https://ayim.corsace.io/2021/). Want to know who ranked the hardest or easiest map this year? Who ranked the most difficulties? Look no further than AYIM!
 

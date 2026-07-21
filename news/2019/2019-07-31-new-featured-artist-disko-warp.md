@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Disko Warp"
 date: 2019-07-31 11:00:00 +0000
+series: featured_artists
 ---
 
 Coming straight at you from 2004, [**Disko Warp**](https://osu.ppy.sh/beatmaps/artists/44) blasts into the Featured Artist lineup!
@@ -27,7 +28,7 @@ Check out a little sample of what's available below:
 <audio controls>
     <source src="https://assets.ppy.sh/artists/44/previews/1045.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### Lucky Princess - Text Me Too Much (Paradise Last Flashback Mix)
 
 <audio controls>

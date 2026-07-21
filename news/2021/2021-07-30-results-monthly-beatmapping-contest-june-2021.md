@@ -2,11 +2,12 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: June 2021 (osu!)"
 date: 2021-07-30 19:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Is it possible to make a decent map with mainly square patterns? The finalists of the latest Monthly Beatmapping Contest seem to think so. Check the entries out yourself and see who wears the crown!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Still don't know about the **Monthly Beatmapping Contest** (***MBC***)? The [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) covers just about everything. For those who'd rather not spend their time reading, it's a beatmapping contest that's hosted every month. You're welcome.
 
@@ -50,7 +51,7 @@ Judges weren't the only ones impressed though — **10** of the 12 screeners put
 
 Congratulations again to everyone who participated in June's MBC! As a reminder, results for recent MBCs in other modes will be announced some time soon (and [send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418) if you want to help out with those!).
 
-The MBC involves a lot of people, so don't forget to spread thanks to [Akito](https://osu.ppy.sh/users/5716327), [Niva](https://osu.ppy.sh/users/197805), [DTM9 Nowa](https://osu.ppy.sh/users/5428909), [Chugger](https://osu.ppy.sh/users/4491713), [CallieCube](https://osu.ppy.sh/users/7535045), [Nozhomi](https://osu.ppy.sh/users/2716981), [Cheri](https://osu.ppy.sh/users/5226970), [Uberzolik](https://osu.ppy.sh/users/1314547), [Mao](https://osu.ppy.sh/users/2204515), [Agatsu](https://osu.ppy.sh/users/5579871), [Aistre](https://osu.ppy.sh/users/4879380), and [Strategas](https://osu.ppy.sh/users/2971837) for screening this month's entries, as well as [Nuvolina](https://osu.ppy.sh/users/10974170), [Fisky](https://osu.ppy.sh/users/8352623), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Pachiru](https://osu.ppy.sh/users/2850983), [Mazzerin](https://osu.ppy.sh/users/2942381), [Daycore](https://osu.ppy.sh/users/5596337), [Seolv](https://osu.ppy.sh/users/8067876), and [h3ct1c](https://osu.ppy.sh/users/6885942) for judging this month's finalists! 
+The MBC involves a lot of people, so don't forget to spread thanks to [Akito](https://osu.ppy.sh/users/5716327), [Niva](https://osu.ppy.sh/users/197805), [DTM9 Nowa](https://osu.ppy.sh/users/5428909), [Chugger](https://osu.ppy.sh/users/4491713), [CallieCube](https://osu.ppy.sh/users/7535045), [Nozhomi](https://osu.ppy.sh/users/2716981), [Cheri](https://osu.ppy.sh/users/5226970), [Uberzolik](https://osu.ppy.sh/users/1314547), [Mao](https://osu.ppy.sh/users/2204515), [Agatsu](https://osu.ppy.sh/users/5579871), [Aistre](https://osu.ppy.sh/users/4879380), and [Strategas](https://osu.ppy.sh/users/2971837) for screening this month's entries, as well as [Nuvolina](https://osu.ppy.sh/users/10974170), [Fisky](https://osu.ppy.sh/users/8352623), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Pachiru](https://osu.ppy.sh/users/2850983), [Mazzerin](https://osu.ppy.sh/users/2942381), [Daycore](https://osu.ppy.sh/users/5596337), [Seolv](https://osu.ppy.sh/users/8067876), and [h3ct1c](https://osu.ppy.sh/users/6885942) for judging this month's finalists!
 
 We'll see you next month!
 

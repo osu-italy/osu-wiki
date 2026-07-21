@@ -6,11 +6,13 @@ tags:
   - очередь квалификаций
   - когда ранкнут мою карту
   - длительность ранкинга
+outdated_translation: true
+outdated_since: d4570db54d702a658533de09df41a391035da453
 ---
 
 # Очередь ранкинга карт
 
-**Очередь ранкинга** отвечает за перемещение [карт](/wiki/Beatmap) из [Qualified](/wiki/Beatmap/Category#qualified) в [Ranked](/wiki/Beatmap/Category#ranked). Ежедневно попасть в Ranked могут по 10 карт из каждого [игрового режима](/wiki/Game_mode), если они провели в Qualified как минимум 7 дней. Время перемещения определяется случайным образом
+**Очередь ранкинга** отвечает за перемещение [карт](/wiki/Beatmap) из [Qualified](/wiki/Beatmap/Category#qualified) в [Ranked](/wiki/Beatmap/Category#ranked). Ежедневно попасть в Ranked могут по 16 карт из каждого [игрового режима](/wiki/Game_mode), если они провели в Qualified как минимум 7 дней. Время перемещения определяется случайным образом
 
 ## Повторная квалификация
 

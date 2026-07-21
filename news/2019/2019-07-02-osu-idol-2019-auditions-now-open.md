@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "osu!idol 2019 Auditions Now Open"
+title: osu!idol 2019 Auditions Now Open
 date: 2019-07-02 17:00:00 +0000
+series: official_contests
 ---
 
 So do you enjoy singing? Are you interested in competing to become the next osu!idol? Plug in your mic and come in, it's that time again to join and show off those singing skills!
@@ -14,7 +15,7 @@ osu!idol is the community driven singing contest! Contestants participate solo o
 
 ### So what do I do?
 
-Record a clip around 30 seconds long of your best singing with no background music added. Submissions will be lasting all month long, so give us the best you got! 
+Record a clip around 30 seconds long of your best singing with no background music added. Submissions will be lasting all month long, so give us the best you got!
 
 ### What's in it for me?
 

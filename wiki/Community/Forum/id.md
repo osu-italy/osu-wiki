@@ -3,6 +3,8 @@ tags:
   - forums
   - subforum
   - sub-forum
+outdated_translation: true
+outdated_since: 0ef66a3313e04c32af901c8c1ec376fa6dacf300
 ---
 
 # Forum
@@ -27,7 +29,7 @@ Di samping lencana yang menandakan keanggotaan seseorang dalam suatu kelompok, p
 
 ### Moderasi
 
-*Lihat juga: [Melaporkan perbuatan yang tidak pantas § Forum](/wiki/Reporting_bad_behaviour#melaporkan-postingan-forum-yang-tidak-pantas)*
+*Lihat juga: [Melaporkan perbuatan yang tidak pantas § Forum](/wiki/Reporting_bad_behaviour#forum)*
 
 [Moderator](/wiki/People/Global_Moderation_Team) merupakan kelompok pengguna yang bertugas menjaga ketertiban dan kenyamanan forum serta menanggapi laporan penyalahgunaan. Para moderator dapat menyunting atau menghapus postingan atau topik yang dianggap tidak pantas, menyematkan dan memindahkan topik dari satu forum ke forum lainnya, serta mencegah para pelanggar untuk dapat berulah lebih lanjut dengan [menjatuhkan *silence*](/wiki/Silence) kepada mereka.
 

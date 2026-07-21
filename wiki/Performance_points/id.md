@@ -1,3 +1,8 @@
+---
+outdated_since: afae0bf730ed465b67163533b3ab560174b44c1d
+outdated_translation: true
+---
+
 <!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
 
 # Performance points
@@ -97,11 +102,11 @@ Pertimbangkan tip-tip berikut ini:
 - Berusahalah untuk meningkatkan akurasimu. Bahkan 1% saja sudah membuat perbedaan yang sangat besar.
 - Berusahalah untuk mencapai kombo yang lebih banyak. Full Combo (FC) atau skor [SS](/wiki/Gameplay/Grade) dapat memberikan jumlah skor yang sangat banyak.
 
-### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan? 
+### Kenapa saya tidak mendapatkan seluruh jumlah pp dari map yang saya telah mainkan?
 
 Performance points menggunakan sistem pemboboton, yang berarti skor paling tinggimu memberikan 100% jumlah pp-nya, dan setiap skor yang kamu dapatkan setelahnya memberikan lebih sedikit secara bertahap.
 
-Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#sistem-pembobotan). 
+Kamu bisa mempelajari lebih lanjut tentang sistem pemboboton [di atas](#sistem-pembobotan).
 
 ### Berapa banyak pp bonus yang diberikan untuk mendapatkan skor dalam banyak beatmap Ranked?
 

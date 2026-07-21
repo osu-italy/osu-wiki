@@ -15,7 +15,7 @@ Open the osu! tournament client and you will see this setup screen:
 ![osu! tournament client setup screen](img/setup-screen.png)
 
 - Make sure the `Current IPC source` matches the location of the osu!tourney instance that you will be using.
-- Log in to osu!(lazer) by clicking on `Change Login`.
+- Log in to osu!(lazer) by clicking on `Change sign-in`.
 - Set the correct ruleset using the dropdown menu.
 - Change the height to match the `Height` set in the `tournament.cfg` file of osu!tourney.
 
@@ -25,12 +25,18 @@ Tournament configurations for [osu!(lazer)](/wiki/Client/Release_stream/Lazer) a
 
 To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
 
-Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder: 
+Inside a tournament configuration the necessary assets can be supplied to display flags, videos and mod icons for the mappool. Each category of asset has its own folder:
 
 - your-tournament
   - Flags
   - Mods
   - Videos
+
+To manage tournament details, use tools inside the tournament client:
+
+- `Team Editor`: Edit teams and players.
+- `Rounds Editor`: Manage rounds and mappools.
+- `Bracket Editor`: Create new matches and manage teams, rounds, and time for each match.
 
 ## Customisation
 
@@ -54,7 +60,7 @@ Mod icons have to be placed in `<your-tournament>/Mods`. The mods can then be re
 
 Looping videos can be displayed in the background of each scene.
 
-Note: The client decodes video files using software decoding, so depending on the usage scenario performance may vary. 
+Note: The client decodes video files using software decoding, so depending on the usage scenario performance may vary.
 
 The files have to adhere to the following specifications:
 
@@ -67,10 +73,13 @@ The video files have to placed in `<your-tournament>/Videos` and specific names 
 | Scene | File(s) |
 | :-- | :-- |
 | Schedule | `schedule` |
-| TeamIntro | `teamintro` |
+| Bracket | `ladder` |
+| Team Intro | `teamintro` |
 | Seeding | `seeding` |
-| MapPool | `mappool` |
+| Map Pool | `mappool` |
 | Gameplay | `gameplay` |
 | Win | `teamwin-red`, `teamwin-blue` |
-| Drawings | `main` |
+| Drawings | `drawings` |
 | Showcase | `showcase` |
+
+The video file named `main` will be used as the default background until it is replaced by one of the video files listed above.

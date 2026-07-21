@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest: August"
 date: 2020-08-08 11:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Curious how your circle placing prowess holds up? With August comes yet another heated beatmapping competition!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The Monthly Beatmapping Contest (*MBC*) undergoes frequent changes, so check out the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) if you need to catch up.
 
@@ -27,7 +28,7 @@ Because the MBC would be boring with the same premise monthly, each contest forc
 
 This month's limitation: **sliders cannot be used**.
 
-Cut all ties with sliders — circles are your best friends this month! ...Plus a spinner or two, if you think you're clever. 
+Cut all ties with sliders — circles are your best friends this month! ...Plus a spinner or two, if you think you're clever.
 
 Screeners for last month's limitation noted that entries didn't utilize the circle size limitation too well, which resulted in a lot of generic maps with oversized objects. This month's limitation was chosen because it disallows a lot of standard mapping techniques! (and it's requested practically every month!)
 

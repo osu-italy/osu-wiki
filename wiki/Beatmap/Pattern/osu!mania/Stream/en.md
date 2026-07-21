@@ -12,13 +12,13 @@ A **stream** is a constant set of notes with the same snap interval. There are m
 
 A **roll** is a common variation of a stream consisting of notes that go across all columns in sequence.
 
-Streams with notes appearing in intervals faster than one beat are typically referred to as **bursts**. They commonly use snaps higher than 1/4.
+Streams with notes appearing in intervals faster than one beat are typically referred to as **bursts**. They commonly use snaps faster than 1/4.
 
 ![](img/burst.png)
 
 ## Jumpstream
 
-**Jumpstreams** are streams that involve [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump). Usually, the stream itself is on 1/4 snaps while the jumps land on higher snaps. This is the most common type of stream pattern used in 4K osu!mania.
+**Jumpstreams** are streams that involve [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump). Usually, the stream itself is on 1/4 snaps while the jumps land on slower snaps. This is the most common type of stream pattern used in 4K osu!mania.
 
 ![](img/jumpstream.png)
 
@@ -26,7 +26,7 @@ Streams with notes appearing in intervals faster than one beat are typically ref
 
 ## Handstream
 
-**Handstreams** are streams that involve [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand), and may involve jumps as well. Like jumpstreams, the stream itself is on 1/4 snaps while the jumps land on higher snaps.
+**Handstreams** are streams that involve [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand), and may involve jumps as well. Like jumpstreams, the stream itself is on 1/4 snaps while the jumps land on slower snaps.
 
 ![](img/handstream.png)
 
@@ -40,7 +40,7 @@ This term is also mainly used in 4K osu!mania.
 
 ## Chordstream
 
-**Chordstreams** are a type of stream which involve different chord sizes. The stream is usually on 1/4, with chords on every 1/1 or 1/2 snap interval. In key modes outside of 4K, "chordstream" usually refers to streams involving 3 or more notes within the chords. Thus, the term is almost exclusively used within non-4K key modes. 
+**Chordstreams** are a type of stream which involve different chord sizes. The stream is usually on 1/4, with chords on every 1/1 or 1/2 snap interval. In key modes outside of 4K, "chordstream" usually refers to streams involving 3 or more notes within the chords. Thus, the term is almost exclusively used within non-4K key modes.
 
 ![](img/chordstream.png)
 

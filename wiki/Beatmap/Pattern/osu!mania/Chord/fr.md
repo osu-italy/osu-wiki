@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated_translation: true
+outdated_since: 7779388d917b1c846aa5df6b1310d9e9036805f7
 ---
 
 # Chord
@@ -28,6 +30,6 @@ Les **quads** sont quatre notes jouées en même temps. Au-delà de ce nombre de
 
 ## Grace note
 
-Les **grace notes** sont deux ou plusieurs notes dans des colonnes différentes qui doivent être jouées en succession rapide l'une de l'autre. Cela se fait généralement avec des snappings supérieurs à 1/6. Pendant le gameplay, ils ressemblent beaucoup aux chords. 
+Les **grace notes** sont deux ou plusieurs notes dans des colonnes différentes qui doivent être jouées en succession rapide l'une de l'autre. Cela se fait généralement avec des snappings supérieurs à 1/6. Pendant le gameplay, ils ressemblent beaucoup aux chords.
 
 ![](img/grace.png)

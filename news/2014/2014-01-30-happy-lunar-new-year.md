@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Happy Lunar New Year!"
+title: Happy Lunar New Year!
 date: 2014-01-30 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/75058008270/happy-lunar-new-year
+series: miscellaneous
 ---
 
 Happy Lunar New Year to everyone! Let us celebrate the year of the Horse, which brings us health, luck and happiness!

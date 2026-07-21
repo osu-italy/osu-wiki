@@ -3,6 +3,7 @@ outdated_translation: true
 outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
+  - osu!staff
   - osu!team
   - osu! team
   - staff
@@ -30,7 +31,7 @@ Aşağıdaki listelenen kişiler osu! ekibinin çekirdek kadrosunu oluşturmakta
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Ev genel idarecisi, moderasyon danışmanı |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web geliştiricisi, [resmi osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web geliştiricisi |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Modlama ve mapleme danışmanı |
+| ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405) | Modlama ve mapleme danışmanı |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Modlama ve mapleme danışmanı, Mappers' Guild organizatörü, Featured Artist'lerle iletişim |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Ev genel idarecisi, wiki idarecisi |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Ev genel idarecisi |

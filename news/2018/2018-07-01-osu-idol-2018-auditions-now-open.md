@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "osu!idol 2018 Auditions Now Open"
+title: osu!idol 2018 Auditions Now Open
 date: 2018-07-01 12:00:00 +0000
+series: official_contests
 ---
 
 May I interest you in some singing? Want to compete with others to become the next osu!idol? Then grab a mic and join in, it’s that time of year again to submit your entries and show us what you've got!

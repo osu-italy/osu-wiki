@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "osu!monthly, September 2022"
+title: osu!monthly, September 2022
 date: 2022-10-02 19:00:00 +0000
+series: osu_monthly
 ---
 
 Need a quick way to catch up with community happenings? We've got you covered with the third edition of osu!monthly!

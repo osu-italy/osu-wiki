@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Task Horizon"
 date: 2020-09-02 08:00:00 +0000
+series: featured_artists
 ---
 
 **Task Horizon** joins the lineup as our latest Featured Artist!
@@ -14,7 +15,7 @@ We've got a whopping **40** tracks for everyone to sink their teeth into, with t
 
 Check out a preview of a few tracks below:
 
-### Enigma Machine 
+### Enigma Machine
 
 Check out [this osu!taiko showcase set](https://osu.ppy.sh/beatmapsets/1165587) from [Capu](https://osu.ppy.sh/users/2474015) of the Mappers' Guild!
 

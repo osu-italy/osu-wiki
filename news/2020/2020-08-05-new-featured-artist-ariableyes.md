@@ -2,13 +2,14 @@
 layout: post
 title: "New Featured Artist: Ariabl'eyeS"
 date: 2020-08-05 08:00:00 +0000
+series: featured_artists
 ---
 
 Spinning stories of tragedy, **Ariabl'eyeS** arrives as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/93/header.jpg)
 
-A long-lived and well-loved cult pick among the upper end mapping scene, **Ariabl'eyeS** has been making waves in Japan since 2011 and in the osu! community since 2015. 
+A long-lived and well-loved cult pick among the upper end mapping scene, **Ariabl'eyeS** has been making waves in Japan since 2011 and in the osu! community since 2015.
 
 A three-woman gothic metal doujin circle, the enigmatic trio has made regular appearances at Comiket and M3 to widespread critical acclaim, and today their legacy continues on in osu!.
 

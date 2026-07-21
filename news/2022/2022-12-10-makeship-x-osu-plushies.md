@@ -2,13 +2,14 @@
 layout: post
 title: "Makeship x osu!: Limited Edition Plushies"
 date: 2022-12-10 12:00:00 +0000
+series: merch_runs
 ---
 
 Countless generations of osu! players have yearned for one thing: the capability to squeeze an osu! cookie or mascot in plushie form. Thanks to a collaboration with Makeship, your dreams can now come true, with **THREE** new crowdfunding campaigns!
 
 ![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/header.jpg)
 
-Yes, it's finally happening. 
+Yes, it's finally happening.
 
 As you might've guessed from our recent [Twitter teasing](https://twitter.com/osugame/status/1600560233885339649) and [subsequent giveaway](https://twitter.com/osugame/status/1601055681217384453), we've partnered up with [Makeship](https://www.makeship.com/) to bring a selection of some iconic osu! figures into squishable life.
 

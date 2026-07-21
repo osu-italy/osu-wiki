@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Community Meetings Recap & Scoring Survey"
+title: Community Meetings Recap & Scoring Survey
 date: 2022-03-18 16:00:00 +0000
+series: online_events
 ---
 
 Check out what's been happening in the new community meetings, and fill out a new survey to let us know your thoughts on how scoreboards should be handled in the future!

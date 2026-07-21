@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Imperial Circus Dead Decadence"
 date: 2019-03-07 09:00:00 +0000
+series: featured_artists
 ---
 
 Decadence descends upon osu! with the latest addition to the Featured Artist lineup - Imperial Circus Dead Decadence!
@@ -16,7 +17,7 @@ Intrepid mappers will be delighted to discover **three** albums to pick through 
 
 But naturally, don't take our word for it! Here's a few samples of just a snippet of what's available now [over at their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/35):
 
-### Uta 
+### Uta
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/35/previews/854.mp3" type="audio/mpeg">
@@ -35,7 +36,7 @@ But naturally, don't take our word for it! Here's a few samples of just a snippe
 <audio controls>
     <source src="https://assets.ppy.sh/artists/35/previews/848.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### Danzai No Honoo To Koibito-Tachi No Rondo
 
 <audio controls>

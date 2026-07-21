@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Monthly Beatmapping Contests Return"
+title: Monthly Beatmapping Contests Return
 date: 2020-01-05 02:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 It's time for a new way to flaunt your beatmapping capabilities. Find out what it takes to become osu!'s next Elite Mapper!
 
-![monthly beatmapping contest banner](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![monthly beatmapping contest banner](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Beatmapping contests have been far and few between throughout the last couple of years, but that's about to change. The Monthly Beatmapping Contest (MBC) is back with a new format! Participants must adapt to different mapping limitations each month and be evaluated by an unconventional grading system to earn some fancy rewards!
 
@@ -24,11 +25,11 @@ The timeline for each month's contest is as follows:
 
 ### Limitation
 
-Creating a high quality beatmap is a great goal to strive for, but let's be honest, *that makes for a boring competition.* 
+Creating a high quality beatmap is a great goal to strive for, but let's be honest, *that makes for a boring competition.*
 
 The Monthly Beatmapping Contest requires beatmappers to adhere to a mapping limitation each month. This limitation can be anything from a specific circle size to a limit on star rating.
 
-This month's limitation: **all slider shapes must be straight lines.** No curved sliders or sliders using red anchors are allowed! 
+This month's limitation: **all slider shapes must be straight lines.** No curved sliders or sliders using red anchors are allowed!
 
 For extra clarity, below are examples of allowed/disallowed slider shapes.
 
@@ -96,7 +97,7 @@ For transparency's sake, the screening users this month are  [Cris-](https://osu
 
 ## Voting
 
-Instead of relying solely on mappers for their input, this contest also relies on opinions from osu! players (like you!). 
+Instead of relying solely on mappers for their input, this contest also relies on opinions from osu! players (like you!).
 
 The final two weeks of each contest are reserved for community voting. Users can download and play through the top 5 entries and provide a vote for their favorite. Given each month's contest features a mapping limitation, it's recommended to prioritize votes for entries that most effectively implement the limitation!
 

@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest #10: Results"
 date: 2020-12-14 20:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Results of the year's final mapping contest are in! See who's on top and what we have planned for next year!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 With 10 months of consecutive contests, the [**Monthly Beatmapping Contest** (***MBC***)](/wiki/Contests/Monthly_Beatmapping_Contest) has had a solid run since its relaunch in 2020. We'll be taking a break for now while mappers focus on [A Labour of Love](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love), a special remixing + mapping + storyboarding contest! If you're still itching to compete, you know what to do.
 
@@ -38,7 +39,7 @@ With this performance, 0ppInOsu earned himself the first tier MBC profile badge,
 
 ### Runner-up
 
-[Mao](https://osu.ppy.sh/users/2204515) is in practically the opposite situation. 
+[Mao](https://osu.ppy.sh/users/2204515) is in practically the opposite situation.
 
 Having participated in *every* MBC of 2020 aside from the first, he's a contest veteran with certified mapping prowess, as seen by his **runner-up** submission for [kiraku - Dragon Blood](https://osu.ppy.sh/beatmapsets/1317855). By now you probably know what Mao's maps are like, so if you're a fan of overlaps and unconventional patterns, you'll have a good time.
 

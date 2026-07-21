@@ -5,6 +5,8 @@ tags:
   - MV2
   - discussion de la beatmap
 outdated: true
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
@@ -45,7 +47,7 @@ La sélection du mode change le [mode de jeu](/wiki/Game_mode) que vous modifiez
 
 ## En-tête de la beatmap
 
-*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § Métadonnées des musiques et des beatmaps](/wiki/Client/Beatmap_editor/Song_setup#métadonnées-des-musiques-et-des-beatmaps)*
+*Pour plus d'informations sur le paramétrage des métadonnées, voir : [Song Setup § General](/wiki/Client/Beatmap_editor/Song_setup#general)*
 
 ![](img/beatmap-header.png "En-tête de la beatmap")
 
@@ -93,7 +95,7 @@ Le train de la hype permet de savoir combien de [hypes](/wiki/Beatmap/Hype) un m
 
 ### Statut de la nomination
 
-Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est [qualifié](/wiki/Beatmap/Category#qualifiée).
+Le statut de la nomination permet de suivre les nominations d'une beatmap. Lorsqu'une beatmap a reçu deux nominations, elle est [qualifié](/wiki/Beatmap/Category#qualified).
 
 ### Informations générales
 

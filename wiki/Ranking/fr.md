@@ -4,6 +4,8 @@ tags:
   - pp
   - leaderboards
   - ranking
+outdated_translation: true
+outdated_since: d7ceb0a14e3e4b99775b03cedbd0582dd047a3d7
 ---
 
 # Ranking
@@ -34,7 +36,7 @@ Les classements Spotlights sont des classements limités dans le temps qui compa
 
 ## Classement Beatmap
 
-Le classement des beatmaps compare les scores des joueurs entre eux sur des beatmaps individuelles. Ils apparaissent lorsqu'une beatmap a été [Qualifiée](/wiki/Beatmap/Category#qualifiée), [Classée](/wiki/Beatmap/Category#classée), [Approuvée](/wiki/Beatmap/Category#approuvée) ou Loved. Les huit premiers sont affichés sans qu'il soit nécessaire de les faire défiler, et si le joueur a un score parmi les 50 premiers, son score défilera automatiquement. Le nombre et la liste des premières places peuvent être vus sur la page de profil d'un utilisateur.
+Le classement des beatmaps compare les scores des joueurs entre eux sur des beatmaps individuelles. Ils apparaissent lorsqu'une beatmap a été [Qualifiée](/wiki/Beatmap/Category#qualified), [Classée](/wiki/Beatmap/Category#ranked), [Approuvée](/wiki/Beatmap/Category#approved) ou Loved. Les huit premiers sont affichés sans qu'il soit nécessaire de les faire défiler, et si le joueur a un score parmi les 50 premiers, son score défilera automatiquement. Le nombre et la liste des premières places peuvent être vus sur la page de profil d'un utilisateur.
 
 ## Classement par pays
 

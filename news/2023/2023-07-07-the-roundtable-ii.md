@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "The Roundtable II"
+title: The Roundtable II
 date: 2023-07-07 12:00:00 +0000
+series: offline_events
 ---
 
 16 of osu!'s fiercest tournament players battle in this year's edition of **The Roundtable**, a major in-person invitational tournament hosted by [BTMC](https://osu.ppy.sh/users/3171691)!

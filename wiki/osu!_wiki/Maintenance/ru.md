@@ -1,8 +1,13 @@
+---
+outdated_translation: true
+outdated_since: 29a5a9f474335b22a431cd6065db4f5dd87e951e
+---
+
 # Устройство osu! wiki
 
 *См. также: [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Здесь рассказывается о технических и административных аспектах osu! wiki, а также приводятся различные [рутинные задачи по обновлению статей](#рутинная-работа), с которыми вы можете помочь. Все обсуждения, связанные с osu! wiki, ведутся на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server).
+Здесь рассказывается о технических и административных аспектах osu! wiki, а также приводятся различные [рутинные задачи по обновлению статей](#рутинная-работа), с которыми вы можете помочь. Все обсуждения, связанные с osu! wiki, ведутся на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
 
 ## Администраторы
 
@@ -40,7 +45,7 @@
 
 Помните, что новые перенаправления должны быть краткими и пригодными к быстрому использованию.
 
-### Автоматизированные проверки
+### Автоматизированные проверки {id=ci-checks}
 
 В репозитории osu! wiki настроены [автоматизированные проверки](https://docs.github.com/ru/actions/automating-builds-and-tests/about-continuous-integration) (CI), отлавливающие распространённые ошибки в пулл-реквестах. Список проверок можно найти в файле [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
@@ -63,8 +68,8 @@
 
 | # | Тип проверки | Инструмент | Пояснение | Как обойти |
 | :-: | :-- | :-- | :-- | :-- |
-| 1 | Размер файлов | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Проверяет, чтобы размер файлов изображений умещался в [ограничения для новостей и статей](/wiki/Article_styling_criteria/Formatting#размер-файла) (1 МБ). Для файлов более 0,5 МБ выдаётся предупреждение. | Никак. |
-| 2 | Markdown | [remark](https://github.com/remarkjs/remark), запускаемый через [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Проверяет правильность и единообразие разметки Markdown в новостях и статьях. | Над проблемной строчкой нужно добавить `<!-- lint ignore rule-name -->`, заменив `rule-name` на нарушаемое правило. |
+| 1 | Размер файлов | [`meta/check-file-sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/check-file-sizes.sh) | Проверяет, чтобы размер файлов изображений умещался в [ограничения для новостей и статей](/wiki/Article_styling_criteria/Formatting#размер-файла) (1 МБ). Для файлов более 0,5 МБ выдаётся предупреждение. | Никак. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark), запускаемый через [`meta/remark.sh`](https://github.com/ppy/osu-wiki/blob/master/meta/remark.sh) | Проверяет правильность и единообразие разметки Markdown в новостях и статьях. | В описание пулл-реквеста нужно добавить строчку `SKIP_REMARK`. Чтобы подавить конкретную ошибку, над строчкой с ней нужно добавить `<!-- lint ignore rule-name -->`, заменив `rule-name` на нарушаемое правило. |
 | 3 | YAML | Команда `check-yaml` из набора [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Проверяет структуру YAML в [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) и [метаданных](/wiki/Article_styling_criteria/Formatting#метаданные) статей. | Никак. |
 | 4 | Битые ссылки | Команда `check-links` из набора [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Проверяет, что все [вики-ссылки](/wiki/Article_styling_criteria/Formatting#вики-ссылки) ведут на существующую статью или новость, либо на их разделы. | В описание пулл-реквеста нужно добавить строчку `SKIP_WIKILINK_CHECK`. |
 | 5 | Устаревшие переводы | Команда `check-outdated-articles` из набора [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Проверяет, что при обновлении английской версии статьи её переводы [помечены как устаревшие](/wiki/Article_styling_criteria/Formatting#устаревший-перевод). | В описание пулл-реквеста нужно добавить строчку `SKIP_OUTDATED_CHECK`. |
@@ -128,7 +133,7 @@ osu! wiki интегрирована в веб-сайт osu!: о техниче�
 
 *Примечание: на сайте [osu-wiki status](https://osu.wiki/status/en) есть список статей, нуждающихся в доработке.*
 
-Ценность и полнота вики зависят от участия сообщества. Вы можете помочь администраторам и редакторам, если тоже сделаете пару правок. О том, как именно их сделать, см. [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide). Если вы где-то застряли, попросите помощи на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/osu!_Discord_server).
+Ценность и полнота вики зависят от участия сообщества. Вы можете помочь администраторам и редакторам, если тоже сделаете пару правок. О том, как именно их сделать, см. [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide). Если вы где-то застряли, попросите помощи на канале `#osu-wiki` [дискорд-сервера osu!](/wiki/Community/Discord_servers#official).
 
 ### Перевод статей
 
@@ -156,6 +161,6 @@ osu! постоянно меняется: появляются новые кар
 
 ### Обновление статей
 
-*Примерный объём работы: см. [список TODO в английских статьях](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Примерный объём работы: см. [список TODO в английских статьях](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Уже написанные статьи тоже надо обновлять. Если в текст попала ошибка, или тема раскрыта не полностью, или вы просто хотите дописать или поправить статью, не стесняйтесь улучшить osu! wiki. Перед тем, как менять что-то важное или вносить масштабные изменения, стоит обсудить это с остальными: напишите в канал `#osu-wiki` или [заведите новую задачу](https://github.com/ppy/osu-wiki/issues/new).

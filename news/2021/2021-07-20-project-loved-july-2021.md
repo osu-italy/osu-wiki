@@ -2,13 +2,14 @@
 layout: post
 title: "Project Loved: July 2021"
 date: 2021-07-20 14:30:00 +0000
+series: project_loved
 ---
 
 Project Loved is here to cool you off from the summer heat with the freshest picks you've seen yet.
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). These maps are all chosen by the Loved Captains of their respective gamemodes. You can click on each map's banner in this post to go to its poll on the forums, or to view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so make sure that you go vote! More info about this project is available on the [wiki page](/wiki/Community/Project_Loved)! 
+For those unfamiliar, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). These maps are all chosen by the Loved Captains of their respective gamemodes. You can click on each map's banner in this post to go to its poll on the forums, or to view them all on the forum [here](https://osu.ppy.sh/community/forums/120). The voting process only lasts for 10 days, so make sure that you go vote! More info about this project is available on the [wiki page](/wiki/Community/Project_Loved)!
 
 This month, Project Loved will be getting 2 new Captains!
 

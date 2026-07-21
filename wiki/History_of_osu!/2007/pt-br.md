@@ -44,8 +44,6 @@ O menu principal foi atualizado com um novo visual e o editor recebeu muitas fun
 
 A jogabilidade foi melhorada com o a estreia do [combo fire](/wiki/Gameplay/Combo_fire), a [barra de vida (ou HP)](/wiki/Gameplay/Health), rastros de cursor, e sliders mais bonitos. Nesse ponto, osu! tinha uma humilde coleção de cerca de dez beatmaps feitos pela equipe de testagem que possuia ao redor de cinco pessoas.
 
-![](img/2007-08_03.jpg "Song Selection for Edit Mode")
-
 ![](img/2007-08_04.jpg "Gameplay")
 
 ## Setembro
@@ -96,7 +94,7 @@ Uma nova classificação SS foi adicionada ao sistema, sustituindo a classifica�
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-O [Sistema de Envio de Beatmap](/wiki/Beatmapping/Beatmap_submission) (BSS) se tornou público, permitindo usuários para facilmente enviar e compartilhar suas criações. Foi introduzido o estado de mapas [Pendente](/wiki/Beatmap/Category#pendente) e [Ranqueado](/wiki/Beatmap/Category#ranqueados) para ajudar a organizar rapidamente a coleção crescente de beatmaps enviados por usuários. Chat dentro do jogo foi adicionado como um cliente [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) criado a partir do zero e conectado com um servidor IRC padrão (sem o [Bancho](/wiki/Bancho_(server)); chat estendido foi visível; avatares e status básicos foram exibidos dentro do jogo usando uma comunicação baseado em http; controle de áudio foram também adicionados ao menu principal, que tocava uma música aleatória ao iniciar; [replays](/wiki/Gameplay/Replay) podem ser vistos por ambos as classificações locais e online. Jogadores podem expectar outros jogadores (dados de espectadores eram enviados via IRC).
+O [Sistema de Envio de Beatmap](/wiki/Beatmapping/Beatmap_submission) (BSS) se tornou público, permitindo usuários para facilmente enviar e compartilhar suas criações. Foi introduzido o estado de mapas [Pendente](/wiki/Beatmap/Category#wip-and-pending) e [Ranqueado](/wiki/Beatmap/Category#ranked) para ajudar a organizar rapidamente a coleção crescente de beatmaps enviados por usuários. Chat dentro do jogo foi adicionado como um cliente [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) criado a partir do zero e conectado com um servidor IRC padrão (sem o [Bancho](/wiki/Bancho_(server)); chat estendido foi visível; avatares e status básicos foram exibidos dentro do jogo usando uma comunicação baseado em http; controle de áudio foram também adicionados ao menu principal, que tocava uma música aleatória ao iniciar; [replays](/wiki/Gameplay/Replay) podem ser vistos por ambos as classificações locais e online. Jogadores podem expectar outros jogadores (dados de espectadores eram enviados via IRC).
 
 ## Dezembro
 

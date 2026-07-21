@@ -2,13 +2,14 @@
 layout: post
 title: "New Featured Artist: Sable Hills"
 date: 2020-10-03 09:00:00 +0000
+series: featured_artists
 ---
 
 Japanese metalcore sensation **Sable Hills** rolls on in as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/103/header.jpg)
 
-Shredding their unique style of metal since 2015, **Sable Hills** is formed from the combined talents of the Mishima brothers, Yuto Fujimiya and Keita Kondo. 
+Shredding their unique style of metal since 2015, **Sable Hills** is formed from the combined talents of the Mishima brothers, Yuto Fujimiya and Keita Kondo.
 
 Inspired by the likes of *As I Lay Dying*, *Unearth* and *In Flames*, kindred metalheads are sure to find something fresh and new in their distinctive take on the scene. They've been compared to *BLOOD STAIN CHILD* and *GYZE*, and we're sure you'll see why once you give them a listen!
 

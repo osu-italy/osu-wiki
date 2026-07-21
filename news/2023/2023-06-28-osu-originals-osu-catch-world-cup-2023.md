@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "osu! originals - osu!catch World Cup 2023"
+title: osu! originals - osu!catch World Cup 2023
 date: 2023-06-28 11:00:00 +0000
+series: world_cups
 ---
 
 If you happened to miss last weekend's [osu!catch World Cup](/wiki/Tournaments/CWC/2023) Grand Finals, you not only missed South Korea's thrilling turnaround after their 7–5 defeat against the United States, but also the **five brand-new songs** created exclusively for the event.
@@ -16,11 +17,11 @@ Those [**osu! originals**](/wiki/osu!_originals) were painstakingly produced by 
     </video>
 </div>
 
-### [LV.4 - Chemical Diving](https://osu.ppy.sh/beatmapsets/2007952)
+### [LV.4 - Chemical Diving](https://osu.ppy.sh/beatmapsets/2026273)
 
 Back for their third world cup in a row, [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214) is practically a permanent resident of our official tournaments (which is a good thing, obviously).
 
-[Chemical Diving](https://osu.ppy.sh/beatmapsets/2007952) by [Rocma](https://osu.ppy.sh/users/566276) and [Du5t](https://osu.ppy.sh/users/6053071) slotted in as a *Hard Rock* pick for the [Finals mappool](/wiki/Tournaments/CWC/2023#finals), and proved itself as a testing ground for this year's strongest teams. In the decisive round showcased above, the US barely overtook South Korea by a slim 17,000 points!
+[Chemical Diving](https://osu.ppy.sh/beatmapsets/2026273) by [Rocma](https://osu.ppy.sh/users/566276) and [Du5t](https://osu.ppy.sh/users/6053071) slotted in as a *Hard Rock* pick for the [Finals mappool](/wiki/Tournaments/CWC/2023#finals), and proved itself as a testing ground for this year's strongest teams. In the decisive round showcased above, the US barely overtook South Korea by a slim 17,000 points!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/214/Songs/LV.4%20-%20Chemical%20Diving.mp3" type="audio/mpeg">

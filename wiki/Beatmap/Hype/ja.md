@@ -2,11 +2,13 @@
 stub: true
 tags:
   - train
+outdated_translation: true
+outdated_since: cf85ad873ceff733e8c2c6a8987d64dca39b2c46
 ---
 
 # Hype
 
-[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)状態の[ビートマップ](/wiki/Beatmap)には**Hype train** というプレイヤーのビートマップへの関心度を示し[Ranked](/wiki/Beatmap/Category#ranked)の状態にするための物がある。[ビートマップディスカッション](/wiki/Beatmap_discussion)の`一般(全ての難易度)`で`Hype!` を押すことによりビートマップのHype trainをためることができる。
+[Pending](/wiki/Beatmap/Category#wip-and-pending)状態の[ビートマップ](/wiki/Beatmap)には**Hype train** というプレイヤーのビートマップへの関心度を示し[Ranked](/wiki/Beatmap/Category#ranked)の状態にするための物がある。[ビートマップディスカッション](/wiki/Beatmap_discussion)の`一般(全ての難易度)`で`Hype!` を押すことによりビートマップのHype trainをためることができる。
 
 ## Rankedにするには
 

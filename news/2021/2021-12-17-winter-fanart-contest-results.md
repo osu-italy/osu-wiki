@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Winter 2021 Fanart Contest Results"
+title: Winter 2021 Fanart Contest Results
 date: 2021-12-17 08:00:00 +0000
+series: fanart_contests
 ---
 
 Winter's well and truly here, and so are the results of the Winter 2021 Fanart Contest! Check out the finalists by reading on, or simply opening your game and gawking at the main menu!
@@ -44,7 +45,7 @@ The overall vibes of this artwork are really something else, and hearken back to
 
 [![](https://assets.ppy.sh/contests/136/banners/ShovelKun.jpg)](https://assets.ppy.sh/contests/136/winners/ShovelKun.png)
 
-**3765** voters were impressed to see [**ShovelKun**](https://osu.ppy.sh/users/9948284) delve into a festive urban style with an aloof pippi and unmistakably cute Mocha posing for the camera before a muted cityscape. 
+**3765** voters were impressed to see [**ShovelKun**](https://osu.ppy.sh/users/9948284) delve into a festive urban style with an aloof pippi and unmistakably cute Mocha posing for the camera before a muted cityscape.
 
 Excellent use of colour and contrast in this one really makes the whole thing pop, and the votes are the proof!
 
@@ -98,7 +99,7 @@ osu!supporters even enjoy a special 50% discount! Classic ramen soup for only $3
 
 [![](https://assets.ppy.sh/contests/136/banners/lilylmao.jpg)](https://assets.ppy.sh/contests/136/winners/lilylmao.png)
 
-**1939** raised a toast to [**lilylmao**](https://osu.ppy.sh/users/25130329)'s beautifully concise rendition of an upbeat pippi welcoming in 2022 to fireworks with a beverage in hand. Cheers! 
+**1939** raised a toast to [**lilylmao**](https://osu.ppy.sh/users/25130329)'s beautifully concise rendition of an upbeat pippi welcoming in 2022 to fireworks with a beverage in hand. Cheers!
 
 [![](https://assets.ppy.sh/contests/136/banners/araran.jpg)](https://assets.ppy.sh/contests/136/winners/araran.png)
 

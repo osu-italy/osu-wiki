@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Summer 2023"
 date: 2023-07-22 14:00:00 +0000
+series: featured_artists
 ---
 
 Ever considered mapping **100** songs at once? Hopefully not, but that's about how many new songs are part of our Featured Artist library.
@@ -386,7 +387,7 @@ If the sound of *Chata*, *Rita*, *yuiko*, *nao*, *KOTOKO*, *Shimotsuki Haruka* o
 
 [![](https://assets.ppy.sh/artists/20/header.jpg)](https://osu.ppy.sh/beatmaps/artists/20)
 
-**Trial & Error** makes a return with one more anime-inspired single **Shuuen no Reboot**, available in four different versions! You can figure out what that means for yourself by visiting their Featured Artist listing. 
+**Trial & Error** makes a return with one more anime-inspired single **Shuuen no Reboot**, available in four different versions! You can figure out what that means for yourself by visiting their Featured Artist listing.
 
 ### Trial & Error - Shuuen no Reboot
 

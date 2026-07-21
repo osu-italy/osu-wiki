@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 8: Winter 2023 - Precision"
 date: 2022-12-06 18:30:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights rivals arise, winter is knocking the door! Prepare your fingers and eyes for a precision challenge and compete for fun and glory!
@@ -194,7 +195,7 @@ The Winter Season 2023 leaderboard will be available over at the [Beatmap Spotli
 ## Rewards
 
 | Badges | Bracket tier | Placement |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2023/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2023/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2023/osu/diamond_2.png) | Diamond | 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/winter_2023/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% - 10% |

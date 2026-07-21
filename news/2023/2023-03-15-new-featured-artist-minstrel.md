@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Minstrel"
 date: 2023-03-15 09:00:00 +0000
+series: featured_artists
 ---
 
 *Touhou* arrangements and high-tempo rock. They're the only two things you need, and **Minstrel** delivers both.
@@ -42,7 +43,7 @@ Play through [this very real beatmap](https://osu.ppy.sh/beatmapsets/1085793) ho
     <source src="https://assets.ppy.sh/artists/349/recollection/Minstrel%20-%20Fiction.mp3">
 </audio>
 
-### Minstrel - Cinderella Cage ~Falling in Love Again~
+### Minstrel - Cinderella Cage \~Falling in Love Again\~
 
 Or try [this map from the video above](https://osu.ppy.sh/beatmapsets/1909142) hosted by [SMOKELIND](https://osu.ppy.sh/users/9327302)!
 

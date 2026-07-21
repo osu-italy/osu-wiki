@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Halloween Cometh"
+title: Halloween Cometh
 date: 2016-10-29 06:34:02 +0000
 tumblr_url: http://osunews.tumblr.com/post/152454785083/halloween-cometh
+series: fanart_contests
 ---
 
 The dread moon rises as All Hallow's Eve draws near. Chills and thrills abound beneath the night sky, coming very soon to a client near you. Discover what we've got planned for this year's Halloween!

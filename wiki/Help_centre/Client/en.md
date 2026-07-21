@@ -245,7 +245,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 **Sometimes the statuses of your beatmaps can get messed up, meaning the scores you set on them can't submit.**
 
-In the song select menu, check in the top left of the screen for any small icons (for example, a ranked beatmap should display a blue arrow icon in the top left). If your beatmaps do not display any icon, or display an incorrect icon, then your scores cannot submit. 
+In the song select menu, check in the top left of the screen for any small icons (for example, a ranked beatmap should display a blue arrow icon in the top left). If your beatmaps do not display any icon, or display an incorrect icon, then your scores cannot submit.
 
 ![](img/correct-map-status.png "This is what it should look like")
 
@@ -324,7 +324,7 @@ Please consult Kaspersky's [official help article](https://support.kaspersky.com
 
 #### Allowing a program through McAfee {id=firewall-whitelist-mcafee}
 
-Please consult McAfee's [official knowledge base entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+Please consult McAfee's [official knowledge base entry on the topic](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html).
 
 ### I've added osu! to my firewall but I still can't connect to the game! {id=sign-in-unknown-cause}
 

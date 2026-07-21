@@ -13,7 +13,7 @@ Since v2.5+, skinners are now able to fully customise the osu!mania notes and st
 ![](/wiki/shared/judgement/osu!mania/mania-hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -29,7 +29,7 @@ Notes:
 ![](/wiki/shared/judgement/osu!mania/mania-hit50.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -45,7 +45,7 @@ Notes:
 ![](/wiki/shared/judgement/osu!mania/mania-hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -61,7 +61,7 @@ Notes:
 ![](/wiki/shared/judgement/osu!mania/mania-hit200.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -77,7 +77,7 @@ Notes:
 ![](/wiki/shared/judgement/osu!mania/mania-hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -93,7 +93,7 @@ Notes:
 ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![Yes][true] | Normal | Centre | - |
 
 Notes:
@@ -109,7 +109,7 @@ Notes:
 ![](img/comboburst-mania.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] (see notes) | ![Yes][true] | Normal | BottomLeft | Max height: 768px |
 
 Notes:
@@ -127,7 +127,7 @@ Notes:
 ![](img/mania-key1.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
 
 Notes:
@@ -142,7 +142,7 @@ Notes:
 ![](img/mania-key1D.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
 
 Notes:
@@ -157,7 +157,7 @@ Notes:
 ![](img/mania-key2.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
 
 Notes:
@@ -172,7 +172,7 @@ Notes:
 ![](img/mania-key2D.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
 
 Notes:
@@ -187,7 +187,7 @@ Notes:
 ![](img/mania-keyS.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
 
 Notes:
@@ -202,7 +202,7 @@ Notes:
 ![](img/mania-keySD.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Bottom | 50x107 |
 
 Notes:
@@ -217,7 +217,7 @@ Notes:
 ![](img/mania-note1.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -234,7 +234,7 @@ Notes:
 ![](img/mania-note2.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -251,7 +251,7 @@ Notes:
 ![](img/mania-noteS.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -270,7 +270,7 @@ Notes:
 ![](img/mania-note1H.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -290,7 +290,7 @@ Notes:
 ![](img/mania-note2H.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -310,7 +310,7 @@ Notes:
 ![](img/mania-noteSH.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -330,7 +330,7 @@ Notes:
 ![](img/mania-note1L.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] (see notes) | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -347,7 +347,7 @@ Notes:
 ![](img/mania-note2L.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] (see notes) | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -364,7 +364,7 @@ Notes:
 ![](img/mania-noteSL.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] (see notes) | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -379,7 +379,7 @@ Notes:
 `mania-note1T.png`
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -398,7 +398,7 @@ Notes:
 `mania-note2T.png`
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -417,7 +417,7 @@ Notes:
 `mania-noteST.png`
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -431,6 +431,24 @@ Notes:
   - If the columns' widths differ: the smallest one is scaled correctly and the others are compressed to match its height.
 - Notes can be manually stretched or compressed via the `WidthForNoteHeightScale` command in the [skin.ini](/wiki/Skinning/skin.ini) file.
 
+---
+
+### Default key layout
+
+Below is the default note image layout for each column, by key count.
+
+| Keycount | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| 1K | S |  |  |  |  |  |  |  |  |
+| 2K | 1 | 1 |  |  |  |  |  |  |  |
+| 3K | 1 | S | 1 |  |  |  |  |  |  |
+| 4K | 1 | 2 | 2 | 1 |  |  |  |  |  |
+| 5K | 1 | 2 | S | 2 | 1 |  |  |  |  |
+| 6K | 1 | 2 | 1 | 1 | 2 | 1 |  |  |  |
+| 7K | 1 | 2 | 1 | S | 1 | 2 | 1 |  |  |
+| 8K | 1 | 2 | 1 | 2 | 2 | 1 | 2 | 1 |  |
+| 9K | 1 | 2 | 1 | 2 | S | 2 | 1 | 2 | 1 |
+
 ## Stage
 
 `mania-stage-left.png`
@@ -438,7 +456,7 @@ Notes:
 ![](img/mania-stage-left.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | BottomRight | Max height: 768px |
 
 Notes:
@@ -453,7 +471,7 @@ Notes:
 ![](img/mania-stage-right.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | BottomRight | Max height: 768px |
 
 Notes:
@@ -466,7 +484,7 @@ Notes:
 `mania-stage-bottom.png`
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
 Notes:
@@ -485,7 +503,7 @@ Notes:
 ![](img/mania-stage-light.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Multiplicative | Bottom | Max height: 768px |
 
 Notes:
@@ -505,7 +523,7 @@ Notes:
 ![](img/mania-stage-hint.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Centre | - |
 
 Notes:
@@ -522,7 +540,7 @@ Notes:
 ![](img/mania-warningarrow.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![No][false] | Normal | Centre | - |
 
 Notes:
@@ -538,7 +556,7 @@ Notes:
 ![](img/lightingL.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Additive | Centre | - |
 
 Notes:
@@ -555,7 +573,7 @@ Notes:
 ![](img/lightingN.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+| :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![Yes][true] | ![No][false] | Additive | Centre | - |
 
 Notes:

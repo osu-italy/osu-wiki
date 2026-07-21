@@ -1,6 +1,5 @@
 ---
 stub: true
-no_native_review: true
 tags:
   - client
   - game client
@@ -8,16 +7,17 @@ tags:
   - osu! lazer
   - osu lazer
   - osu!(lazer)
+  - cliente
+  - cliente de juego
 ---
 
 # Canal de lanzamiento lazer
 
-*Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase: [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*Para obtener una lista de cambios en las mecánicas del juego, véase: [Diferencias de jugabilidad en osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*Para obtener una lista de características en lazer y preguntas comunes sobre el nuevo cliente, véase: [Centro de ayuda/Actualizar a lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 ::: Infobox
 
-![](img/lazer.png "El logo del cliente de osu!(lazer), una versión estilizada de la osu! cookie")
+![](img/lazer.png?2024-10-04 "El logo del cliente de osu!(lazer).")
 
 [Descargar](https://osu.ppy.sh/home/download) • [Rastreador de problemas](https://github.com/ppy/osu/issues) • [Discusiones](https://github.com/ppy/osu/discussions)
 

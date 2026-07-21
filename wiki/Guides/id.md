@@ -24,7 +24,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Panduan Mapping osu!mania](osu!mania_Mapping_Guide)
 - [Mengatur offset dengan ketukan yang tepat](Setting_the_Offset_on_the_Correct_Beat)
 - [Menambahkan hitsound khusus](Using_custom_hitsounds)
-- [Video dari YouTube](Videos_from_YouTube)
 - [Menentukan timing lagu dengan birama #/8](Timing_Songs_With_8-Signatures)
 
 ## Modding
@@ -37,7 +36,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 ## Permainan
 
 - [Cara menggunakan offset wizard](How_to_Use_the_Offset_Wizard)
-- [Panduan untuk membeli tablet](Tablet_Purchase)
 - [Panduan untuk pemula](Beginner's_Tutorial)
 
 ## Membuat skin

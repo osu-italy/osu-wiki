@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 119117ef2cb9b730639df53a6ca5d3b8b9367c1a
 ---
 
 # Тест за бийтмап номинатори
@@ -18,7 +20,7 @@ no_native_review: true
 - [Указания при създаване и редактиране](/wiki/Rules/Code_of_conduct_for_modding_and_mapping): 1 въпрос
 - [Основни критерии за класиране](/wiki/Ranking_criteria#general) (*КК*): 1 въпрос
 - [Обхват КК](/wiki/Ranking_criteria#beatmap): 1 въпрос
-- [Метаданни КК](/wiki/Ranking_criteria#metadata): 1 въпрос
+- [Метаданни КК](/wiki/Ranking_criteria/Metadata): 1 въпрос
 - [Синхронизиране КК](/wiki/Ranking_criteria#timing): 1 въпрос
 - [Аудио КК](/wiki/Ranking_criteria#audio): 1 въпрос
 - [Видео и заден фон КК](/wiki/Ranking_criteria#video-and-background): 1 въпрос

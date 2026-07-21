@@ -1,0 +1,41 @@
+---
+outdated_translation: true
+outdated_since: 86bcea506c8351bae272c30a553bcbd1f42ea1f3
+---
+
+# 游玩
+
+- [准确率](Accuracy)
+- [断尾 (Choke)](Choke)
+- [连击（分数乘数）](Combo_(score_multiplier))
+- [连击火焰](Combo_fire)
+- [连击里程碑](Combo_milestone)
+- [连击乘数效应](Combo_multiplier_effect)
+- [连击提示图](Comboburst)
+- [每日挑战](Daily_challenge)
+- [跳](Dash)
+- [跳对齐 (Dash snapping)](Dash_snapping)
+- [掉血时间](/wiki/Beatmap/Drain_time)
+- [边角跳](Edge_dash)
+- [手指锁 (Fingerlock)](Fingerlock)
+- [评价](Grade)
+- [红果跳](Hyperdash)
+- [输入设备](Input_device)
+- [判定](Judgement)
+- [Kiai 时间](Kiai_time)
+- [脑梗 (Mind block)](Mind_block)
+- [物件锁](Judgement/Notelock)
+- [通过](Pass)
+- [玩法](Play_style)
+- [游玩时间](/wiki/Beatmap/Play_time)
+- [快速匹配](Quick_play)
+- [回放](Replay)
+- [分数](Score)
+- [断滑条](Judgement/Slider_break)
+- [旁观](Spectating)
+- [转盘陷阱](Spinner_trap)
+- [数位板膜](Tablet_cover)
+- [不稳定率](Unstable_rate)
+- [走路](Walk)
+
+<!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->

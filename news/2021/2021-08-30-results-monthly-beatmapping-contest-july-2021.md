@@ -2,11 +2,12 @@
 layout: post
 title: "Results - Monthly Beatmapping Contest: July 2021 (osu!)"
 date: 2021-08-30 20:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Results of the first two-map-contest are in! See who's on top and say hello to our newest Elite Mappers!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The **Monthly Beatmapping Contest** (***MBC***) is... well, a beatmap contest that's held monthly. The [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) has all the details, so check that if you're out of the loop.
 
@@ -21,7 +22,7 @@ Both of these mappers were on the cusp of earning the highest prize in the MBC, 
 
 ## osu! finalists
 
-This month's contest took a different approach from our previous contests. Mappers were required to create **2** maps, so our [screeners](/wiki/Contests/Monthly_Beatmapping_Contest#screening) evaluated both maps together, resulting in the **top 6** maps from **44 entries**. 
+This month's contest took a different approach from our previous contests. Mappers were required to create **2** maps, so our [screeners](/wiki/Contests/Monthly_Beatmapping_Contest#screening) evaluated both maps together, resulting in the **top 6** maps from **44 entries**.
 
 [Judges](/wiki/Contests/Monthly_Beatmapping_Contest#judging) were tasked with evaluating those 6 entries (12 maps) separately in all categories *except for theme*, since this contest's theme was focused on the contrast of the two maps. Words are probably making this extra confusing, so explore the results for yourself:
 

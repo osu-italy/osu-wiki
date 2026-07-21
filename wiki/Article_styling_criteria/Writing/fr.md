@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: ca470beb6a1d0e8c9575d6436e9f2d656c3f19c0
+---
+
 # Rédaction
 
 *Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
@@ -224,9 +229,9 @@ Certains mots ont des variantes. Leur orthographe préférée doit être utilis�
 
 Ces mots doivent être orthographiés comme suit (l'espacement doit correspondre) :
 
-- `NoMods`, `NoMod`, ou `NM`
-- `FreeMods`, `FreeMod`, ou `FM`
-- `Tiebreaker`
+- `No Mod`, ou `NM`
+- `Free Mod`, ou `FM`
+- `Tiebreaker` (n'est pas un nom propre, c'est-à-dire qu'il ne prend pas la majuscule dans les phrases)
 
 ## Abréviations, acronymes et sigles
 

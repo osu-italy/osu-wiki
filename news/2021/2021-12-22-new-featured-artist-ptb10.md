@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: PTB10"
 date: 2021-12-22 09:00:00 +0000
+series: featured_artists
 ---
 
 **PTB10** joins the ranks as our latest Featured Artist!
@@ -20,7 +21,7 @@ Hailing from England, **PTB10** has been constructing his own blend of electroni
     </video>
 </div>
 
-### Starfall 
+### Starfall
 
 Try [the map seen above](https://osu.ppy.sh/beatmapsets/1648460) hosted by [Altai](https://osu.ppy.sh/users/5745865)!
 

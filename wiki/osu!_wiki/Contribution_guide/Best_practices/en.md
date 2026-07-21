@@ -10,39 +10,17 @@ This page covers some of the tasks that you may face while contributing. The app
 
 ## Syncing the fork
 
-In order to make changes to a repository located on GitHub, a potential contributor needs to obtain a controlled copy of it called a *fork*. When you create your fork of the `osu-wiki` repo, you take a snapshot of its contents at this very moment. To make a meaningful contribution, **always sync your fork** before making a set of changes — this can be done directly from GitHub:
+::: Infobox
+![](img/update-branch.png?1 "Updating the outdated branch")
+:::
+
+A *fork* is a snapshot of the original repository which doesn't update itself automatically. To always work with the latest version of the osu! wiki, you need to sync it before making changes. This can be done directly from GitHub:
 
 1. Go to your fork of the `osu-wiki` repo.
 2. Select the `master` branch from the dropdown.
-3. Click `Fetch upstream`, and select `Fetch and merge`.
-
-![](img/update-branch.png "Updating the outdated branch")
-
-Now your branch is up-to-date with the original repository.
-
----
-
-This solution works fine in most cases, although the feature itself has limited capabilities. For example, it doesn't allow you to overwrite any unwanted changes on the branch, as it only merges the upstream `master` branch.
-
-If you encountered any problems while using the GitHub tool or you want to overwrite your branch's contents, you can use the workflow written by the osu! wiki contributors.
-
-1. Open **your fork** and go to the `Actions` tab.
-2. In `Workflows`, look for `Sync from osu! upstream`.
-3. Click `Run workflow` and fill in the options:
-
-![](img/github-actions-workflow-dialog.png "GitHub Actions Workflow - Run Workflow")
-
-- **Use workflow from**: name of the branch you want to sync. By default, it is set to `master`.
-- **Overwrite any changes in the target repository**:
-  - `true`: replace the contents of your branch with a clean copy of the `master` branch from `ppy/osu-wiki`.
-  - `false` (default): merge your changes with the ones on `ppy/osu-wiki`.
-- **Create a backup of your target branch**:
-  - `true`:  make a branch called `backup-{name of your branch}` before changing it.
-  - `false` (default): do not make any backups.
-
-4. Click the `Run Workflow` button and wait for the workflow to complete. If you're curious about how the tool works, click on the `Sync from osu! upstream` workflow task.
-
-![](img/github-actions-workflow-overview.png "GitHub Actions Workflow - Workflow Overview")
+3. Click `Sync fork`.
+   - If you made any changes directly in the `master` branch that you would rather keep, press `Update branch` to preserve them.
+   - If you want the clean slate and don't need your changes anymore, press `Discard n commit(s)`.
 
 ## Making edits
 
@@ -90,12 +68,10 @@ There are two reasons for why a conflict could have happened:
 Depending on the severity of the conflicts, you have two options on how to fix this:
 
 1. If your pull request has the `Resolve conflicts` button, click on that. This will open a slightly different version of the web editor.
-
    1. GitHub will highlight the conflicting areas. Find one of them.
    2. Everything from `<<<<<<<` to the `=======` is your changes, whereas everything from `=======` to `>>>>>>> master` is what's in the `ppy/master` branch.
    3. From here, you will need to manually fix the conflict and delete the lines with the `<<<<<<<`, `=======`, and `>>>>>>> master` markings.
    4. Repeat the process for all conflicts.
    5. When completed, click `Mark as resolved` (this is only available when all conflicting parts of the file are resolved).
-
 2. If the `Resolve conflicts` button is blocked due to the conflicts being too complicated for GitHub, you are out of luck and will need to [update your branch](#syncing-the-fork) and make your changes again.
    - *Note: This is only true if you are limited to using the GitHub web interface.* There are still ways to fix it, but they don't belong to the scope of this article. Moreover, it is probably not worth the effort to do so, because you will overwrite and revert the conflicting changes.

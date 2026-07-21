@@ -2,6 +2,7 @@
 layout: post
 title: Featured Artist Beatmap Updates from the Mappers' Guild
 date: 2020-11-20 06:00:00 +0000
+series: mappers_guild
 ---
 
 New beatmap packs! New medals! And new quests! Learn how mapping and Featured Artists collide through the Mappers' Guild.
@@ -10,7 +11,7 @@ New beatmap packs! New medals! And new quests! Learn how mapping and Featured Ar
 
 What is this *Mappers' Guild* thing? In short, it's a way for mappers to earn rewards for mapping songs from osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists). If you're out of the loop, check out the [Mappers' Guild wiki page](/wiki/Community/Mappers_Guild) and [its website](https://mappersguild.com)!
 
-A lot has changed since [our last update](https://osu.ppy.sh/home/news/2020-03-23-featured-artist-beatmap-updates-from-the-mappers-guild) and now! Two artists are being announced per week and mappers have been grinding out maps like their lives depend on it. 
+A lot has changed since [our last update](https://osu.ppy.sh/home/news/2020-03-23-featured-artist-beatmap-updates-from-the-mappers-guild) and now! Two artists are being announced per week and mappers have been grinding out maps like their lives depend on it.
 
 In the last 8 months **85** quests have been completed, nearly **400**  (yes, *400!*) Featured Artist beatmaps have been ranked, and **22** new medals are now available to earn!
 
@@ -183,7 +184,7 @@ This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754
 
 These beatmaps were featured in the [kiraku featured artist announcement](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)!
 
-![MBC banner](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![MBC banner](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 For each **MBC finalists** quest, the mappers had to create and rank at least 1 mapset of any submission that reached the voting or judging stage in its respective month.
 

@@ -9,6 +9,7 @@ Index page for articles about people or groups.
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
 - [Centurions](Centurions)
 - [Community Contributors](Community_Contributors)
+- [Completionists](Completionists)
 - [Developers](Developers)
 - [Elite Nominators](Elite_Nominators)
 - [Featured Artists](Featured_Artists)
@@ -16,7 +17,7 @@ Index page for articles about people or groups.
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Performance Points Committee](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Support Team](Support_Team)
+- [Technical Support Team](Technical_Support_Team)
 - [Tournament Committee](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
@@ -27,12 +28,11 @@ Index page for articles about people or groups.
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
-- [osu!monthly team](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Other
 
 - [peppy](peppy)
 - [Staff log](Staff_log)
-- [User group](User_group)
+- [User groups](User_groups)
 - [Users with unique titles](Users_with_unique_titles)

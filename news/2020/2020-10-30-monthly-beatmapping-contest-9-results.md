@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest #9: Results"
 date: 2020-10-31 00:45:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Don't think it's possible to make a map where each object overlaps another? osu!'s newest Elite Mapper wants to have a word with you.
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 Results for September's **Monthly Beatmapping Contest** (***MBC***) are here! If you're unsure of how any of this works, be sure to read the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
@@ -54,7 +55,7 @@ Having another runner-up position under their belt from [February's contest](htt
 
 That's it for September's contest! All participants have received a message with comments from the [screening crew](/wiki/Contests/Monthly_Beatmapping_Contest#screening), so check your inbox if you're curious how your map was received!
 
-Thanks to [Pachiru](https://osu.ppy.sh/users/2850983), [Akito](https://osu.ppy.sh/users/5716327), [Uberzolik](https://osu.ppy.sh/users/1314547), [Myxo](https://osu.ppy.sh/users/2202645), [Cheri](https://osu.ppy.sh/users/5226970), [hypercyte](https://osu.ppy.sh/users/9155377), [Nozhomi](https://osu.ppy.sh/users/2716981), [Agatsu](https://osu.ppy.sh/users/5579871), [Regou](https://osu.ppy.sh/users/419954), [Elayue](https://osu.ppy.sh/users/6400861), [newton-](https://osu.ppy.sh/users/5875419), and [-Aqua](https://osu.ppy.sh/users/7150015) for screening this month's entries, as well as [Mazzerin](https://osu.ppy.sh/users/2942381), [Cubby](https://osu.ppy.sh/users/10914582), [Pentori](https://osu.ppy.sh/users/7452237), [Nuvolina](https://osu.ppy.sh/users/10974170), [Gero](https://osu.ppy.sh/users/1467715), and [Garden](https://osu.ppy.sh/users/2849992) for judging this month's finalists! 
+Thanks to [Pachiru](https://osu.ppy.sh/users/2850983), [Akito](https://osu.ppy.sh/users/5716327), [Uberzolik](https://osu.ppy.sh/users/1314547), [Myxo](https://osu.ppy.sh/users/2202645), [Cheri](https://osu.ppy.sh/users/5226970), [hypercyte](https://osu.ppy.sh/users/9155377), [Nozhomi](https://osu.ppy.sh/users/2716981), [Agatsu](https://osu.ppy.sh/users/5579871), [Regou](https://osu.ppy.sh/users/419954), [Elayue](https://osu.ppy.sh/users/6400861), [newton-](https://osu.ppy.sh/users/5875419), and [-Aqua](https://osu.ppy.sh/users/7150015) for screening this month's entries, as well as [Mazzerin](https://osu.ppy.sh/users/2942381), [Cubby](https://osu.ppy.sh/users/10914582), [Pentori](https://osu.ppy.sh/users/7452237), [Nuvolina](https://osu.ppy.sh/users/10974170), [Gero](https://osu.ppy.sh/users/1467715), and [Garden](https://osu.ppy.sh/users/2849992) for judging this month's finalists!
 
 Looking for more mapping contests to participate in? We've got good news and bad news. Aside from finalizing the results for October's contest, the Monthly Beatmapping Contest will be taking a short break until the start of 2021.
 

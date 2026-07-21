@@ -2,6 +2,7 @@
 layout: post
 title: "Scorewatch: July Week 4"
 date: 2017-08-04 08:30:00 +0000
+series: scorewatch
 ---
 
 July has finally ended but it definitely did not end without a bang! An amazing EZDTFL play on a popular map, a couple of number 1 plays and more crazy non osu!standard scores, all you don't want to miss!
@@ -30,7 +31,7 @@ osu!mania is back on the Scorewatch after a brief absence, this time round we go
 
 ## NOTABLE MENTIONS
 
-[Mathi](https://osu.ppy.sh/users/5339515) set his new top personal play on the recently ranked map [Minazuki Airi with Atsushi - Daisuki, Evolution](https://osu.ppy.sh/beatmaps/1289927), scoring an amazing 98.54% HR FC to claim a whopping 682pp, beating out his previous top personal play by 60pp! Make way for the number one Chilean!  
+[Mathi](https://osu.ppy.sh/users/5339515) set his new top personal play on the recently ranked map [Minazuki Airi with Atsushi - Daisuki, Evolution](https://osu.ppy.sh/beatmaps/1289927), scoring an amazing 98.54% HR FC to claim a whopping 682pp, beating out his previous top personal play by 60pp! Make way for the number one Chilean!
 
 [Bubbleman](https://osu.ppy.sh/users/5182050) is on the rise with an insane 98.26% HDDT FC on [Hagumi Nishizawa - My Hero! Up to you!](https://osu.ppy.sh/beatmaps/858271) and grabbed 647pp, knocking Cookiezi out of his throne on the map! With that score, he is now up into the Top 40 global.
 

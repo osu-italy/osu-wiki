@@ -251,7 +251,7 @@ Essayez de fermer tout programme supplémentaire avant de jouer à osu! si vous 
 
 **Parfois, les statuts de vos beatmaps peuvent ne pas être les bons, ce qui signifie que les scores que vous avez réalisés ne peuvent pas être soumis.**
 
-Dans le menu de sélection des beatmaps, vérifiez la présence de petites icônes en haut à gauche de l'écran (par exemple, une beatmap classée devrait afficher une icône en forme de flèche bleue en haut à gauche). Si vos beatmaps n'affichent aucune icône, ou affichent une icône incorrecte, vos scores ne peuvent pas être soumis. 
+Dans le menu de sélection des beatmaps, vérifiez la présence de petites icônes en haut à gauche de l'écran (par exemple, une beatmap classée devrait afficher une icône en forme de flèche bleue en haut à gauche). Si vos beatmaps n'affichent aucune icône, ou affichent une icône incorrecte, vos scores ne peuvent pas être soumis.
 
 ![](img/correct-map-status-FR.png "Voici à quoi cela devrait ressembler")
 
@@ -330,7 +330,7 @@ Veuillez consulter l'[article d'aide officiel](https://support.kaspersky.com/151
 
 #### Autoriser un programme à travers McAfee {id=firewall-whitelist-mcafee}
 
-Veuillez consulter [l'entrée officielle de la base de connaissances sur le sujet](https://service.mcafee.com/?articleId=TS100813&locale=fr-CA&page=shell&shell=article-view) de McAfee.
+Veuillez consulter [l'entrée officielle de la base de connaissances sur le sujet](https://download.mcafee.com/products/webhelp/5/1033/index.html#GUID-68D866FC-3978-4665-940E-9CA5CC0836E2.html) de McAfee.
 
 ### J'ai ajouté osu! à mon pare-feu mais je ne peux toujours pas me connecter au jeu ! {id=sign-in-unknown-cause}
 

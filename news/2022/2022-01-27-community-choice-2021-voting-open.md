@@ -2,6 +2,7 @@
 layout: post
 title: "Community Choice 2021: Voting Open"
 date: 2022-01-27 13:00:00 +0000
+series: official_contests
 ---
 
 2021 sure was something! Help us decide your Community Favourite in all four game modes by voting for your ten most-liked maps of 2021 today!
@@ -32,7 +33,7 @@ Excited? You should be! Now, go vote:
 - [osu!catch](https://osu.ppy.sh/community/contests/140)
 - [osu!mania](https://osu.ppy.sh/community/contests/141)
 
-The voting will remain open for **14 days** from the date of this post, so make sure to get involved quick! 
+The voting will remain open for **14 days** from the date of this post, so make sure to get involved quick!
 
 If you don't, you'll risk having to fume at having no say in who ends up as the Community Favourites. In all honesty, even if you do, some of you are going to fume anyway. At least if you vote, you can pretend you're some kind of anime protagonist raging against the tyranny of an unfair world, so go vote, Kirito!
 

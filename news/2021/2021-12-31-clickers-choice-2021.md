@@ -2,6 +2,7 @@
 layout: post
 title: "Clicker's Choice: Top 20 osu! Players of 2021"
 date: 2021-12-31 01:00:00 +0000
+series: community_contests
 ---
 
 Take part in helping the community determine the top 20 osu! players of 2021!
@@ -12,7 +13,7 @@ Take part in helping the community determine the top 20 osu! players of 2021!
 
 For those unaware, the osu! community has typically hosted a yearly top 20 vote on any number of platforms in the past with no real centralized place to handle anything. This year's top 20 vote will be run on the Clicker's Choice website, which is also home to the top player voting for Germany, Poland, Canada, UK and many other countries.
 
-As a voter, it's pretty straightforward — just [visit the site](https://choice.hwc.hr/vote/6), link your osu! account and start voting! **Everything from the criteria to the deadlines is also available on the voting page.** 
+As a voter, it's pretty straightforward — just [visit the site](https://choice.hwc.hr/vote/6), link your osu! account and start voting! **Everything from the criteria to the deadlines is also available on the voting page.**
 
 Check out a quick preview of just how easy it is to get involved below:
 

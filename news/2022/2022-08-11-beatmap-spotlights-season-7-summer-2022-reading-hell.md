@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 7: Summer 2022 - Reading Hell"
 date: 2022-08-11 23:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights rivals assemble, for the summer season is finally is here! Experience a new form of hellish challenge with our latest reading-oriented theme and compete for fun and glory!
@@ -145,7 +146,7 @@ The Summer Season 2022 leaderboard will be available over at the [Beatmap Spotli
 ## Rewards
 
 | Badges | Bracket tier | Placement |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2022/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2022/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2022/osu/diamond_2.png) | Diamond | 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2022/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2022/osu/platinum_2.png) | Platinum | 3% - 10% |

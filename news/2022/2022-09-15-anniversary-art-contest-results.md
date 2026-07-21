@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "15th Anniversary Art Contest Results"
+title: 15th Anniversary Art Contest Results
 date: 2022-09-16 06:00:00 +0000
+series: fanart_contests
 ---
 
 After some of the largest voting turnout we've seen in a long time, the results of the 15th Anniversary Art Contest have made their way into a main menu near you!
@@ -114,7 +115,7 @@ We'd also like to note that Mari's look in the bottom right is how she feels whe
 
 Not merely content with twenty finalist entries, peppy took it upon himself to decree that we will also have an extra privileged six chosen by him simply because he was stunned they didn't make it in. It's his big day too, after all!
 
-And so it was written. 
+And so it was written.
 
 And so *these* descriptions will also be written, courtesy of the Dean "peppy" Herbert himself (in no particular order):
 

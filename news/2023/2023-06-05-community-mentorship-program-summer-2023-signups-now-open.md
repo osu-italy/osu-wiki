@@ -2,6 +2,7 @@
 layout: post
 title: "Community Mentorship Program Summer 2023: Signups Now Open"
 date: 2023-06-05 17:00:00 +0000
+series: online_events
 ---
 
 The 24th cycle of the Community Mentorship program is on its way! Get ready to delve deep into the world of mapping, modding, or storyboarding.
@@ -24,6 +25,6 @@ Throughout this cycle, the organization team will host various events on the Men
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1772532) for more information.
 
-We're looking forward to the mappers, modders, storyboarders, and mentors of tomorrow! 
+We're looking forward to the mappers, modders, storyboarders, and mentors of tomorrow!
 
 —Mentorship Organization Team

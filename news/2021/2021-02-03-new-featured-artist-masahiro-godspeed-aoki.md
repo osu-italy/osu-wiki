@@ -2,13 +2,14 @@
 layout: post
 title: "New Featured Artist: Masahiro \"Godspeed\" Aoki"
 date: 2021-02-03 09:15:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome guitarist extraordinaire **Masahiro "Godspeed" Aoki** aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/136/header.jpg)
 
-A man with contributions in every corner of the video game scene, ex-*CAPCOM* composer [**Masahiro "Godspeed" Aoki**](https://osu.ppy.sh/beatmaps/artists/136) is an immensely talented producer, arranger, guitarist, and engineer with an unparalleled catalogue of work. 
+A man with contributions in every corner of the video game scene, ex-*CAPCOM* composer [**Masahiro "Godspeed" Aoki**](https://osu.ppy.sh/beatmaps/artists/136) is an immensely talented producer, arranger, guitarist, and engineer with an unparalleled catalogue of work.
 
 You might've heard his sound already from franchise entries like *Street Fighter V*, *FINAL FANTASY XV MULTIPLAYER: COMRADES*, and *ASTRAL CHAIN*, but if those games aren't really on your radar as a rhythm game player, you may recognize his library from *CHUNITHM*, *Taiko no Tatsujin*, or *Cytus II* instead.
 

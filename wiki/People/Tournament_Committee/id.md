@@ -1,4 +1,6 @@
 ---
+tags:
+  - TC
 outdated_translation: true
 outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 ---
@@ -9,7 +11,7 @@ outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
 
 Mereka bertanggung jawab untuk:
 
-- Menindaklanjuti laporan-laporan yang diterima dari [formulir pelaporan turnamen](https://pif.ephemeral.ink/tournament-reports)
+- Menindaklanjuti laporan-laporan yang diterima dari [formulir pelaporan turnamen](https://tcomm.hivie.tn/reports/create)
 - Mengawasi berbagai perkembangan yang terjadi di dalam ranah turnamen secara umum dan memberi saran kepada [account support team](/wiki/People/Account_support_team) seputar tindakan apa-apa saja yang sebaiknya diambil dalam tiap-tiap kasus pelanggaran yang terjadi
 - Memperbaharui informasi yang terdapat pada laman wiki [Official tournament support](/wiki/Tournaments/Official_support) secara berkala
 
@@ -23,14 +25,12 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 ## Anggota
 
+- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
-- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
-- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
-- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
+- ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
@@ -40,4 +40,13 @@ Apabila kamu tertarik untuk bergabung menjadi anggota panel ini, kamu dapat meng
 
 ## Alumni
 
+- ::{ flag=FR }:: [_yosh](https://osu.ppy.sh/users/7157133)
+- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
+- ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
+- ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
+- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)
+- ::{ flag=US }:: [Stage](https://osu.ppy.sh/users/8191845)
+- ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416)
+- ::{ flag=NL }:: [Wesley](https://osu.ppy.sh/users/2407265)

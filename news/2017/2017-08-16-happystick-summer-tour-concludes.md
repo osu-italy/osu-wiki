@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "HappyStick Summer Tour 2017 - Results"
+title: HappyStick Summer Tour 2017 - Results
 date: 2017-08-16 17:00:00 +0000
+series: community_tournaments
 ---
 
 After an exciting five weeks of matches in which 768 initial contestants were narrowed down to 26, the HappyStick Summer Tour reached its riveting conclusion. Over the course of the tournament, players from 56 countries across 13 rank brackets ranging from the 250 - 500 to 100,000+ tiers fought their way through 537 matches until only the Grand Finalists remained. Those select few fought it out mano a mano on the grand stage of the finals where they clashed for the crown of Summer Tour Champion. Read on for results and VODs of our featured matches!
@@ -43,8 +44,7 @@ There, \_verto\_ selected [Igorrr - Unpleasant Sonata](https://osu.ppy.sh/beatma
 [View multiplayer match history for \_verto\_ vs Lee Jung Hyun](https://osu.ppy.sh/community/matches/35244291)
 
 <p align="center"><iframe src="https://player.twitch.tv/?video=v167003179&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe></p>
-  
-  
+
 The [12000 - 18000](http://challonge.com/pxrd8vej) Grand Final told a fascinating story. On one side was [Cyndere](https://osu.ppy.sh/users/5477793), the bracket's Spring Tour champion reprising his performance by making his way through the Winners Bracket quickly and efficiently. On the other was [egedi](https://osu.ppy.sh/users/3975137), who lost in a tiebreaker in the first round of the brackets before fighting his way through six rounds of the Losers Bracket to make it all the way back to the Grand Final.
 
 The two were evenly matched throughout the first best of 11 series, going back and forth showing off their skills. Highlights included egedi's Full Combo of nomod pick [xi - Akasha](https://osu.ppy.sh/beatmaps/931860) and an incredibly tense match on another nomod selection [MISATO - Necro Fantasia](https://osu.ppy.sh/beatmaps/1097543) in which egedi would emerge the victor by a mere 620,000 points after both players [broke on the exact same note](https://www.twitch.tv/videos/167003179?t=1h10m35s) (a slider-velocity slowdown following an incredibly intense section of the song) after building up over 1100 combo. The set culminated in a somewhat anticlimactic tiebreaker on [Demetori - Fall of Fall ~ The Door Into Summer](https://osu.ppy.sh/beatmaps/1177137) as egedi ran away to a dominating victory to claim the first series 6-5.

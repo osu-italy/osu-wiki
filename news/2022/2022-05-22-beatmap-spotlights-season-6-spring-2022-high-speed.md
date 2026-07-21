@@ -2,6 +2,7 @@
 layout: post
 title: "Beatmap Spotlights Season 6: Spring 2022 - High Speed"
 date: 2022-05-22 13:00:00 +0000
+series: beatmap_spotlights
 ---
 
 Spotlights rivals, assemble! With a brand new theme, **Spring Season 2022** is finally here. Get ready for a high-speed ride with a fresh set of 240+ BPM beatmaps!
@@ -187,7 +188,7 @@ The Winter Season 2022 leaderboard will be available over at the [Beatmap Spotli
 ## Rewards
 
 | Badges | Bracket tier | Placement |
-| :--: | :--: | :--: |
+| :-: | :-: | :-: |
 | ![](/wiki/Beatmap_Spotlights/img/badges/spring_2022/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
 | ![](/wiki/Beatmap_Spotlights/img/badges/spring_2022/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2022/osu/diamond_2.png) | Diamond | 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/spring_2022/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2022/osu/platinum_2.png) | Platinum | 3% - 10% |

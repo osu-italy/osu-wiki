@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Community Mentorship Program Summer 2019 Signups Now Open"
+title: Community Mentorship Program Summer 2019 Signups Now Open
 date: 2019-05-08 20:50:00 +0000
+series: online_events
 ---
 
 Do you want to get into beatmapping for this game, but have no clue where to start? In that case, the Community Mentorship program might be the way to begin your mapping career!
@@ -12,7 +13,7 @@ Do you want to get into beatmapping for this game, but have no clue where to sta
 
 This program serves as a platform for new mappers and modders to get into the beatmapping process more quickly. They'll be teaming up with more experienced mappers and modders in the community that will show them the ropes for a total of eight or more weeks.
 
-Mentor applications are already open, so head on over to the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/894182) if you’re considering mentoring! Mentor applications take some time to process, so there will be a few weeks before mentee applications are open. 
+Mentor applications are already open, so head on over to the [forum announcement and rule thread](https://osu.ppy.sh/community/forums/topics/894182) if you’re considering mentoring! Mentor applications take some time to process, so there will be a few weeks before mentee applications are open.
 
 For the upcoming summer cycle, we are looking for both mentors and mentees for all game modes!
 

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: 2ToneDisco"
 date: 2021-04-17 09:30:00 +0000
+series: featured_artists
 ---
 
 **2ToneDisco** climbs aboard as our newest Featured Artist!
@@ -34,7 +35,7 @@ Try [this osu!taiko set](https://osu.ppy.sh/beatmapsets/1402379) hosted by [rubi
     <source src="https://assets.ppy.sh/artists/157/Unknown/2ToneDisco%20x%20RANASOL%20-%20Unknown.mp3" type="audio/mpeg">
 </audio>
 
-### 2ToneDisco x NEET - Sugar Rush (feat. Levi Kaiser) 
+### 2ToneDisco x NEET - Sugar Rush (feat. Levi Kaiser)
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/157/With%20Friends/2ToneDisco%20x%20NEET%20-%20Sugar%20Rush%20(feat.%20Levi%20Kaiser).mp3" type="audio/mpeg">

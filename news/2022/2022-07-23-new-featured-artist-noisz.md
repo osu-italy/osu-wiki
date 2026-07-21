@@ -2,13 +2,14 @@
 layout: post
 title: "New Featured Artist: NOISZ"
 date: 2022-07-23 10:00:00 +0000
+series: featured_artists
 ---
 
 **NOISZ** expands our Featured Artist library with a whole bunch of original rhythm game compositions by artists like *Soleily*, *Nhato* and *Camellia*!
 
 ![](https://assets.ppy.sh/artists/286/header.jpg)
 
-An unprecedented combo of the bullet hell genre, visual novels, and (most importantly) rhythm games, **NOISZ** is a video game backed by premier talents in the modern rhythm game universe. 
+An unprecedented combo of the bullet hell genre, visual novels, and (most importantly) rhythm games, **NOISZ** is a video game backed by premier talents in the modern rhythm game universe.
 
 As of today, **NOISZ**'s awesome soundtrack is now part of osu!.
 

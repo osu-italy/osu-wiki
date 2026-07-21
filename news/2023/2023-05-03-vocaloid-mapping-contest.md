@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Vocaloid Mapping Contest"
+title: Vocaloid Mapping Contest
 date: 2023-05-03 12:00:00 +0000
+series: community_contests
 ---
 
 The premier mapping event for all vocal synth appreciators is here with the first iteration of the Vocaloid Mapping Contest!

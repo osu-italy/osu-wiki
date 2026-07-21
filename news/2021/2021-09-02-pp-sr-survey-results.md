@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Results - Performance Points & Star Rating Survey"
+title: Results - Performance Points & Star Rating Survey
 date: 2021-09-02 08:00:00 +0000
+series: ranking_system_updates
 ---
 
 You've had your say, and the results are in. Check out how your opinions on Performance Points & Star Rating compare to the rest of the community!

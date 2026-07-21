@@ -2,6 +2,7 @@
 layout: post
 title: "osu! Mapping Olympiad #1 Results"
 date: 2018-06-23 16:00:00 +0000
+series: official_contests
 ---
 
 The very first osu! Mapping Olympiad has just concluded, and the results are in! See who emerged on top amongst the mappers who competed on three exciting songs by Kuba Oms, cYsmix and OISHII!
@@ -79,7 +80,7 @@ In **second place** is [**Kibbleru**](https://osu.ppy.sh/users/3193504) with a t
 And **third place** goes to [**Nozhomi**](https://osu.ppy.sh/users/2716981) with a total score of **157.5**! Nozhomi also scored consistently high in each category, notably ahead of the rest of the entries.
 
 [Click here for the complete results for *HONEY SNOWFLAKES* including judges' comments for each entry.](https://docs.google.com/spreadsheets/d/1DFpLr0JEsoWqMHdKEN8ytN4uW0mYShUpe0VTp8k-08k/edit?usp=sharing)
-  
+
 Thank you to everybody who submitted an entry and congratulations to all of the top three finishers! Here is what they will receive as their reward (as a reminder, 6 Olympiad Points are needed for one badge level):
 
 - **First place**: 3 months of osu!supporter, 6 Olympiad Points (resulting in 'Mapping Olympian' badge)

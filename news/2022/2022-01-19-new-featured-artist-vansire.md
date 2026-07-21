@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Vansire"
 date: 2022-01-19 09:00:00 +0000
+series: featured_artists
 ---
 
 **Vansire** permeates both the Featured Artist library and your dreams.
@@ -32,7 +33,7 @@ Try [the map from the video above](https://osu.ppy.sh/beatmapsets/1080204) or [a
 
 ### Every Time Around
 
-Or check out [this map](https://osu.ppy.sh/beatmapsets/1280657) also hosted by [wafer](https://osu.ppy.sh/users/9416836)! 
+Or check out [this map](https://osu.ppy.sh/beatmapsets/1280657) also hosted by [wafer](https://osu.ppy.sh/users/9416836)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/232/After%20Fillmore%20County/Vansire%20-%20Every%20Time%20Around.mp3" type="audio/mpeg">

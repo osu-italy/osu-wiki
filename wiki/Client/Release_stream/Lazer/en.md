@@ -11,12 +11,11 @@ tags:
 
 # Lazer release stream
 
-*For a list of features in lazer and common questions regarding the new client, see: [Help centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*\
-*For a list of changes to game mechanics, see: [Gameplay differences in osu!(lazer)](/wiki/Client/Release_stream/Lazer/Gameplay_differences_in_osu!(lazer))*
+*For a list of features in lazer and common questions regarding the new client, see: [Help centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*
 
 ::: Infobox
 
-![](img/lazer.png "The osu!(lazer) client logo, a stylised version of the osu! cookie")
+![](img/lazer.png?2024-10-04 "The osu!(lazer) client logo.")
 
 [Download](https://osu.ppy.sh/home/download) • [Issue tracker](https://github.com/ppy/osu/issues) • [Discussions](https://github.com/ppy/osu/discussions)
 

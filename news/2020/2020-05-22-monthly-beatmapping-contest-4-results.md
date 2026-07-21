@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest #4: Results"
 date: 2020-05-22 04:30:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Curious as to how one makes a map with only reverse sliders? See how the winners of the fourth monthly beatmapping contest managed!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The **Monthly Beatmapping Contest** (***MBC***) has been pumping out constant mapping competition for all of 2020. The details may be overwhelming for those jumping in late, so review the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) if you're confused.
 
@@ -28,11 +29,11 @@ Close behind with **50** votes, [fanzhen0019](https://osu.ppy.sh/users/418699) n
 
 Players and mappers alike can appreciate this map for its barrage of unconventional yet engaging patterns. Pairing a stunning visual design with fancy cursor movement, it's safe to say that anyone reading should give this beatmap a play!
 
-As the contest's runner-up, fanzhen0019 has earned one month of supporter and is halfway to the first reward tier's profile badge prize. 
+As the contest's runner-up, fanzhen0019 has earned one month of supporter and is halfway to the first reward tier's profile badge prize.
 
 ### Screening crew favorite
 
-It may have been behind in the community vote, but [Acyl](https://osu.ppy.sh/users/1943309)'s execution of [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/1174743#osu/2450265) performed well in its own way! 
+It may have been behind in the community vote, but [Acyl](https://osu.ppy.sh/users/1943309)'s execution of [LeaF - Chronostasis](https://osu.ppy.sh/beatmapsets/1174743#osu/2450265) performed well in its own way!
 
 The finalists of each MBC are decided by a team of experienced beatmappers, and 12 of 16 mappers this month put Acyl's map in their top 5, making it this month's **screening crew favorite!**
 

@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Inferi"
 date: 2019-07-20 15:00:00 +0000
+series: featured_artists
 ---
 
 Born again from the flames and into the Featured Artist family, **Inferi** joins the roster!
@@ -19,7 +20,7 @@ Already a household name among osu! players craving a more gruesome set of faste
 <audio controls>
     <source src="https://assets.ppy.sh/artists/43/previews/1038.mp3" type="audio/mpeg">
 </audio>
- 
+
 ### The Path of Apotheosis
 
 <audio controls>

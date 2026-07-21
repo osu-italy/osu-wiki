@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ekcle"
 date: 2022-12-07 11:00:00 +0000
+series: featured_artists
 ---
 
 Originality is the most highly valued commodity in the mapping world, and our newest Featured Artist **Ekcle** is here to provide it.
@@ -15,7 +16,7 @@ Stop reading and start mapping any of the **7** awe-inspiring songs available fr
 In classic [DeviousPanda](https://osu.ppy.sh/users/4966334) fashion, we'll be showcasing **Ekcle**'s talents with an 8-star rendition of [Crafted In Ice](https://osu.ppy.sh/beatmapsets/1868244), played by the one and only [Ekoro](https://osu.ppy.sh/users/284905).
 
 Check it out:
- 
+
 <div align="center">
     <video width="100%" controls>
         <source src="https://assets.ppy.sh/artists/326/release_showcase.mp4" type="video/mp4" preload="none">

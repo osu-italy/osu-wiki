@@ -20,7 +20,7 @@ Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego
 
 *Artículo principal: [Dificultad](/wiki/Beatmap/Difficulty)*
 
-Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#difficulty) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
+Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/osu_(file_format)) que describe la ubicación de los objetos, hitsounds y efectos especiales como el [kiai time](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_setup#dificultad) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
 
 ## Envío
 
@@ -44,14 +44,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Un beatmap enviado pertenece a una de las siguientes categorías, que pueden cambiar con el tiempo:
 
-- [Abandonado](Category#abandonados)
-- [Trabajo en progreso / Pendiente](Category#trabajos-en-progreso-y-pendientes)
-- [Calificado](Category#calificados)
-- [Clasificado](Category#clasificados)
-- [Aprobado](Category#aprobados)
-- [Amado](Category#amados)
+- [Abandonados](Category#graveyard)
+- [Trabajo en progreso / Pendientes](Category#wip-and-pending)
+- [Calificados](Category#qualified)
+- [Clasificados](Category#ranked)
+- [Aprobados](Category#approved)
+- [Amados](Category#loved)
 
-Algunas categorías tienen [criterios de envío](/wiki/Ranking_criteria) y permiten que los beatmaps tengan [tablas de clasificación](#tablas-de-clasificación) transitorias o permanentes. La forma más popular de lograrlo es el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure), mientras que la segunda opción es hacer que el beatmap sea [amado](Category#amados).
+Algunas categorías tienen [criterios de envío](/wiki/Ranking_criteria) y permiten que los beatmaps tengan [tablas de clasificación](#tablas-de-clasificación) transitorias o permanentes. La forma más popular de lograrlo es el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure), mientras que la segunda opción es hacer que el beatmap sea [amado](Category#loved).
 
 ## Descargar beatmaps
 
@@ -85,11 +85,11 @@ Los beatmaps que se clasificaron el mismo mes, o que comparten el mismo tema (po
 Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de rango globalmente](/wiki/Performance_points) y [competir entre sí](/wiki/Ranking). osu! tiene diferentes tipos de marcadores específicos de beatmaps, todos los cuales, excepto el primero, solo están disponibles para [osu!supporters](/wiki/osu!supporter):
 
 - Clasificación global, que funciona en toda la base de jugadores activa;
-- Clasificación global para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier);
+- Clasificación global para cada combinación de [modificadores del juego](/wiki/Gameplay/Game_modifier);
 - Clasificación específica del país hecha de jugadores que llevan la misma bandera;
 - Clasificación de amigos que muestra la posición de un jugador en el mapa en comparación con sus amigos.
 
-Las 500 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
+Las 1000 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
 
 ### Tablas y destacados
 
@@ -105,8 +105,8 @@ Más tarde, el sistema de tablas se convirtió en el proyecto [Beatmap Spotlight
 
 La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mappers que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una [insignia de perfil](/wiki/Community/Profile_badge) temática.
 
-### Artistas destacados
+### Artistas Destacados
 
-*Página principal: [Artistas destacados](/wiki/People/Featured_Artists)*
+*Página principal: [Artistas Destacados](/wiki/People/Featured_Artists)*
 
-Artistas destacados es un programa comunitario del [osu! team](/wiki/People/osu!_team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de artistas destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.
+Artistas Destacados es un programa comunitario del [osu! team](/wiki/People/osu!_team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de Artistas Destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.

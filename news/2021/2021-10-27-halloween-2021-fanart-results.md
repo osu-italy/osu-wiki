@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Halloween 2021 Fanart Contest Results"
+title: Halloween 2021 Fanart Contest Results
 date: 2021-10-27 15:30:00 +0000
+series: fanart_contests
 ---
 
 The height of spooky night is nearly upon us, and to celebrate, we've got twenty new finalists from our latest Halloween fanart contest to help set the mood!
 
 ![](https://assets.ppy.sh/contests/135/banners/Dreamxiety.jpg)
 
-With nearly ten thousand unique voters having their say over the course of a single week, it's clear to say that osu!'s long-standing tradition of adoring Halloween continues well into 2021. 
+With nearly ten thousand unique voters having their say over the course of a single week, it's clear to say that osu!'s long-standing tradition of adoring Halloween continues well into 2021.
 
 You've struggled through the horror of having to choose only **20** entries out of **150** absurdly talented entries, and it is now time to see the fruit of your labours rise from the grave and park themselves in-game as our latest Seasonal backgrounds.
 

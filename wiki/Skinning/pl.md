@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: cd53f694f7e0e700e57857590002cd09e6a07e07
+---
+
 # Tworzenie skórek
 
 Tworzenie skórek to jedna z najważniejszych funkcji w osu!, która umożliwia zamianę elementów graficznych gry na własne. Wyróżniamy kilka rodzajów skórek: stworzone dla zabawy, tematyczne, profesjonalne oraz nienadające się do użytku.
@@ -19,7 +24,7 @@ Elementy skórek są podzielone na następujące kategorie:
 - [osu!mania](/wiki/Skinning/osu!mania)
 - [Dźwięki](/wiki/Skinning/Sounds)
 
-## Zobacz 
+## Zobacz
 
 - [skin.ini](/wiki/Skinning/skin.ini)
 - [Dawne elementy skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek

@@ -21,11 +21,11 @@ De osu!supporter tag kan je verkrijgen in de [osu!supporter winkelpagina](https:
 ### Hartinsigne
 
 ::: Infobox
-![](img/userpage.png?1 "Profiel met osu!supporter")
+![](img/userpage.png?20241103 "Profiel met osu!supporter")
 :::
 
 ::: Infobox
-![](img/usercard.png?2 "Gebruikerscard met osu!supporter")
+![](img/usercard-NL.png?20241022 "Gebruikerscard met osu!supporter")
 :::
 
 Supporters krijgen een insigne met harten erop, gebruikelijk naast hun gebruikersnaam op de website.
@@ -90,7 +90,7 @@ osu! biedt meer gerelaxte limieten van online functies voor supporters:
 
 | Waarde | Normaal limiet | osu!supporter limiet |
 | :-- | :-: | :-: |
-| [Beatmaps in behandeling](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(ranked beatmaps, 4)`, tot en met **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, tot en met **20**[^pending-beatmaps-ref] |
+| [Beatmaps in behandeling](/wiki/Beatmap/Category#wip-and-pending) | `4 + min(ranked beatmaps, 4)`, tot en met **8**[^pending-beatmaps-ref] | `8 + min(ranked beatmaps, 12)`, tot en met **20**[^pending-beatmaps-ref] |
 | Online beatmap favorieten | 100 | 1000 |
 | Aantal vrienden | 500 | 1000 |
 

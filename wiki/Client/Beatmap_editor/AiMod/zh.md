@@ -129,8 +129,8 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 | 消息 | 解释 | 解决方案 | 注意 |
 | :-- | :-- | :-- | :-- |
 | [堆叠判定值 (Stack leniency)](/wiki/Beatmap/Stack_leniency) 高于 0.9 或低于 0.3。 | [歌曲设置](/wiki/Client/Beatmap_editor/Song_setup)页面中高级 (Advanced) 标签页下的 `Stack Leniency` 滑块对应值小于 3 或大于 9。 | 将 `Stack Leniency` 值设定为 3 到 9 之间。 | 如果有意这样使用堆叠判定值，则可忽略此警告。 |
-| 艺术家名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Artist` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria#元数据)为 `Romanised Artist` 字段填写罗马音艺术家名。 |  |
-| 标题名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Title` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria#元数据)为 `Romanised Title` 字段填写罗马音标题名。 |  |
+| 艺术家名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Artist` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Artist` 字段填写罗马音艺术家名。 |  |
+| 标题名（罗马拼音）包含非 ASCII 字符。 | 歌曲设置页面中常规 (General) 标签页下的 `Romanised Title` 字段含有[非标准 Unicode 字符](https://baike.baidu.com/item/%E7%BB%9F%E4%B8%80%E7%A0%81)。 | 参照[谱面上架标准中的元数据标准化规则](/wiki/Ranking_criteria/Metadata)为 `Romanised Title` 字段填写罗马音标题名。 |  |
 | osu!mania 模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
 | osu!mania 模式不允许使用黑边 (letterbox)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Letterbox during breaks` 选项。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面 |
 | 太鼓模式不允许使用倒计时 (countdown)。 | *不言而喻* | 取消勾选歌曲设置页中设计 (Design) 标签页下的 `Enable countdown` 选项。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。尽管游戏中存在此警告， osu!taiko 也不支持倒计时，但 AiMod 不会显示此警告。 |
@@ -158,10 +158,10 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 | 图集中至少需要一个 Easy/Normal 难度。 | *不言而喻* | 为此图集创建 Easy/Normal 难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
 | <!-- 未验证 -->此图集在没有 Hard 难度的情况下不可有 Insane 难度。 | *不言而喻* | 为此图集创建 Hard 难度。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
 | <!-- 未验证 -->缺失图集难度：{0}。 | *不言而喻* | 创建缺失的难度来填补难度空缺。 | 此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| 图集中至少需要两个 osu! 标准模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu! 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| 图集中至少需要两个太鼓模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| 图集中至少需要两个 osu!catch 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu!catch 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
-| 图集中至少需要两个 osu!mania 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria#谱面)，就可以忽略此警告。 |
+| 图集中至少需要两个 osu! 标准模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu! 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!#规定)，就可以忽略此警告。 |
+| 图集中至少需要两个太鼓模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/taiko.png) osu!taiko 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!taiko#规定)，就可以忽略此警告。 |
+| 图集中至少需要两个 osu!catch 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 osu!catch 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!catch#规定)，就可以忽略此警告。 |
+| 图集中至少需要两个 osu!mania 模式的难度。 | *不言而喻* | 为此图集再创建一个难度。 | 仅限 ![](/wiki/shared/mode/mania.png) osu!mania 谱面。此警告基于一条已过时的谱面上架标准中的规则，现已被弃用。因此，只要谱面遵循当前的[谱面上架标准](/wiki/Ranking_criteria/osu!mania#规定)，就可以忽略此警告。 |
 
 ## 缺陷
 
@@ -170,4 +170,4 @@ AiMod 的开发进程往往滞后于摸图社区与[谱面上架标准 (RC)](/wi
 - **启用 `Check distance snap` 选项的情况下，AiMod 并不会检查串与串之间的间距锁定情况。**
 - **如果谱面文件夹中有多个 MP3 文件，AiMod 会警告你有多个歌曲文件**。然而，MP3 文件也可用于鼓掌之类的音效。
 
-如果你想要让谱面[上架](/wiki/Beatmap/Category#上架-(ranked))，除 AiMod 以外，推荐你再使用其他程序，比如 ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。这些程序能更加紧跟目前的谱面上架准则，能检测出的问题远多于 AiMod。但由于上架准则中的一些规则依赖 AiMod，也不要完全忽略它。
+如果你想要让谱面[上架](/wiki/Beatmap/Category#ranked)，除 AiMod 以外，推荐你再使用其他程序，比如 ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) 的 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases)。这些程序能更加紧跟目前的谱面上架准则，能检测出的问题远多于 AiMod。但由于上架准则中的一些规则依赖 AiMod，也不要完全忽略它。

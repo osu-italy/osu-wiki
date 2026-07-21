@@ -1,3 +1,8 @@
+---
+outdated_since: 6764d34c29c0eac7037a091e314d7376d1829d9d
+outdated_translation: true
+---
+
 # Points de performance
 
 Les **points de performance** (abrégé en **pp**) sont une mesure de classement qui vise à être plus contextuellement pertinente pour la progression d'un joueur sur osu!.
@@ -10,7 +15,7 @@ La première mise en œuvre d'un tel score a été révélée au public au cours
 
 Connu par la suite sous le nom de "pp" (abréviation de "performance points"), ce nouveau système visait à modifier la norme précédente de la performance des joueurs, qui consistait à passer d'un simple [score](/wiki/Gameplay/Score) total à quelque chose qui reflétait précisément les compétences. Ce nouveau système a été largement plébiscité par les joueurs de l'époque.
 
-Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
+Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#ranked), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
 
 Il a continué à exister dans cette capacité pendant plus d'un an de service jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de la mesure de score *osu!tp*, rejoigne l'[équipe d'osu!](/wiki/People/osu!_team) et implémente sa conception dans le système. Le système résultant a été intitulé *ppv2*, et est devenu opérationnel le 27 janvier 2014, renommant ainsi l'ancien système *[ppv1](/wiki/Performance_points/ppv1)*.
 
@@ -99,15 +104,15 @@ Considérez les conseils suivants :
 
 Vous pouvez en savoir plus sur le weightage system [plus haut](#weightage-system).
 
-### Quel est le nombre de bonus pp maximum obtenus après avoir réalisé beaucoup de scores sur des beatmaps classées ?
+### Quel est le nombre de bonus pp maximum obtenus après avoir réalisé des scores sur des beatmaps classées ?
 
-**Jusqu'à 416,6667 pp de bonus sont accordés pour l'établissement d'un grand nombre de scores. Ce nombre est atteint lorsque vous avez environ 25397 scores.**
+**Jusqu'à 416,6667 pp de bonus sont accordés pour l'établissement des scores. Ce nombre est atteint avec environ 3640 scores, mais 416 d'entre eux peuvent être atteints en ayant seulement 1285 scores.**
 
-Vous pouvez calculer le montant exact de ce bonus en utilisant la formule suivante, `N` étant le nombre de beatmaps classées sur lesquelles vous avez réalisé un score :
+Vous pouvez calculer le montant exact de ce bonus en utilisant la [formule suivante](https://www.desmos.com/calculator/y5vy4vmxng), ou `N` étant le nombre de beatmaps classées sur lesquelles vous avez réalisé un score :
 
-`416.6667 * (1 - 0.9994 ^ N)`
+`416.6667 * (1 - 0.995 ^ N)`
 
-Le nombre médian de scores requis pour atteindre la moitié de ce bonus est d'environ 1155 scores. Comme vous pouvez le constater, le nombre de points requis augmente fortement vers l'extrémité supérieure du spectre.
+Le nombre médian de scores requis pour atteindre la moitié de ce bonus est d'environ 209 scores. Comme vous pouvez le constater, le nombre de points requis augmente fortement vers l'extrémité supérieure du spectre.
 
 #### La pondération est-elle la raison pour laquelle je n'obtiens plus de pp en jouant des beatmaps faciles ?
 

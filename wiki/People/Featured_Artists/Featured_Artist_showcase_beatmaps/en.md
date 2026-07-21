@@ -2,7 +2,7 @@
 
 Members of the [Mappers' Guild](/wiki/Community/Mappers_Guild) may occasionally create exclusive "showcase beatmaps" by using songs and other materials from osu!'s unreleased [Featured Artists](/wiki/People/Featured_Artists). Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 
-In order to participate in the creation of Featured Artist showcase beatmaps, a member of the Mappers' Guild must either accept a [limited-time mystery quest](/wiki/Community/Mappers_Guild#quests), be directly invited by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), or have their `FA showcase mapper` setting enabled in the [Mappers' Guild website](https://mappersguild.com/).
+In order to participate in the creation of Featured Artist showcase beatmaps, a member of the Mappers' Guild must either accept a [limited-time mystery quest](/wiki/Community/Mappers_Guild#quests) or be directly invited by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).
 
 This article lists all the showcase beatmaps that have been created by the members of the Mappers' Guild over time.
 
@@ -390,7 +390,7 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[technoplanet](https://osu.ppy.sh/home/news/2021-08-25-new-featured-artist-technoplanet)** (2021-08-25)
   - (![][osu!]) [technoplanet feat. chamo - Tepic Tepoch](https://osu.ppy.sh/beatmapsets/1551369) hosted by ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
   - (![][osu!taiko]) [technoplanet - Megastructure \[Extended Mix\]](https://osu.ppy.sh/beatmapsets/1499443) hosted by ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484)
-  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)     
+  - (![][osu!catch]) [technoplanet - Intuition](https://osu.ppy.sh/beatmapsets/1553878) hosted by ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 - **[Release Hallucination](https://osu.ppy.sh/home/news/2021-08-28-new-featured-artist-release-hallucination)** (2021-08-28)
   - (![][osu!]) [Release Hallucination - Ariadne](https://osu.ppy.sh/beatmapsets/1550194) hosted by ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
@@ -631,6 +631,328 @@ This article lists all the showcase beatmaps that have been created by the membe
 - **[LandRoot](https://osu.ppy.sh/home/news/2022-12-10-new-featured-artist-landroot)** (2022-12-10)
   - (![][osu!]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1834399) hosted by ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)
   - (![][osu!taiko]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1474263) hosted by ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015)
+- **[Satyr](https://osu.ppy.sh/home/news/2022-12-14-new-featured-artist-satyr)** (2022-12-14)
+  - (![][osu!]) [Satyr - Picayune](https://osu.ppy.sh/beatmapsets/1902228) hosted by ::{ flag=RU }:: [Blood9](https://osu.ppy.sh/users/11214999)
+- **[nyankobrq](https://osu.ppy.sh/home/news/2022-12-21-new-featured-artist-nyankobrq)** (2022-12-21)
+  - (![][osu!]) [nyankobrq - Snorkel](https://osu.ppy.sh/beatmapsets/1886230) hosted by ::{ flag=JP }:: [Yuuma](https://osu.ppy.sh/users/6644401)
+
+## 2023
+
+### January
+
+- **[Fellowship](https://osu.ppy.sh/home/news/2023-01-07-new-featured-artist-fellowship)** (2023-01-07)
+  - (![][osu!]) [Fellowship - The Frozen Land](https://osu.ppy.sh/beatmapsets/1835572) hosted by ::{ flag=US }:: [nebuwua](https://osu.ppy.sh/users/14729352)
+- **[Euchaeta](https://osu.ppy.sh/home/news/2023-01-11-new-featured-artist-euchaeta)** (2023-01-11)
+  - (![][osu!]) [Euchaeta - A Songwriter's Cosmos](https://osu.ppy.sh/beatmapsets/1858201) hosted by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
+  - (![][osu!]) [Euchaeta - Spirit Away](https://osu.ppy.sh/beatmapsets/1857409) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+- **[Etherwood](https://osu.ppy.sh/home/news/2023-01-18-new-featured-artist-etherwood)** (2023-01-18)
+  - (![][osu!]) [Etherwood - Cast Away](https://osu.ppy.sh/beatmapsets/1922699) hosted by ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[kakichoco](https://osu.ppy.sh/home/news/2023-01-21-new-featured-artist-kakichoco)** (2023-01-21)
+  - (![][osu!]) [kakichoco - Zan'ei](https://osu.ppy.sh/beatmapsets/1888928) hosted by ::{ flag=RU }:: [PandaHero](https://osu.ppy.sh/users/1233255)
+  - (![][osu!]) [kakichoco - Reirou no Hibiki](https://osu.ppy.sh/beatmapsets/1853651) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+
+### February
+
+- **[FRASER EDWARDS](https://osu.ppy.sh/home/news/2023-02-04-new-featured-artist-fraser-edwards)** (2023-02-04)
+  - (![][osu!]) [FRASER EDWARDS - Ruination](https://osu.ppy.sh/beatmapsets/1848184) hosted by ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+- **[Liquicity](https://osu.ppy.sh/home/news/2023-02-08-featured-artist-track-updates-liquicity)** (2023-02-08)
+  - (![][osu!]) [Dan Dakota - Stood In The Dark (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1888924) hosted by ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
+- **[Cinamoro](https://osu.ppy.sh/home/news/2023-02-11-new-featured-artist-cinamoro)** (2023-02-11)
+  - (![][osu!mania]) [Cinamoro - Another](https://osu.ppy.sh/beatmapsets/1910036) hosted by ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+  - (![][osu!]) [Cinamoro - Paleturquoise](https://osu.ppy.sh/beatmapsets/1874826) hosted by ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)
+- **[yaseta](https://osu.ppy.sh/home/news/2023-02-18-new-featured-artist-yaseta)** (2023-02-18)
+  - (![][osu!]) [yaseta - Dreamy Goat](https://osu.ppy.sh/beatmapsets/1917139) hosted by ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
+- **[KASHIWA Daisuke](https://osu.ppy.sh/home/news/2023-02-22-new-featured-artist-kashiwa-daisuke)** (2023-02-22)
+  - (![][osu!]) [KASHIWA Daisuke - Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+- **[Kabocha](https://osu.ppy.sh/home/news/2023-03-01-new-featured-artist-kabocha)** (2023-03-01)
+  - (![][osu!]) [Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi](https://osu.ppy.sh/beatmapsets/1934595) hosted by ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
+  - (![][osu!taiko]) [Kabocha - Yume no Kuni e feat. miko](https://osu.ppy.sh/beatmapsets/1851518) hosted by ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733)
+
+### March
+
+- **[Mediks](https://osu.ppy.sh/home/news/2023-03-04-new-featured-artist-mediks)** (2023-03-04)
+  - (![][osu!]) [Mediks - Blown Away (feat. Astronaut) (Raise Spirit Remix)](https://osu.ppy.sh/beatmapsets/1950373) hosted by ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033)
+- **[Minstrel](https://osu.ppy.sh/home/news/2023-03-15-new-featured-artist-minstrel)** (2023-03-15)
+  - (![][osu!]) [Minstrel - Yotogibanashi no Kamikakushi](https://osu.ppy.sh/beatmapsets/1900605) hosted by ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
+  - (![][osu!]) [Minstrel - Yotogibanashi no Kamikakushi](https://osu.ppy.sh/beatmapsets/1907639) hosted by ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
+  - (![][osu!]) [Minstrel - Cinderella Cage ~Falling in Love Again~](https://osu.ppy.sh/beatmapsets/1909142) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Minstrel - futuristic recollection](https://osu.ppy.sh/beatmapsets/1934280) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+- **[Kenneyon](https://osu.ppy.sh/home/news/2023-03-22-new-featured-artist-kenneyon)** (2023-03-22)
+  - (![][osu!catch]) [Kenneyon and Kara - Wildflower](https://osu.ppy.sh/beatmapsets/1914385) hosted by ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
+- **[Ashrount](https://osu.ppy.sh/home/news/2023-03-25-new-featured-artist-ashrount)** (2023-03-25)
+  - (![][osu!]) [Maverick - opaque](https://osu.ppy.sh/beatmapsets/1955283) hosted by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805)
+- **[Stars Hollow](https://osu.ppy.sh/home/news/2023-03-31-new-featured-artist-stars-hollow)** (2023-03-31)
+  - (![][osu!]) [Stars Hollow - Stuck to You.](https://osu.ppy.sh/beatmapsets/1966591) hosted by ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418)
+
+### May
+
+- **[tephe](https://osu.ppy.sh/home/news/2023-05-24-new-featured-artist-tephe)** (2023-05-24)
+  - (![][osu!]) [tephe - Genjitsu Escape](https://osu.ppy.sh/beatmapsets/1997470) hosted by ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- **[Shadren](https://osu.ppy.sh/home/news/2023-05-27-new-featured-artist-shadren)** (2023-05-27)
+  - (![][osu!]) [Shadren - You're Here Forever](https://osu.ppy.sh/beatmapsets/1948970) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][osu!]) [Shadren - Agleam (feat. Asperatus)](https://osu.ppy.sh/beatmapsets/1926857) hosted by ::{ flag=UZ }:: [M a r v o l l o](https://osu.ppy.sh/users/5504231)
+
+### June
+
+- **[Andora](https://osu.ppy.sh/home/news/2023-06-03-new-featured-artist-andora)** (2023-06-03)
+  - (![][osu!]) [Andora - Euphoria (feat. WaMi)](https://osu.ppy.sh/beatmapsets/1905874) hosted by ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!mania]) [Andora - Flicker (feat. RANASOL)](https://osu.ppy.sh/beatmapsets/1978179) hosted by ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[Junk](https://osu.ppy.sh/home/news/2023-06-17-new-featured-artist-junk)** (2023-06-17)
+  - (![][osu!]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010589) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][osu!catch]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2006758) hosted by ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
+  - (![][osu!taiko]) [Junk - Yellow Smile (bms edit)](https://osu.ppy.sh/beatmapsets/2010165) hosted by ::{ flag=AR }:: [gaston_2199](https://osu.ppy.sh/users/5938161)
+  - (![][osu!catch]) [Junk - Qualia](https://osu.ppy.sh/beatmapsets/2010010) hosted by ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765)
+- **[passchooo](https://osu.ppy.sh/home/news/2023-06-24-new-featured-artist-passchooo)** (2023-06-24)
+  - (![][osu!]) [passchooo - chooo2023_1](https://osu.ppy.sh/beatmapsets/1981957) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!mania]) [passchooo - chooo2023_1](https://osu.ppy.sh/beatmapsets/2014129) hosted by ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
+  - (![][osu!catch]) [passchooo - david gold took it slow (alt version)](https://osu.ppy.sh/beatmapsets/2014234) hosted by ::{ flag=SG }:: [Xinnoh](https://osu.ppy.sh/users/4236057)
+- **[Ruby My Dear](https://osu.ppy.sh/home/news/2023-07-01-new-featured-artist-ruby-my-dear)** (2023-07-01)
+  - (![][osu!catch]) [Ruby My Dear - Croque Monsieur A Disneyland](https://osu.ppy.sh/beatmapsets/2009607) hosted by ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
+
+### July
+
+- **[Krimek](https://osu.ppy.sh/home/news/2023-07-08-new-featured-artist-krimek)** (2023-07-08)
+  - (![][osu!]) [Krimek feat. dokxid - Gravity Hole](https://osu.ppy.sh/beatmapsets/1983505) hosted by ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
+- **[YUC'e](https://osu.ppy.sh/home/news/2023-07-15-new-featured-artist-yuce)** (2023-07-15)
+  - (![][osu!taiko]) [YUC'e - Future Candy](https://osu.ppy.sh/beatmapsets/2006776) hosted by ::{ flag=AR }:: [ZelLink](https://osu.ppy.sh/users/6752242)
+  - (![][osu!]) [YUC'e - SPACE INVADER](https://osu.ppy.sh/beatmapsets/2005892) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!mania]) [YUC'e - SPACE INVADER](https://osu.ppy.sh/beatmapsets/2008307) hosted by ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
+  - (![][osu!]) [YUC'e - Sugary Galaxy](https://osu.ppy.sh/beatmapsets/2015526) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [YUC'e - PUMP](https://osu.ppy.sh/beatmapsets/2023926) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### August
+
+- **[ALLMYFRIENDS](https://osu.ppy.sh/home/news/2023-08-05-new-featured-artist-all-my-friends)** (2023-08-05)
+  - (![][osu!]) [Synthion, Yuuna Nini - By My Side](https://osu.ppy.sh/beatmapsets/1993256) hosted by ::{ flag=US }:: [Shirahane Suou](https://osu.ppy.sh/users/10820856)
+  - (![][osu!]) [awfuless - Temptation (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1983389) hosted by ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!]) [you - Meteor (feat. TEA)](https://osu.ppy.sh/beatmapsets/1984574) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+- **[soowamisu](https://osu.ppy.sh/home/news/2023-08-19-new-featured-artist-soowamisu)** (2023-08-19)
+  - (![][osu!]) [soowamisu - .vaporcore](https://osu.ppy.sh/beatmapsets/1999116) hosted by ::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)
+  - (![][osu!]) [soowamisu - floating architecture of an abstract heaven](https://osu.ppy.sh/beatmapsets/1988496) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+- **[beignet](https://osu.ppy.sh/home/news/2023-08-26-new-featured-artist-beignet)** (2023-08-26)
+  - (![][osu!]) [beignet - Sign](https://osu.ppy.sh/beatmapsets/2030991) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!]) [beignet - Mint Comet (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031418) hosted by ::{ flag=ES }:: [Nachmark](https://osu.ppy.sh/users/17584310)
+  - (![][osu!mania]) [beignet - Maple Trick](https://osu.ppy.sh/beatmapsets/2032450) hosted by ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
+  - (![][osu!]) [beignet - S'more](https://osu.ppy.sh/beatmapsets/2050540) hosted by ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579)
+
+### September
+
+- **[C-Show](https://osu.ppy.sh/home/news/2023-09-02-new-featured-artist-c-show)** (2023-09-02)
+  - (![][osu!]) [C-Show - Rocking to the Beat (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2031865) hosted by ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!]) [C-Show - AImee feat. Aitsuki Nakuru](https://osu.ppy.sh/beatmapsets/2044626) hosted by ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!mania]) [C-Show - AImee feat. Aitsuki Nakuru](https://osu.ppy.sh/beatmapsets/2047648) hosted by ::{ flag=ID }:: [Virtue-](https://osu.ppy.sh/users/6144772)
+  - (![][osu!]) [C-Show feat. Ishizawa Yukari - Border Line](https://osu.ppy.sh/beatmapsets/2035357) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### October
+
+- **[Kou!](https://osu.ppy.sh/home/news/2023-10-07-new-featured-artist-kou)** (2023-10-07)
+  - (![][osu!catch]) [Kou! - sub/zerO](https://osu.ppy.sh/beatmapsets/2069616) hosted by ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
+- **[ColBreakz](https://osu.ppy.sh/home/news/2023-10-15-new-featured-artist-colbreakz)** (2023-10-15)
+  - (![][osu!]) [ColBreakz - 2011](https://osu.ppy.sh/beatmapsets/2074103) hosted by ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
+  - (![][osu!mania]) [Protolizard & ColBreakz - Nevermind](https://osu.ppy.sh/beatmapsets/2072833) hosted by ::{ flag=ID }:: [Ainer](https://osu.ppy.sh/users/13371424)
+  - (![][osu!]) [ColBreakz & Vizzen - Remember](https://osu.ppy.sh/beatmapsets/2052201) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+- **[Dustvoxx](https://osu.ppy.sh/home/news/2023-10-28-new-featured-artist-dustvoxx)** (2023-10-28)
+  - (![][osu!]) [Dustvoxx, Laur - FireLight](https://osu.ppy.sh/beatmapsets/2064173) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### November
+
+- **[PHAZE](https://osu.ppy.sh/home/news/2023-11-04-new-featured-artist-phaze)** (2023-11-04)
+  - (![][osu!]) [PHAZE - Mirai Isho](https://osu.ppy.sh/beatmapsets/1989072#osu/4132104) hosted by ::{ flag=DE }:: [KaedeharaKazuha](https://osu.ppy.sh/users/6300910)
+  - (![][osu!]) [PHAZE - abyss](https://osu.ppy.sh/beatmapsets/2047330#osu/4274291) hosted by ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539)
+- **[you](https://osu.ppy.sh/home/news/2023-11-18-new-featured-artist-you)** (2023-11-18)
+  - (![][osu!mania]) [you - Wake Up](https://osu.ppy.sh/beatmapsets/2090600#mania/4383318) hosted by ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604)
+  - (![][osu!]) [you feat. nayuta - Color (2019 Reworks)](https://osu.ppy.sh/beatmapsets/2089375#osu/4378527) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### December
+
+- **[Knife](https://osu.ppy.sh/home/news/2023-12-02-new-featured-artist-knife)** (2023-12-02)
+  - (![][osu!]) [Knife - Negaigoto Liner 2020](https://osu.ppy.sh/beatmapsets/2049932#osu/4280355) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!catch]) [Knife - Story](https://osu.ppy.sh/beatmapsets/2096026#fruits/4395020) hosted by ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765)
+- **[Asa](https://osu.ppy.sh/home/news/2023-12-10-new-featured-artist-asa)** (2023-12-10)
+  - (![][osu!catch]) [Koan Sound x Culprate x Reso x Asa - Cascade](https://osu.ppy.sh/beatmapsets/2046177#fruits/4271123) hosted by ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
+
+## 2024
+
+### February
+
+- **[Rocket Start](https://osu.ppy.sh/home/news/2024-02-03-new-featured-artist-rocket-start)** (2024-02-03)
+  - (![][osu!]) [Rocket Start - Sushi Blast](https://osu.ppy.sh/beatmapsets/2069690#osu/4330639) hosted by ::{ flag=UZ }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
+
+### April
+
+- **[PaceMKR](https://osu.ppy.sh/home/news/2024-04-13-new-featured-artist-pacemkr)** (2024-04-13)
+  - (![][osu!]) [PaceMKR - Break It Down (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2051128#osu/4283294) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### May
+
+- **[Rubatonin](https://osu.ppy.sh/home/news/2024-05-04-new-featured-artist-rubatonin)** (2024-05-04)
+  - (![][osu!]) [Hexacube - SUPER-ENTHUSIASTIC!!](https://osu.ppy.sh/beatmapsets/2049613) hosted by ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+  - (![][osu!mania]) [dabih & polarN - Koushyoku no Melody](https://osu.ppy.sh/beatmapsets/2174509) hosted by ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699)
+  - (![][osu!mania]) [Essbee - Rubix](https://osu.ppy.sh/beatmapsets/2098237) hosted by ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699)
+  - (![][osu!mania]) [LucaProject - Recovery](https://osu.ppy.sh/beatmapsets/2115263) hosted by ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693)
+  - (![][osu!taiko]) [Xeudo Code - TERRAFORGE](https://osu.ppy.sh/beatmapsets/2089942) hosted by ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649)
+- **[633397](https://osu.ppy.sh/home/news/2024-05-11-new-featured-artist-633397)** (2024-05-11)
+  - (![][osu!]) [633397 - this evil was warranted](https://osu.ppy.sh/beatmapsets/2131700) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [633397 - nothing can hurt you now. it's okay, don't worry](https://osu.ppy.sh/beatmapsets/2138377) hosted by ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649)
+  - (![][osu!taiko]) [633397 - run home](https://osu.ppy.sh/beatmapsets/2138818) hosted by ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032)
+  - (![][osu!taiko]) [633397 - i can't run anymore](https://osu.ppy.sh/beatmapsets/2134503) hosted by ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)
+- **[Strelitzia](https://osu.ppy.sh/home/news/2024-05-26-new-featured-artist-strelitzia)** (2024-05-26)
+  - (![][osu!]) [Strelitzia - This Bed Ain't Big Enough Fer The Two of Us](https://osu.ppy.sh/beatmapsets/2182598) hosted by ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332)
+
+### June
+
+- **[DeBisco](https://osu.ppy.sh/home/news/2024-06-02-new-featured-artist-debisco)** (2024-06-02)
+  - (![][osu!]) [DeBisco - FLASHBACK (Radio Edit)](https://osu.ppy.sh/beatmapsets/2132887) hosted by ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+  - (![][osu!]) [DeBisco - Overclocked (Pocket Size) (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2133686) hosted by ::{ flag=DE }:: [Kojio](https://osu.ppy.sh/users/2054596)
+- **[xiiiac13](https://osu.ppy.sh/home/news/2024-06-09-new-featured-artist-xiiiac13)** (2024-06-09)
+  - (![][osu!])(![][osu!taiko]) [xiiiac13 - who let him cook](https://osu.ppy.sh/beatmapsets/2169368) hosted by ::{ flag=HU }:: [nytro](https://osu.ppy.sh/users/11327918)
+  - (![][osu!]) [xiiiac13 - got a compliment today](https://osu.ppy.sh/beatmapsets/2163558) hosted by ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- **[Doomsday](https://osu.ppy.sh/home/news/2024-06-16-new-featured-artist-doomsday)** (2024-06-16)
+  - (![][osu!catch]) [Doomsday - SigmaGlider](https://osu.ppy.sh/beatmapsets/2138030) hosted by ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Nakura](https://osu.ppy.sh/home/news/2024-06-22-new-featured-artist-nakura)** (2024-06-22)
+  - (![][osu!]) [Nakura - Takin' U There (osu! edit)](https://osu.ppy.sh/beatmapsets/2134284) hosted by ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071)
+  - (![][osu!taiko]) [Nakura - 7th Sphere](https://osu.ppy.sh/beatmapsets/2155698) hosted by ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835)
+- **[takehirotei](https://osu.ppy.sh/home/news/2024-06-29-new-featured-artist-takehirotei)** (2024-06-29)
+  - (![][osu!]) [takehirotei - Chronoexplorers (feat. Finite Limit)](https://osu.ppy.sh/beatmapsets/2168355) hosted by ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992)
+  - (![][osu!taiko]) [takehirotei - Tainted Reminiscence](https://osu.ppy.sh/beatmapsets/2158145) hosted by ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741)
+  - (![][osu!taiko]) [takehirotei - Quad Erat Demonstrandum](https://osu.ppy.sh/beatmapsets/2134747) hosted by ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283)
+
+### July
+
+- **[Rose Quartz](https://osu.ppy.sh/home/news/2024-07-06-new-featured-artist-rose-quartz)** (2024-07-06)
+  - (![][osu!taiko]) [Rose Quartz - A Frozen Realm](https://osu.ppy.sh/beatmapsets/2129385) hosted by ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- **[MetaHumanBoi](https://osu.ppy.sh/home/news/2024-07-13-new-featured-artist-metahumanboi)** (2024-07-13)
+  - (![][osu!]) [MetaHumanBoi - Solar Strike](https://osu.ppy.sh/beatmapsets/2142528) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+- **[Candle](https://osu.ppy.sh/home/news/2024-07-21-new-featured-artist-candle)** (2024-07-21)
+  - (![][osu!mania]) [Candle - Dust Powered Sniper Rifle](https://osu.ppy.sh/beatmapsets/2129710) hosted by ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+
+### September
+
+- **[cast heal](https://osu.ppy.sh/home/news/2024-09-07-new-featured-artist-cast-heal)** (2024-09-07)
+  - (![][osu!]) [cast heal - run to her](https://osu.ppy.sh/beatmapsets/2217395) hosted by ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405)
+  - (![][osu!]) [cast heal - fragments](https://osu.ppy.sh/beatmapsets/2183856) hosted by ::{ flag=DE }:: [Okoayu](https://osu.ppy.sh/users/1623405)
+
+### October
+
+- **[Trina Lydia](https://osu.ppy.sh/home/news/2024-10-06-new-featured-artist-trina-lydia)** (2024-10-06)
+  - (![][osu!]) [Trina Lydia - Stellar Immortality](https://osu.ppy.sh/beatmapsets/2197796) hosted by ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- **[sugosugiii](https://osu.ppy.sh/home/news/2024-10-20-new-featured-artist-sugosugiii)** (2024-10-20)
+  - (![][osu!]) [sugosugiii - Times New Roman](https://osu.ppy.sh/beatmapsets/2240606) hosted by ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+  - (![][osu!taiko]) [sugosugiii, SiLiS - Reminiscing Onward](https://osu.ppy.sh/beatmapsets/2241960) hosted by ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793)
+
+### November
+
+- **[WyvernP](https://osu.ppy.sh/home/news/2024-11-09-new-featured-artist-wyvernp)** (2024-11-09)
+  - (![][osu!]) [WyvernP - I'm not a HERO (2023 Remake)](https://osu.ppy.sh/beatmapsets/2202737) hosted by ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+  - (![][osu!taiko]) [WyvernP - White Devil](https://osu.ppy.sh/beatmapsets/2194042) hosted by ::{ flag=US }:: [Alchyr](https://osu.ppy.sh/users/4993032)
+
+## 2025
+
+### January
+
+- **[ZVLIAN](https://osu.ppy.sh/home/news/2025-01-12-new-featured-artist-zvlian)** (2025-01-12)
+  - (![][osu!]) [ZVLIAN - Worlds (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2240082) hosted by ::{ flag=HU }:: [nytro](https://osu.ppy.sh/users/11327918)
+  - (![][osu!])(![][osu!taiko]) [ZVLIAN - SHIFTING GROUND](https://osu.ppy.sh/beatmapsets/2247612) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+- **[ntyn](https://osu.ppy.sh/home/news/2025-01-18-new-featured-artist-ntyn)** (2025-01-18)
+  - (![][osu!]) [ntyn - We Love Idol, and Master! (Chiptune)](https://osu.ppy.sh/beatmapsets/2258940) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### February
+
+- **[WEARY](https://osu.ppy.sh/home/news/2025-02-22-new-featured-artist-weary)** (2025-02-22)
+  - (![][osu!mania]) [WEARY & IlluminatedGalaxy - Journey](https://osu.ppy.sh/beatmapsets/2216028) hosted by ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+  - (![][osu!]) [WEARY x Revrey - Effulgence](https://osu.ppy.sh/beatmapsets/2234038) hosted by ::{ flag=CL }:: [Cris-](https://osu.ppy.sh/users/6175280)
+  - (![][osu!]) [Mega Collaboration - Starry Night (Extended Mix)](https://osu.ppy.sh/beatmapsets/2195040) hosted by ::{ flag=FI }:: [P_O](https://osu.ppy.sh/users/831979)
+
+### March
+
+- **[SEVEN LIVES](https://osu.ppy.sh/home/news/2025-03-09-new-featured-artist-seven-lives)** (2025-03-09)
+  - (![][osu!taiko]) [SEVEN LIVES - Statues](https://osu.ppy.sh/beatmapsets/2197744) hosted by ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
+- **[hikota](https://osu.ppy.sh/home/news/2025-03-15-new-featured-artist-hikota)** (2025-03-15)
+  - (![][osu!]) [hikota - Acceptance](https://osu.ppy.sh/beatmapsets/2301725) hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
+  - (![][osu!]) [hikota - farewell](https://osu.ppy.sh/beatmapsets/2260529) hosted by ::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)
+- **[rae](https://osu.ppy.sh/home/news/2025-03-22-new-featured-artist-rae)** (2025-03-22)
+  - (![][osu!])(![][osu!taiko]) [r@e - UNABLE](https://osu.ppy.sh/beatmapsets/2275451) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+
+### April
+
+- **[lexycat](https://osu.ppy.sh/home/news/2025-04-05-new-featured-artist-lexycat)** (2025-04-05)
+  - (![][osu!taiko]) [lexycat - incision](https://osu.ppy.sh/beatmapsets/2208878) hosted by ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283)
+  - (![][osu!taiko]) [lexycat - glitter *](https://osu.ppy.sh/beatmapsets/2300144) hosted by ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+  - (![][osu!mania]) [lexycat - Abyssal Storm](https://osu.ppy.sh/beatmapsets/2285560) hosted by ::{ flag=TW }:: [Usagi_](https://osu.ppy.sh/users/16046205)
+- **[1zm8](https://osu.ppy.sh/home/news/2025-04-28-new-featured-artist-1zm8)** (2025-04-28)
+  - (![][osu!]) [1zm8 - Beyond The Horizon](https://osu.ppy.sh/beatmapsets/2260556) hosted by ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+  - (![][osu!taiko]) [1zm8 - IDEAL [SHIFT]](https://osu.ppy.sh/beatmapsets/2301094) hosted by ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649)
+
+### May
+
+- **[The Musical Ghost](https://osu.ppy.sh/home/news/2025-05-24-new-featured-artist-the-musical-ghost)** (2025-05-24)
+  - (![][osu!mania]) [The Musical Ghost - Thinking Of](https://osu.ppy.sh/beatmapsets/2275105) hosted by ::{ flag=PH }:: [chocomilku-](https://osu.ppy.sh/users/16687756)
+- **[UNTONE Sound Group](https://osu.ppy.sh/home/news/2025-05-31-new-featured-artist-untone-sound-group)** (2025-05-31)
+  - (![][osu!]) [TFD500 - Yami](https://osu.ppy.sh/beatmapsets/2239180) hosted by ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)
+  - (![][osu!mania]) [DJ Stuiter - Iridescent](https://osu.ppy.sh/beatmapsets/2206149) hosted by ::{ flag=ID }:: [Ucitysm](https://osu.ppy.sh/users/14768693)
+
+### July
+
+- **[Aspect](https://osu.ppy.sh/home/news/2025-07-26-new-featured-artist-aspect)** (2025-07-26)
+  - (![][osu!mania]) [Aspect & Viznode - Astral Grove (Viznode Remix) [Aspect 2023 Live Edit]](https://osu.ppy.sh/beatmapsets/2304854) hosted by ::{ flag=DE }:: [BadDragon](https://osu.ppy.sh/users/6051688)
+
+### August
+
+- **[DraGonis](https://osu.ppy.sh/home/news/2025-08-04-new-featured-artist-dragonis)** (2025-08-04)
+  - (![][osu!]) [DraGonis x Ghost Voices - Stargazing in Liyue](https://osu.ppy.sh/beatmapsets/2361261) hosted by ::{ flag=HR }:: [Fufla](https://osu.ppy.sh/users/14367317)
+- **[SPIRIT GARDEN *](https://osu.ppy.sh/home/news/2025-08-09-new-featured-artist-spirit-garden)** (2025-08-09)
+  - (![][osu!catch]) [SPIRIT GARDEN * - Continue](https://osu.ppy.sh/beatmapsets/2343693) hosted by ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
+- **[Juwubi](https://osu.ppy.sh/home/news/2025-08-16-new-featured-artist-juwubi)** (2025-08-16)
+  - (![][osu!]) [Juwubi - NEVER GONNA GIVE YOU UP](https://osu.ppy.sh/beatmapsets/2341735) hosted by ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- **[GRYSCL](https://osu.ppy.sh/home/news/2025-08-24-new-featured-artist-gryscl)** (2025-08-24)
+  - (![][osu!taiko]) [GRYSCL - Wwhatevver](https://osu.ppy.sh/beatmapsets/2342916) hosted by ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+  - (![][osu!mania]) [GRYSCL - Escapism](https://osu.ppy.sh/beatmapsets/2384418) hosted by ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230)
+- **[d0tc0mmie](https://osu.ppy.sh/home/news/2025-08-31-new-featured-artist-d0tc0mmie)** (2025-08-31)
+  - (![][osu!taiko]) [d0tc0mmie - Guilty feat. Kasane Teto](https://osu.ppy.sh/beatmapsets/2371889) hosted by ::{ flag=RU }:: [Ryxliee](https://osu.ppy.sh/users/15823344)
+  - (![][osu!taiko]) [d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.)](https://osu.ppy.sh/beatmapsets/2351120) hosted by ::{ flag=GB }:: [MicSup08](https://osu.ppy.sh/users/8834793)
+
+### September
+
+- **[Drazically](https://osu.ppy.sh/home/news/2025-09-07-new-featured-artist-drazically)** (2025-09-07)
+  - (![][osu!taiko]) [Drazically - Reality:SHIFT](https://osu.ppy.sh/beatmapsets/2335282) hosted by ::{ flag=JP }:: [-Kazuha](https://osu.ppy.sh/users/29978316)
+  - (![][osu!catch]) [Drazically - ReiNcarnation](https://osu.ppy.sh/beatmapsets/2334915) hosted by ::{ flag=PH }:: [Bunnrei](https://osu.ppy.sh/users/829284)
+- **[kikoyu](https://osu.ppy.sh/home/news/2025-09-13-new-featured-artist-kikoyu)** (2025-09-13)
+  - (![][osu!]) [kikoyu - hypocrite](https://osu.ppy.sh/beatmapsets/2477208#osu/5436059) hosted by ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+- **[Xeon Diversity](https://osu.ppy.sh/home/news/2025-09-20-new-featured-artist-xeon-diversity)** (2025-09-20)
+  - (![][osu!]) [Xeon Diversity - Luminaire](https://osu.ppy.sh/beatmapsets/2353640) hosted by ::{ flag=CA }:: [coco](https://osu.ppy.sh/users/9579526)
+- **[Dvwnpour](https://osu.ppy.sh/home/news/2025-09-28-new-featured-artist-dvwnpour)** (2025-09-28)
+  - (![][osu!mania]) [Dvwnpour & Mediy0 - Starpop](https://osu.ppy.sh/beatmapsets/2363664) hosted by ::{ flag=KR }:: [Rurvker](https://osu.ppy.sh/users/24526335)
+
+### October
+
+- **[Tanger](https://osu.ppy.sh/home/news/2025-10-19-new-featured-artist-tanger)** (2025-10-19)
+  - (![][osu!]) [Tanger - tiny windows (feat. Frizk)](https://osu.ppy.sh/beatmapsets/2391171) hosted by ::{ flag=DE }:: [Nagi Seishiro](https://osu.ppy.sh/users/6300910)
+
+### November
+
+- **[lexxndr](https://osu.ppy.sh/home/news/2025-11-08-new-featured-artist-lexxndr)** (2025-11-09)
+  - (![][osu!taiko]) [lexxndr - The Beginning](https://osu.ppy.sh/beatmapsets/2432317) hosted by ::{ flag=HK }:: [iRedi](https://osu.ppy.sh/users/8005579)
+- **[WhiteSakata](https://osu.ppy.sh/home/news/2025-11-15-new-featured-artist-whitesakata)** (2025-11-15)
+  - (![][osu!]) [WhiteSakata - R(eiterat)e:](https://osu.ppy.sh/beatmapsets/2407278) hosted by ::{ flag=US }:: [Wispy](https://osu.ppy.sh/users/11106929)
+- **[Akts](https://osu.ppy.sh/home/news/2025-11-22-new-featured-artist-akts)** (2025-11-22)
+  - (![][osu!taiko]) [Akts - Too Much To See](https://osu.ppy.sh/beatmapsets/2352682) hosted by ::{ flag=US }:: [Izzeee](https://osu.ppy.sh/users/8503743)
+
+### December
+
+- **[MIDInco](https://osu.ppy.sh/home/news/2025-12-07-new-featured-artist-midinco)** (2025-12-07)
+  - (![][osu!]) [MIDInco - Shatter](https://osu.ppy.sh/beatmapsets/2401660) hosted by ::{ flag=US }:: [Cytusine](https://osu.ppy.sh/users/11557554)
+- **[AKA](https://osu.ppy.sh/home/news/2025-12-15-new-featured-artist-aka)** (2025-12-15)
+  - (![][osu!]) [Sweet Dove feat. AKA - Omoide Kakera](https://osu.ppy.sh/beatmapsets/2433381) hosted by ::{ flag=US }:: [Aeril](https://osu.ppy.sh/users/4334976)
+  - (![][osu!catch]) [AZALI & indrop feat. AKA - Faceless Memories](https://osu.ppy.sh/beatmapsets/2419849) hosted by ::{ flag=FR }:: [Slyme](https://osu.ppy.sh/users/11695793)
+- **[Stariah](https://osu.ppy.sh/home/news/2025-12-21-new-featured-artist-stariah)** (2025-12-21)
+  - (![][osu!]) [Stariah & ColBreakz - Dreams](https://osu.ppy.sh/beatmapsets/2428963) hosted by ::{ flag=LT }:: [Amefystol](https://osu.ppy.sh/users/26748801)
+
+## 2026
+
+### February
+
+- **[John Grant](https://osu.ppy.sh/home/news/2026-02-01-new-featured-artist-john-grant)** (2026-02-01)
+  - (![][osu!]) [John Grant - Fabled Frontiers](https://osu.ppy.sh/beatmapsets/2237488) hosted by ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264)
 
 ## History
 

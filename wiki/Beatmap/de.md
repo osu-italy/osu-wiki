@@ -24,7 +24,7 @@ Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/
 
 ## Einreichen
 
-*Hauptartikel: [Einreichen](/wiki/Beatmapping/Beatmap_submission)*
+*Hauptartikel: [Beatmaps veröffentlichen](/wiki/Beatmapping/Beatmap_submission)*
 
 Beatmap-Autoren können ihre Kreationen auf die öffentliche [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) [hochladen](/wiki/Beatmapping/Beatmap_submission). Auch wenn jede Schöpfung [einer einzelnen Person](/wiki/Beatmap/Beatmap_host) zugeschrieben wird, handelt es sich doch oft um eine gemeinschaftliche Arbeit: einige Schwierigkeitsgrade können von anderen Leuten innerhalb einer [Kollaboration](/wiki/Beatmap/Beatmap_collaborations) oder [separat](/wiki/Beatmap/Guest_difficulty) erstellt werden.
 
@@ -44,9 +44,9 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{Spielmodus}/{BeatmapID}
 
 Eine eingereichte Beatmap gehört zu einer der folgenden Kategorien, die sich über die Zeit ändern können:
 
-- [Friedhof](Category#friedhof)
-- [Work in Progress / Ausstehend](Category#work-in-progress-und-ausstehend)
-- [Qualifiziert](Category#qualifiziert)
+- [Friedhof](Category#graveyard)
+- [Work in Progress / Ausstehend](Category#wip-and-pending)
+- [Qualifiziert](Category#qualified)
 - [Ranked](Category#ranked)
 - [Approved](Category#approved)
 - [Loved](Category#loved)
@@ -89,7 +89,7 @@ osu!-Spieler benutzen in allen Spielmodi Beatmaps, um [global im Rang aufzusteig
 - Länder-spezifische Ranglisten mit Spielern, die dieselben Flaggen tragen
 - Freundesranglisten, die die Position eines Spielers auf einer Beatmap verglichen mit seinen Freunden zeigen
 
-Für die 500 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Replays](/wiki/Gameplay/Replay) angeboten, die entweder online angeschaut oder zur weiteren Anzeige in einer lokalen Rangliste gespeichert werden können.
+Für die 1000 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Replays](/wiki/Gameplay/Replay) angeboten, die entweder online angeschaut oder zur weiteren Anzeige in einer lokalen Rangliste gespeichert werden können.
 
 ### Charts und Spotlights
 

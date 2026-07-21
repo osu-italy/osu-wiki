@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contest: February"
 date: 2020-02-03 11:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 New month, new mapping contest! Vote on last month's submissions and compete to become the next Elite Mapper!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 The Monthly Beatmapping Contest (*MBC*) is back after a multi-year hiatus. Check out [last month's contest announcement](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return) if you need to catch up.
 

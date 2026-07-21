@@ -2,11 +2,12 @@
 layout: post
 title: "Monthly Beatmapping Contests: May 2021"
 date: 2021-05-09 18:00:00 +0000
+series: monthly_beatmapping_contest
 ---
 
 Try your hand at this month's slow-slider-themed contest with a chance to become osu!'s next *Elite Mapper*!
 
-![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
+![](https://assets.ppy.sh/media/monthly-beatmapping-contest.png)
 
 May's [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) includes opportunities for [**osu!**](https://osu.ppy.sh/community/contests/127), [**osu!taiko**](https://osu.ppy.sh/community/contests/128), and [**osu!mania**](https://osu.ppy.sh/community/contests/129) mappers. Maybe next month we'll cover every mode at the same time, who knows?
 
@@ -50,9 +51,9 @@ If you're brave enough to map anything other than a swing song with this limitat
 
 **[osu!mania MBC](https://osu.ppy.sh/community/contests/129) limitation:**
 
-- Long notes cannot be used. 
+- Long notes cannot be used.
 
-Entries must be 4K or 7K maps, meaning that 5K, 6K, 8K, 9K, and 10K entries are excluded from this edition. 
+Entries must be 4K or 7K maps, meaning that 5K, 6K, 8K, 9K, and 10K entries are excluded from this edition.
 
 ### Songs
 
@@ -91,7 +92,7 @@ Breaking any of these rules will land you in MBC prison. Submissions must...
 - **follow the month's [beatmapping limitation](#limitation) for the contest's mode:**
     - **osu!:** Total slider velocity cannot be higher than 1.4
     - **osu!taiko:** All patterns on snaps faster than 1/2 must have an **even** number of notes.
-    - **osu!mania:** Long notes cannot be used. 
+    - **osu!mania:** Long notes cannot be used.
 - **be in `.osz` format.** Including a background image and custom hitsounds is fine, but skin/storyboard/video content will not be considered.
 - **be a single difficulty for one of the month's [selected songs](#songs).**
 - **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/judging phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**

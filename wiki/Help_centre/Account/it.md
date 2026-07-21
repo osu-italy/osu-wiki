@@ -14,6 +14,8 @@ tags:
   - flag change
   - change flag
   - wrong flag
+outdated_translation: true
+outdated_since: 07144764dfa8ee93e7d1e8144a2ed8b5fd98ab4e
 ---
 
 # Account
@@ -153,7 +155,7 @@ Se un giocatore non ha effettuato l'accesso per almeno 6 mesi e non ha mai gioca
 
 Se quel giocatore **HA** delle partite giocate in qualsiasi modalità, una [funzione non lineare](https://www.desmos.com/calculator/b89siyv9j8) viene usata per calcolare quanto tempo extra si aggiunge a quei 6 mesi. Questo è per prevenire che le persone rubino i nomi utente dei giocatori attivi o recentemente ritirati.
 
-Inoltre, nomi utenti di giocatori con [mappe classificate](/wiki/Beatmap/Category#classificate) o [badge nel profilo](/wiki/Community/Profile_badge) non potranno essere usati.
+Inoltre, nomi utenti di giocatori con [mappe classificate](/wiki/Beatmap/Category#ranked) o [badge nel profilo](/wiki/Community/Profile_badge) non potranno essere usati.
 
 ### È possibile cambiare il mio nome o tornare al mio vecchio nome utente? {id=revert-username}
 

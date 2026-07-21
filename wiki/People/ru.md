@@ -10,15 +10,16 @@
 - [Выдающиеся участники сообщества](Community_Contributors)
 - [Команда osu!](osu!_team)
 - [Команда Project Loved](Project_Loved_Team)
-- [Команда глобальных модераторов](Global_Moderation_Team)
+- [Команда глобальной модерации](Global_Moderation_Team)
 - [Команда оценки номинаций](Nomination_Assessment_Team)
-- [Команда технической поддержки](Support_Team)
+- [Команда технической поддержки](Technical_Support_Team)
 - [Комитет по очкам производительности](Performance_Points_Committee)
-- [Комитет по турнирам](Tournament_Committee)
+- [Комплишионисты](Completionists)
 - [Кураторы Beatmap Spotlight](Beatmap_Spotlight_Curators)
-- [Номинаторы карт](Beatmap_Nominators)
+- [Номинаторы](Beatmap_Nominators)
 - [Разработчики](Developers)
 - [Служба поддержки](Account_support_team)
+- [Турнирный комитет](Tournament_Committee)
 - [Центурионы](Centurions)
 - [Элитные номинаторы](Elite_Nominators)
 
@@ -28,11 +29,10 @@
 - [Language Surveillance Division](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
 - [Quality Assurance Team](Quality_Assurance_Team)
-- [Команда osu!monthly](osu!monthly_team)
 
 ## Разное
 
 - [peppy](peppy)
-- [Группы пользователей](User_group)
+- [Группы пользователей](User_groups)
 - [История команд osu!](Staff_log)
 - [Пользователи с уникальными титулами](Users_with_unique_titles)

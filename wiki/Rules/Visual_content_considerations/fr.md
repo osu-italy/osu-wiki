@@ -1,3 +1,10 @@
+---
+tags:
+  - vcc
+outdated_translation: true
+outdated_since: 712bbdeb6c5c3e1c40c7d6b44cf61df76a6ab8ff
+---
+
 # Considérations relatives au contenu visuel
 
 Conformément à la [règle communautaire n°5](/wiki/Rules#règles-communautaires), tout contenu visuel mis en ligne ou téléchargé sur osu! doit être considéré comme approprié pour un jeu destiné à tous les âges.

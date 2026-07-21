@@ -9,15 +9,16 @@ Página de índice para artículos sobre personas o grupos.
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
 - [Centuriones](Centurions)
 - [Contribuidores de la comunidad](Community_Contributors)
+- [Completacionistas](Completionists)
 - [Desarrolladores](Developers)
 - [Elite Nominators](Elite_Nominators)
-- [Featured Artists](Featured_Artists)
+- [Artistas Destacados](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
-- [Comité de los puntos de rendimiento](Performance_Points_Committee)
+- [Comité de Puntos de Rendimiento](Performance_Points_Committee)
 - [Project Loved Team](Project_Loved_Team)
-- [Support Team](Support_Team)
-- [Comité de torneos](Tournament_Committee)
+- [Technical Support Team](Technical_Support_Team)
+- [Comité de Torneos](Tournament_Committee)
 - [osu! Alumni](osu!_Alumni)
 - [osu! team](osu!_team)
 - [Mantenedores de la osu! wiki](osu!_wiki_maintainers)
@@ -25,14 +26,13 @@ Página de índice para artículos sobre personas o grupos.
 ## Ex
 
 - [Beatmap Appreciation Team](Beatmap_Appreciation_Team)
-- [Language Surveillance Division](Language_Surveillance_Division)
+- [División de Vigilancia Lingüística](Language_Surveillance_Division)
 - [Mapping Assistance Team](Mapping_Assistance_Team)
-- [Equipo del osu!monthly](osu!monthly_team)
 - [Quality Assurance Team](Quality_Assurance_Team)
 
 ## Otro
 
 - [peppy](peppy)
-- [Registro de personal](Staff_log)
-- [Grupo de usuarios](User_group)
+- [Registro del personal](Staff_log)
+- [Grupos de usuarios](User_groups)
 - [Usuarios con títulos únicos](Users_with_unique_titles)

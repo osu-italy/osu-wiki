@@ -10,116 +10,125 @@ on:
       - synchronize
       - edited
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
+  precondition:
+    name: Determine if CI should run
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+    outputs:
+      should_run_checks: ${{ steps.calc.outputs.should_run_checks }}
+    steps:
+      - name: Determine if CI should run
+        id: calc
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const action = context.payload.action;
+            if (action != 'edited') {
+              core.setOutput('should_run_checks', 'true');
+              console.log('PR status or contents have changed => will run checks');
+              return;
+            }
+
+            const FLAGS = ['SKIP_REMARK', 'SKIP_WIKILINK_CHECK'];
+            const oldBody = context.payload.changes?.body?.from || '';
+            const newBody = context.payload.pull_request?.body || '';
+            const hasChangedFlags = FLAGS.some(flag => oldBody.includes(flag) != newBody.includes(flag));
+            if (hasChangedFlags) {
+              console.log('PR flags have changed => will run checks');
+              core.setOutput('should_run_checks', 'true');
+              return;
+            }
+
+            // Only previously successful checks must be skipped. It is possible for a check to fail due to
+            // infrastructure issues or the contents of the PR; in this case, it must run as per usual instead of
+            // masking the error even if the flags haven't changed.
+
+            const { owner, repo } = context.repo;
+            const { data: thisRun } = await github.rest.actions.getWorkflowRun({
+              owner, repo, run_id: context.runId,
+            });
+            const { data } = await github.rest.actions.listWorkflowRuns({
+              owner, repo,
+              workflow_id: thisRun.workflow_id,
+              head_sha: context.payload.pull_request.head.sha,
+              status: 'completed',
+            });
+
+            const previous = data.workflow_runs.find(run => run.id !== context.runId);
+            console.info(
+              'Previous workflow run for this commit: ' + JSON.stringify(previous?.url) +
+                ', conclusion: ' + JSON.stringify(previous?.conclusion)
+            );
+
+            const isFailureOrUnknown = previous?.conclusion !== 'success';
+            core.setOutput('should_run_checks', String(isFailureOrUnknown));
+
   ci:
     name: changed files
+    needs: precondition
+    if: ${{ needs.precondition.outputs.should_run_checks == 'true' }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-
-      - name: detect changed files
-        run: |
-          INTERESTING_FILES=$(
-            sort -u < <(
-              # Changes that are not committed (staged + unstaged + untracked), but without deleted files
-              git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
-              # Changes committed so far (may overlap with the above)
-              git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
-            )
-          )
-
-          # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
-          # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
-          DELIMITER="X${RANDOM}"
-          echo "INTERESTING_FILES<<${DELIMITER}" >> $GITHUB_ENV
-          echo "${INTERESTING_FILES}" >> $GITHUB_ENV
-          echo "${DELIMITER}" >> $GITHUB_ENV
-
-      - name: inspect file sizes
-        shell: bash
-        run: |
-          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
-          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
+      # Clone the repo and only fetch the commit that triggered the workflow (omitted default of `fetch-depth: 1`).
+      # To get the full list of changed files and avoid `fetch-depth: 0` (fetches the whole history) or GitHub API
+      # (returns <=3,000 changed files), we manually fetch `master` later.
+      - uses: actions/checkout@v4
 
       - name: set up Node.js
         id: setup-node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           cache: npm
-          node-version: 16
+          node-version: 20
 
       - name: load node_modules from cache
         id: cache-node-modules
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: node_modules
-          key: node-modules-${{ hashFiles('package.json', 'package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+          key: node-modules-${{ hashFiles('package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: install remark
-        if: steps.cache-node-modules.outputs.cache-hit != 'true'
+      - name: "if cache is outdated: install node.js dependencies"
+        if: ${{ steps.cache-node-modules.outputs.cache-hit != 'true' }}
         run: npm ci
 
-      - name: run remark on changed files
+      - name: Install package manager (Python)
+        uses: astral-sh/setup-uv@v7
+
+      - name: Install dependencies (Python)
+        run: uv sync
+
+      - name: detect changed files
+        id: detect-changed-files
+        # Use NUL as a separator to prevent filenames containing spaces and punctuation marks from tripping up the scripts.
         run: |
-          readarray -t REMARK_TARGET_FILES <<< $(
-            # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
-            echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[A-Z-]+\.md$' || true
-          )
-          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
+          changed_files="$(mktemp)"
+          git fetch --no-tags --depth=1 origin master
+          git diff --diff-filter=d --name-only --no-renames -z origin/master HEAD > "$changed_files"
+          printf 'CHANGED_FILES=%s\n' "$changed_files" >>"$GITHUB_ENV"
 
-      - name: set up Python
-        uses: actions/setup-python@v4
-        with:
-          cache: pip
-          cache-dependency-path: scripts/requirements.txt
-          python-version: 3.x
+      - name: check file sizes
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        run: xargs -0r meta/check-file-sizes.sh <"$CHANGED_FILES"
 
-      - name: set up Python CI dependencies
-        run: pip install -r scripts/requirements.txt
+      - name: run remark on changed files
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_REMARK') }}
+        run: |
+          grep -z '\.md$' <"$CHANGED_FILES" | \
+          REPORTER=vfile-reporter-github-action xargs -0r meta/remark.sh
 
       - name: run yamllint on .yaml and .md files
-        run: |
-          readarray -t YAMLLINT_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
-          osu-wiki-tools check-yaml --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES[@]}"
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        run: uv run osu-wiki-tools check-yaml --format github
 
       - name: find broken wikilinks
-        shell: bash
-        env:
-          PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
-        run: |
-          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
-            echo "::notice::Broken wikilink check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
-            exit 0
-          fi
-
-          readarray -t WIKILINK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
-          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES[@]}"
-
-      - name: check if translations are marked as outdated
-        shell: bash
-        env:
-          PULL_REQUEST_TAG: 'SKIP_OUTDATED_CHECK'
-        run: |
-          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
-            echo "::notice::Outdated articles check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
-            exit 0
-          fi
-
-          MAX_ATTEMPTS=3
-          for (( i=1; i<=MAX_ATTEMPTS; i++ )); do
-            # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
-            API_RESPONSE=$(
-              curl --header 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
-                ${{ github.event.pull_request.commits_url }}?per_page=1
-            )
-            if [[ 'array' != $( echo "${API_RESPONSE}" | jq -r 'type' ) ]]; then
-              echo "::warning::Unexpected GitHub API response (attempt ${i}/${MAX_ATTEMPTS}): ${API_RESPONSE}"
-            else
-              FIRST_PR_COMMIT_HASH=$( echo "${API_RESPONSE}" | jq -r '.[0].sha' )
-              osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH && exit 0
-            fi
-          done
-          echo "::warning::Failed to read the hash of the PR's first commit -- please re-run the check"
-          exit 1
+        if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
+        continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
+        run: uv run osu-wiki-tools check-links --all --format github

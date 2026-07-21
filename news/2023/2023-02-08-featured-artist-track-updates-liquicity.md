@@ -2,6 +2,7 @@
 layout: post
 title: "Featured Artist Track Updates: Liquicity"
 date: 2023-02-08 11:00:00 +0000
+series: featured_artists
 ---
 
 174 BPM never sounded *truly* smooth until **Liquicity** stepped in.
@@ -64,7 +65,7 @@ Or try [this million-play map](https://osu.ppy.sh/beatmapsets/821050) hosted by 
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/340/Songs/Raise%20Spirit%20-%20Don't%20Let%20Go.mp3" type="audio/mpeg">
-</audio> 
+</audio>
 
 ---
 

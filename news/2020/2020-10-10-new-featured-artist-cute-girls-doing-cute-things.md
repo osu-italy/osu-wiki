@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: cute girls doing cute things"
 date: 2020-10-10 09:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **cute girls doing cute things** aboard as our latest addition to the Featured Artist lineup!
@@ -52,7 +53,7 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1248714) hosted by 
 
 As usual, all of the above plus a few more are available over at [**cute girls doing cute things**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/105), pre-timed and waiting for you to engage in creative enterprise.
 
-That's all for this week! As a bit of a sneak peek, we've got something *very special* lined up on the music front that we'll be announcing in the next few weeks, of particular interest to the producers and musicians among us. 
+That's all for this week! As a bit of a sneak peek, we've got something *very special* lined up on the music front that we'll be announcing in the next few weeks, of particular interest to the producers and musicians among us.
 
 Keep tabs on things by following the [@osugame Twitter](https://twitter.com/osugame), and we'll see you again on Wednesday next week!
 

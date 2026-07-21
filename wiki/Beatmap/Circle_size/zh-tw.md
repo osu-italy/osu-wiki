@@ -3,6 +3,9 @@ no_native_review: true
 tags:
   - CS
   - key count
+  - keycount
+outdated_translation: true
+outdated_since: 18acafe6b640cd4a481974d04694a92dc01b521c
 ---
 
 # 圓圈大小

@@ -7,7 +7,7 @@ outdated_since: 1b5403b0be44652b95ae8edbab1f76b09bfb8b38
 
 *Lihat juga: [panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server).
+Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!](/wiki/Community/Discord_servers#official).
 
 ## Administrator
 
@@ -74,7 +74,7 @@ Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi 
 
 *Catatan: situs web [status osu-wiki](https://osu.wiki/status/id) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
 
-Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server).
+Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!](/wiki/Community/Discord_servers#official).
 
 ### Terjemahan
 
@@ -100,6 +100,6 @@ osu! adalah lingkungan yang selalu berubah: komunitas membuat beatmap baru, mene
 
 ### Pembaruan
 
-*Untuk kemungkinan cakupan pekerjaan, lihat: [Daftar TODO yang tidak terlacak (Bahasa Inggris)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Untuk kemungkinan cakupan pekerjaan, lihat: [Daftar TODO yang tidak terlacak (Bahasa Inggris)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+path%3A**%2Fen.md)*
 
 Artikel yang ada juga perlu pemeliharaan. Jika kamu menemukan kesalahan faktual, atau ada detail yang hilang, atau jika kamu hanya ingin menulis ulang/memperluas artikel sesuai dengan apa yang ada, majulah dan buat osu! wiki tempat yang lebih baik. Jika perubahan yang kamu rencanakan cukup besar atau signifikan, pastikan untuk membahasnya di saluran `#osu-wiki`, atau [buka *issue* baru](https://github.com/ppy/osu-wiki/issues/new).

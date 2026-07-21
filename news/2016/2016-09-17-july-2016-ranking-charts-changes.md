@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "July 2016 Ranking Charts - Changes"
+title: July 2016 Ranking Charts - Changes
 date: 2016-09-17 20:35:03 +0000
 tumblr_url: http://osunews.tumblr.com/post/150551685358/july-2016-ranking-charts-changes
+series: beatmap_spotlights
 ---
 
 It's been a year since we introduced the new evaluation system for the charts by letting four dedicated community members select the most noteworthy maps of a month which has proven to have its pros and cons. But at the end we decided to change the way of selection once again to a more staff driven system, lead by the Quality Assurance Team alongside chosen community members who are interested in volunteering for these kind of tasks.
@@ -14,7 +15,6 @@ With thanking everyone who have put efforts in chosing the past charts, we are n
 ## Ranking Charts Creation
 
 The charts have previously been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
-
 
 ### osu!
 

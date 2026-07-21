@@ -2,6 +2,7 @@
 layout: post
 title: "New Featured Artist: Ricky Montgomery"
 date: 2019-11-06 20:00:00 +0000
+series: featured_artists
 ---
 
 We're proud to welcome **Ricky Montgomery** aboard as our latest Featured Artist! 10 new tracks from his twin hit releases, *Caught on the Moon EP* and *Montgomery Ricky* — check it out!
@@ -32,13 +33,11 @@ But as always, don't take our word for it, give these a listen:
     <source src="https://assets.ppy.sh/artists/54/previews/1547.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Line Without A Hook
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/54/previews/1552.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Snow
 

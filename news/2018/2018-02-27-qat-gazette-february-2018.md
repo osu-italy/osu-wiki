@@ -2,6 +2,7 @@
 layout: post
 title: "The QAT Gazette: February 2018"
 date: 2018-02-27 09:00:00 +0000
+series: qat_gazette
 ---
 
 What's been happening in the Beatmap Nominators and Quality Assurance Team, you ask? Mapping successes, exciting current developments and many new team additions all round, that's what! Read on to find out all the details!
@@ -18,7 +19,7 @@ So with that said, let's crack on!
 
 Sometimes it can be a drag getting back into the working rhythm, but it seems as though our Beatmap Nominator team didn't even miss a step settling into the new year. Instead, January 2018 saw the **highest count of ranked difficulties and mapsets of any single month in osu! history** - an impressive feat, as well as a promising start for the year I hope! You can find a breakdown of these impressive statistics courtesy of [osu!daily](https://osudaily.net/various.php) if you're interested.
 
-That said, we're always striving towards future growth and even more impressive accomplishments, so here's a little rundown on recent implementations and future plans for the Beatmap Nominators.  
+That said, we're always striving towards future growth and even more impressive accomplishments, so here's a little rundown on recent implementations and future plans for the Beatmap Nominators.
 
 ### New Beatmap Nominator promotions
 
